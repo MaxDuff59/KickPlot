@@ -18,8 +18,6 @@ def main():
         df = pd.read_csv(uploaded_file)
         joueurs_racing = list(df[df.Row == "17.JAP Racing 92"].Joueurs.unique())
 
-        st.text(joueurs_racing)
-
         player_inputs = {}
     
         for player in joueurs_racing:
@@ -32,7 +30,7 @@ def main():
 
         if st.button("Process Images"):
 
-            img = fonction.kicking_plot(df)
+            img = fonction.kicking_plot(df,player_inputs)
             st.image(img)
 
             img = fonction.kicking_plot_adv(df)
