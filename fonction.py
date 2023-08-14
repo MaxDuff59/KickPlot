@@ -87,16 +87,14 @@ def kicking_plot(dataset):
             plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
             color = dico_color[dataset['Type de jeu au pied'][i]])
 
-            if team == 'Racing 92':
+            joueurs = dataset['Joueurs'][i]
+            print(joueurs)
+            joueurs = joueurs[joueurs.index(' ')+1] + '.' + joueurs[0]  
+            
+            if joueurs == 'G.L':
+                joueurs = "N.LG"
 
-                joueurs = dataset['Joueurs'][i]
-                print(joueurs)
-                joueurs = joueurs[joueurs.index(' ')+1] + '.' + joueurs[0]  
-                
-                if joueurs == 'G.L':
-                    joueurs = "N.LG"
-
-                plt.annotate(joueurs,(dataset['New X'][i]-2,dataset['New Y'][i]))
+            plt.annotate(joueurs,(dataset['New X'][i]-2,dataset['New Y'][i]))
         
     plt.title('Kicking Game - ' + dataset['Timeline'][i] + '\n\n' + team + '\n',fontweight='semibold',fontsize=11)
     
@@ -138,17 +136,6 @@ def kicking_plot_adv(dataset):
 
             plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
             color = dico_color[dataset['Type de jeu au pied'][i]])
-
-            if team == 'Racing 92':
-
-                joueurs = dataset['Joueurs'][i]
-                print(joueurs)
-                joueurs = joueurs[joueurs.index(' ')+1] + '.' + joueurs[0]  
-                
-                if joueurs == 'G.L':
-                    joueurs = "N.LG"
-
-                plt.annotate(joueurs,(dataset['New X'][i]-2,dataset['New Y'][i]))
         
     plt.title('Kicking Game - ' + dataset['Timeline'][i] + '\n\n' + team + '\n',fontweight='semibold',fontsize=11)
     
