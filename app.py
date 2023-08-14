@@ -15,8 +15,6 @@ def main():
 
         st.write("File Uploaded Successfully!")
         
-        adversaire = st.text_input("Nom de l'adversaire", ' ')
-
         if st.button("Process Images"):
             
             df = pd.read_csv(uploaded_file)
