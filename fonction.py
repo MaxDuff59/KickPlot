@@ -55,10 +55,62 @@ def draw_pitch_horizontal():
 
 dico_color = {'AIGLE':'black','AIGLE 10':'black','AIGLE 15':'black','AIGLE 9':'black','COLOMBE':'mediumvioletred','PIE':'lightsalmon','POULE':'tan','TOUCHE':'cadetblue','PHENIX':'seagreen','GAP':'red'}
 
-def kicking_plot(dataset,team):
+def kicking_plot(dataset):
 
     dataset = dataset[dataset.Row.str.contains('17.')].reset_index(drop=True)
-    dataset = dataset[dataset.Row.str.contains(team)].reset_index(drop=True)
+    dataset = dataset[dataset.Row.str.contains("Racing 92")].reset_index(drop=True)
+
+    dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
+    dataset['Distance Y'] = (dataset['Y jap fin'] - dataset['Y'])*(-1)
+
+    dataset[['New X','New Y']] = ''
+
+    for i in range(len(dataset)):
+
+        dataset['New X'][i] = dataset.X[i] + 10 
+        dataset['New Y'][i] = 70 - dataset.Y[i] 
+
+    (fig,ax) = draw_pitch_horizontal() 
+    plt.ylim(-2, 72)
+    plt.xlim(-2, 120.4)
+    plt.axis('off')
+
+    print(dataset)
+
+    for i in range(len(dataset)):
+
+        if dataset['Type de jeu au pied'][i] in ['PENALTOUCHE',"COUP D'ENVOI",'PENALTOUCHE, PENALTOUCHE','RENVOI EN BUT','PENALTOUCHE, GAP']:
+            pass
+
+        else:
+
+            plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
+            color = dico_color[dataset['Type de jeu au pied'][i]])
+
+            if team == 'Racing 92':
+
+                joueurs = dataset['Joueurs'][i]
+                print(joueurs)
+                joueurs = joueurs[joueurs.index(' ')+1] + '.' + joueurs[0]  
+                
+                if joueurs == 'G.L':
+                    joueurs = "N.LG"
+
+                plt.annotate(joueurs,(dataset['New X'][i]-2,dataset['New Y'][i]))
+        
+    plt.title('Kicking Game - ' + dataset['Timeline'][i] + '\n\n' + team + '\n',fontweight='semibold',fontsize=11)
+    
+    buf = io.BytesIO()
+    fig.savefig(buf)
+    buf.seek(0)
+    img = Image.open(buf)
+
+    return img
+
+def kicking_plot_adv(dataset):
+
+    dataset = dataset[dataset.Row.str.contains('17.')].reset_index(drop=True)
+    dataset = dataset[dataset.Row.str.contains("Racing 92") == False].reset_index(drop=True)
 
     dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
     dataset['Distance Y'] = (dataset['Y jap fin'] - dataset['Y'])*(-1)
