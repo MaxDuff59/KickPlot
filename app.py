@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 
 def main():
     
-    st.title("Damien Je t'aime ❤️")
+    st.title("Racing 92 - Graphiques KICKING 🔵⚪️")
     
     uploaded_file = st.file_uploader("Importer le fichier CSV", type=["csv"])
     
