@@ -15,9 +15,12 @@ def main():
 
         st.write("File Uploaded Successfully!")
         
+        df = pd.read_csv(uploaded_file)
+        joueurs_racing = list(df[df.Row == "17.JAP Racing 92"].Joueurs.unique())
+
+        st.text(joueurs_racing)
+        
         if st.button("Process Images"):
-            
-            df = pd.read_csv(uploaded_file)
 
             img = fonction.kicking_plot(df)
             st.image(img)
