@@ -19,7 +19,17 @@ def main():
         joueurs_racing = list(df[df.Row == "17.JAP Racing 92"].Joueurs.unique())
 
         st.text(joueurs_racing)
+
+        player_inputs = {}
+    
+        for player in joueurs_racing:
+
+            player_input = st.text_input(f"N° de {player} : ")
+            player_inputs[player] = player_input
         
+        st.write("Player Inputs:")
+        st.write(player_inputs)
+
         if st.button("Process Images"):
 
             img = fonction.kicking_plot(df)
