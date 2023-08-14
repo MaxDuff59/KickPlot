@@ -55,7 +55,7 @@ def draw_pitch_horizontal():
 
 dico_color = {'AIGLE':'black','AIGLE 10':'black','AIGLE 15':'black','AIGLE 9':'black','COLOMBE':'mediumvioletred','PIE':'lightsalmon','POULE':'tan','TOUCHE':'cadetblue','PHENIX':'seagreen','GAP':'red'}
 
-def kicking_plot(dataset):
+def kicking_plot(dataset,dico_player):
 
     dataset = dataset[dataset.Row.str.contains('17.')].reset_index(drop=True)
     dataset = dataset[dataset.Row.str.contains("Racing 92")].reset_index(drop=True)
@@ -88,13 +88,12 @@ def kicking_plot(dataset):
             color = dico_color[dataset['Type de jeu au pied'][i]])
 
             joueurs = dataset['Joueurs'][i]
-            print(joueurs)
-            joueurs = joueurs[joueurs.index(' ')+1] + '.' + joueurs[0]  
+            initiales = joueurs[joueurs.index(' ')+1] + '.' + joueurs[0]  
             
-            if joueurs == 'G.L':
-                joueurs = "N.LG"
+            if initiales == 'G.L':
+                initiales = "N.LG"
 
-            plt.annotate(joueurs,(dataset['New X'][i]-2,dataset['New Y'][i]))
+            plt.annotate(str(dico_player[joueurs]),(dataset['New X'][i]-2,dataset['New Y'][i]))
         
     plt.title('Kicking Game - ' + dataset['Timeline'][i] + '\n\n' + "Racing 92" + '\n',fontweight='semibold',fontsize=11)
     
