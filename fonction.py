@@ -83,10 +83,13 @@ def kicking_plot(dataset,dico_player):
             pass
 
         else:
-
-            plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
-            color = dico_color[dataset['Type de jeu au pied'][i]])
-
+            if dataset['Type de jeu au pied'][i] in list(dico_color.keys()):
+                plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
+                color = dico_color[dataset['Type de jeu au pied'][i]])
+            else:
+                plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
+                color = 'grey')
+                
             joueurs = dataset['Joueurs'][i]
             initiales = joueurs[joueurs.index(' ')+1] + '.' + joueurs[0]  
             
@@ -132,9 +135,13 @@ def kicking_plot_adv(dataset):
             pass
 
         else:
-
-            plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
-            color = dico_color[dataset['Type de jeu au pied'][i]])
+            
+            if dataset['Type de jeu au pied'][i] in list(dico_color.keys()):
+                plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
+                color = dico_color[dataset['Type de jeu au pied'][i]])
+            else:
+                plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
+                color = 'grey')
         
     plt.title('Kicking Game - ' + dataset['Timeline'][i] + '\n\n' + "Adversaire" + '\n',fontweight='semibold',fontsize=11)
     
