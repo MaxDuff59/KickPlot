@@ -91,10 +91,10 @@ def kicking_plot(dataset,dico_player):
                 color = 'grey')
                 
             joueurs = dataset['Joueurs'][i]
-            initiales = joueurs[joueurs.index(' ')+1] + '.' + joueurs[0]  
+            #initiales = joueurs[joueurs.index(' ')+1] + '.' + joueurs[0]  
             
-            if initiales == 'G.L':
-                initiales = "N.LG"
+            #if initiales == 'G.L':
+            #    initiales = "N.LG"
 
             plt.annotate(str(dico_player[joueurs]),(dataset['New X'][i]-2,dataset['New Y'][i]))
         
