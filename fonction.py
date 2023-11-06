@@ -1,3 +1,9 @@
+from bs4 import BeautifulSoup
+import pandas as pd
+import numpy as np
+import requests
+import warnings
+import re
 
 import matplotlib.pyplot as plt
 
@@ -151,4 +157,180 @@ def kicking_plot_adv(dataset):
     img = Image.open(buf)
 
     return img
+
+def df_from_request(joueur,liste_url):
+
+    df_global = pd.DataFrame()
+    
+    if type(liste_url) == str:
+        
+        url = liste_url
+        numbers = re.findall('\d+', url)[0]
+        url_international = f'https://www.itsrugby.fr/joueur-internationale-{numbers}.html'
+        
+        liste_url = [liste_url,url_international]
+        
+    for url in liste_url:
+        
+        response = requests.get(url)
+        data = response.content
+
+        soup = BeautifulSoup(data, 'lxml')
+
+        div_element = soup.find('div', class_='table-responsive-md')
+
+        if div_element:
+            tbody = div_element.find('tbody')
+            if tbody:
+
+                df = pd.DataFrame()
+
+                for tr in tbody.find_all('tr'):
+
+                    liste_td = []
+
+                    for td in tr.find_all('td'):
+
+                        if td.text != '' : 
+
+                            text = td.text.replace('\n\t\t\xa0\xa0','')
+                            liste_td.append(text)  
+
+                    if len(liste_td) == 13:
+
+                        df1 = pd.DataFrame(liste_td).T
+                        df = pd.concat([df,df1])
+
+                    elif len(liste_td) == 11:
+
+                        liste_td = ['',''] + liste_td
+                        df1 = pd.DataFrame(liste_td).T
+                        df = pd.concat([df,df1])
+            else:
+                print("No tbody found in the specified div.")
+        else:
+            print("No div with class 'table-responsive-md' found.")
+            
+        if len(df) > 0:
+
+            df.columns = ['Saison','Club','Compétition','Pts','J.','Tit.','E.','P.','Dp.','Tr.','CJ','CR','Min.']
+
+            df = df.replace('',np.nan).reset_index(drop=True)
+
+            df['Saison'], df['Club'] = df['Saison'].ffill(),  df['Club'].ffill()
+
+            df['Joueur'] = joueur
+
+            df = df[['Joueur'] + list(df.columns)[:-1]]
+
+            if 'internationale' in url:
+                df.insert(4,'Club/Nation','Nation')
+            else:
+                df.insert(4,'Club/Nation','Club')
+
+            df = df[df['Compétition'].str.contains('7') == False]
+            
+            df_global = pd.concat([df_global,df]).reset_index(drop=True)
+        
+    print(f'Données de {joueur} téléchargés.')
+    
+    df_global = df_global.replace('-',0)
+            
+    return df_global
+
+
+def df_exp_compo(url):
+
+    response = requests.get(url)
+    data = response.content
+
+    soup = BeautifulSoup(data, 'lxml')
+
+    elements = soup.find_all(class_='col-5 text-center itsfontsize')
+
+    liste_equipe = []
+
+    for element in elements:
+
+        text = element.get_text(strip=True)  
+        if text : liste_equipe.append(text)
+
+    table = soup.find_all('div',class_='table-responsive-md')
+    compos = table[0]
+
+    compos = compos.find_all('tr')
+
+    hometeam, hometeam_ref, awayteam, awayteam_ref = [], [], [], []
+
+    for elt in compos:
+
+        player = elt.find('div')
+
+        if player:
+
+            players = elt.find_all('a')
+
+            for i in range(len(players)):
+
+                player = players[i]
+                player_name = player.text
+                player_href = 'https://www.itsrugby.fr/'+ player['href']
+
+                if i == 0 : 
+
+                    hometeam.append(player_name)
+                    hometeam_ref.append(player_href)
+
+                if i == 1 :
+
+                    awayteam.append(player_name)
+                    awayteam_ref.append(player_href)
+
+    df_compo = pd.DataFrame({liste_equipe[0]:hometeam,liste_equipe[0]+'_Href':hometeam_ref,liste_equipe[1]:awayteam,liste_equipe[1]+'_Href':awayteam_ref})
+
+    df_experience_match = pd.DataFrame()
+
+    for equipe in liste_equipe:
+
+        df_equipe = df_compo[[equipe,equipe+'_Href']].reset_index(drop=True)
+
+        for i in range(len(df_equipe)):
+
+            player, href = df_equipe[equipe][i], df_equipe[equipe+'_Href'][i]
+
+            df_player = df_from_request(player,href)
+
+            df_player['Equipe'] = equipe
+
+            df_experience_match = pd.concat([df_experience_match,df_player]).reset_index(drop=True)
+        
+    for col in ['Pts','J.','Tit.','E.','P.','Dp.','Tr.','CJ','CR','Min.']:
+    
+        df_experience_match[col] = df_experience_match[col].astype('int')
+    
+    matchs_pro = df_experience_match.groupby('Equipe').sum()[['J.','Tit.']].T
+    matchs_pro.index = ['Matchs Pros','Titularisations Pros']
+
+    sélections_internationales = df_experience_match[df_experience_match['Club/Nation'] == 'Nation'].groupby('Equipe').sum()[['J.']].T
+    sélections_internationales.index = ['Sélections internationales']
+
+    matchs_top14 =  df_experience_match[df_experience_match['Compétition'] == 'Top 14'].groupby('Equipe').sum()[['J.']].T
+    matchs_top14.index = ['Matchs Top 14']
+
+    matchs_club = df_experience_match[df_experience_match['Club'] == df_experience_match['Equipe']].groupby('Equipe').sum()[['J.']].T
+    matchs_club.index = ['Matchs au sein du club']
+
+    df_summary = pd.concat([matchs_pro,sélections_internationales,matchs_top14,matchs_club])[liste_equipe]
+
+    return df_experience_match, df_summary   
+
+
+
+
+
+
+
+
+
+
 
