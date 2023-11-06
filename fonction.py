@@ -4,6 +4,8 @@ import numpy as np
 import requests
 import warnings
 import re
+from io import BytesIO
+import zipfile
 
 import matplotlib.pyplot as plt
 
@@ -331,9 +333,6 @@ def to_excel(df):
     writer.save()
     processed_data = output.getvalue()
     return processed_data
-
-
-
 
 
 
