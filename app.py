@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 
 def main():
 
-    tab1, tab2 = st.tabs(["Kicking Graphs", "Dog", "Owl"])
+    tab1, tab2 = st.tabs(["Kicking Graphs", "Experience Collective"])
 
     with tab1:
         
@@ -41,32 +41,26 @@ def main():
                 st.image(img)
 
     with tab2:
-
         st.title('Collective Experience')
 
         url = st.text_input('URL du match : ', '')
 
         if st.button('Téléchargement des données'):
-            
+            # Only run this when the button is clicked
             df_experience_match, df_summary = fonction.df_exp_compo(url)
 
             st.write("Experience Individuelle:")
             st.dataframe(df_experience_match)
             st.write("Experience Equipe:")
             st.dataframe(df_summary)
-        
-            df_experience_match_excel = to_excel(df_experience_match)
-            df_summary_excel = to_excel(df_summary)
-        
-            st.download_button(label="Download Data as Excel (Experience Match)",
-                               data=df_experience_match_excel,
-                               file_name="experience_match.xlsx",
-                               mime="application/vnd.ms-excel")
-        
-            st.download_button(label="Download Data as Excel (Summary)",
-                               data=df_summary_excel,
-                               file_name="summary.xlsx",
-                               mime="application/vnd.ms-excel")
+
+            df_experience_match_excel = fonction.to_excel(df_experience_match)
+
+            st.download_button(label="Download Data as Excel (Experience Individuelle)",
+                            data=df_experience_match_excel,
+                            file_name="experience_match.xlsx",
+                            mime="application/vnd.ms-excel")
+
 
 if __name__ == "__main__":
     main()
