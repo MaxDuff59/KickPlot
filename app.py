@@ -7,13 +7,13 @@ st.set_page_config(layout="wide")
 
 def main():
 
-    tab1, tab2 = st.tabs(["Kicking Graphs", "Experience Collective"])
+    tab1, tab2, tab3, tab4 = st.tabs(["Game Analysis Kicking","Player Analysis Kicking","Opponent Analysis Kicking","Experience Collective"])
 
     with tab1:
         
-        st.title("Racing 92 - Graphiques KICKING 🔵⚪️")
+        st.title("Game Analysis Kicking 🔵⚪️")
         
-        uploaded_file = st.file_uploader("Importer le fichier CSV", type=["csv"])
+        uploaded_file = st.file_uploader("Importer le fichier CSV", type=["csv"],key="file_uploader1")
         
         if uploaded_file is not None:
     
@@ -37,10 +37,57 @@ def main():
                 img = fonction.kicking_plot(df,player_inputs)
                 st.image(img)
     
-                img = fonction.kicking_plot_adv(df)
+                img = fonction.kicking_plot_adv(df,opta=False)
                 st.image(img)
 
     with tab2:
+
+        st.title("Player Analysis Kicking 🔵⚪️")
+        
+        uploaded_files = st.file_uploader("Importer le(s) fichier(s) CSV", type=["csv"], accept_multiple_files=True,key="file_uploader2")
+
+        if uploaded_files:
+
+            df = pd.concat((pd.read_csv(file) for file in uploaded_files))
+            st.write("File(s) Uploaded Successfully!")
+            
+            df_kicks = df[df.Row == "17.JAP Racing 92"].reset_index(drop=True)
+
+            list_player = st.multiselect("Choix du Joueur : ",[player for player in list(df_kicks.Joueurs.unique())])
+
+            st.text(list_player)
+
+            if st.button("Process Images"):
+    
+                df_players = df_kicks[df_kicks.Joueurs.isin(list_player)].reset_index(drop=True)
+
+                img = fonction.kicking_plot_players(df_players,list_player)
+                st.image(img)
+
+    with tab3:
+
+        st.title("Opponent Analysis Kicking 🔵⚪️")
+        
+        uploaded_opponent = st.file_uploader("Importer le(s) fichier(s) CSV", type=["csv"], accept_multiple_files=True, key="file_uploader3")
+
+        if uploaded_opponent:
+
+            df = pd.concat((pd.read_csv(file) for file in uploaded_opponent))
+            st.write("File(s) Uploaded Successfully!")
+
+            teams = [value.replace(" Restart","") for value in list(df[(df.Row.str.contains('Restart'))&(df.Row.str.contains('Reception') == False)].reset_index(drop=True).Row.unique())]
+            
+            team = st.selectbox("Choix de l'équipe : ",teams)
+            team_kick = team + " Kicks"
+
+            if st.button("Process Images"):
+    
+                df_team = df[df.Row == team_kick].reset_index(drop=True)
+
+                img = fonction.kicking_plot_adv(df_team,opta=True)
+                st.image(img)
+
+    with tab4:
         st.title('Collective Experience')
 
         url = st.text_input('URL du match : ', '')
