@@ -115,13 +115,61 @@ def kicking_plot(dataset,dico_player):
 
     return img
 
-def kicking_plot_adv(dataset):
-
-    dataset = dataset[dataset.Row.str.contains('17.JAP')].reset_index(drop=True)
-    dataset = dataset[dataset.Row.str.contains("Racing 92") == False].reset_index(drop=True)
+def kicking_plot_players(dataset,list_player):
 
     dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
     dataset['Distance Y'] = (dataset['Y jap fin'] - dataset['Y'])*(-1)
+
+    dataset[['New X','New Y']] = ''
+
+    for i in range(len(dataset)):
+
+        dataset['New X'][i] = dataset.X[i] + 10 
+        dataset['New Y'][i] = 70 - dataset.Y[i] 
+
+    (fig,ax) = draw_pitch_horizontal() 
+    plt.ylim(-2, 72)
+    plt.xlim(-2, 120.4)
+    plt.axis('off')
+
+    print(dataset)
+
+    for i in range(len(dataset)):
+
+        if dataset['Type de jeu au pied'][i] in ['PENALTOUCHE',"COUP D'ENVOI",'PENALTOUCHE, PENALTOUCHE','RENVOI EN BUT','PENALTOUCHE, GAP']:
+            pass
+
+        else:
+            if dataset['Type de jeu au pied'][i] in list(dico_color.keys()):
+                plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
+                color = dico_color[dataset['Type de jeu au pied'][i]])
+            else:
+                plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
+                color = 'grey')
+                        
+    plt.title('Kicking Game - ' + str(list_player),fontweight='semibold',fontsize=11)
+    
+    buf = io.BytesIO()
+    fig.savefig(buf)
+    buf.seek(0)
+    img = Image.open(buf)
+
+    return img
+
+def kicking_plot_adv(dataset,opta):
+
+    if opta == False:
+        
+        dataset = dataset[dataset.Row.str.contains('17.JAP')].reset_index(drop=True)
+        dataset = dataset[dataset.Row.str.contains("Racing 92") == False].reset_index(drop=True)
+
+        dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
+        dataset['Distance Y'] = (dataset['Y jap fin'] - dataset['Y'])*(-1)
+
+    else:
+
+        dataset['Distance X'] = dataset['X End'] - dataset['X']
+        dataset['Distance Y'] = (dataset['Y End'] - dataset['Y'])*(-1)
 
     dataset[['New X','New Y']] = ''
 
@@ -151,8 +199,12 @@ def kicking_plot_adv(dataset):
                 plt.arrow(dataset['New X'][i],dataset['New Y'][i],dataset['Distance X'][i],dataset['Distance Y'][i],head_width = 1,width = 0.05,
                 color = 'grey')
         
-    plt.title('Kicking Game - ' + dataset['Timeline'][i] + '\n\n' + "Adversaire" + '\n',fontweight='semibold',fontsize=11)
-    
+    if opta == False:
+        plt.title('Kicking Game - ' + dataset['Timeline'][i] + '\n\n' + "Adversaire" + '\n',fontweight='semibold',fontsize=11)
+    else:
+
+        plt.title('Kicking Game - ' + list(dataset['Row'].unique())[0] + '\n',fontweight='semibold',fontsize=11)
+
     buf = io.BytesIO()
     fig.savefig(buf)
     buf.seek(0)
@@ -333,11 +385,3 @@ def to_excel(df):
     writer.save()
     processed_data = output.getvalue()
     return processed_data
-
-
-
-
-
-
-
-
