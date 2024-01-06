@@ -65,8 +65,8 @@ dico_color = {'AIGLE':'black','AIGLE 10':'black','AIGLE 15':'black','AIGLE 9':'b
 
 def kicking_plot(dataset,dico_player):
 
-    dataset = dataset[dataset.Row.str.contains('17.JAP')].reset_index(drop=True)
-    dataset = dataset[dataset.Row.str.contains("Racing 92")].reset_index(drop=True)
+    dataset = dataset[dataset.Row.str.contains('17.JAP',na=False)].reset_index(drop=True)
+    dataset = dataset[dataset.Row.str.contains("Racing 92",na=False)].reset_index(drop=True)
 
     dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
     dataset['Distance Y'] = (dataset['Y jap fin'] - dataset['Y'])*(-1)
@@ -160,8 +160,8 @@ def kicking_plot_adv(dataset,opta):
 
     if opta == False:
         
-        dataset = dataset[dataset.Row.str.contains('17.JAP')].reset_index(drop=True)
-        dataset = dataset[dataset.Row.str.contains("Racing 92") == False].reset_index(drop=True)
+        dataset = dataset[dataset.Row.str.contains('17.JAP',na=False)].reset_index(drop=True)
+        dataset = dataset[dataset.Row.str.contains("Racing 92",na=False) == False].reset_index(drop=True)
 
         dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
         dataset['Distance Y'] = (dataset['Y jap fin'] - dataset['Y'])*(-1)
