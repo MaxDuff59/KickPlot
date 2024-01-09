@@ -117,7 +117,7 @@ def kicking_plot(dataset,dico_player):
 
 def kicking_plot_players(dataset,list_player,liste_jap):
 
-    dataset = dataset[dataset['Type de jeu au pied'].isin([liste_jap])].reset_index(drop=True)
+    dataset = dataset[dataset['Type de jeu au pied'].isin(liste_jap)].reset_index(drop=True)
     
     dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
     dataset['Distance Y'] = (dataset['Y jap fin'] - dataset['Y'])*(-1)
