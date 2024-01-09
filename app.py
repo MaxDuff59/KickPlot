@@ -57,11 +57,15 @@ def main():
 
             st.text(list_player)
 
+            kick_types = st.multiselect("Choix du Jeu au Pied : ",[kick for kick in list(df_kicks['Type de jeu au pied'].unique())])
+
+            st.text(kick_types)
+
             if st.button("Process Images"):
     
                 df_players = df_kicks[df_kicks.Joueurs.isin(list_player)].reset_index(drop=True)
 
-                img = fonction.kicking_plot_players(df_players,list_player)
+                img = fonction.kicking_plot_players(df_players,list_player,kick_types)
                 st.image(img)
 
     with tab3:
