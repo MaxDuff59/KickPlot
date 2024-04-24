@@ -61,6 +61,37 @@ def draw_pitch_horizontal():
 
     return fig,ax
 
+def draw_pitch_horizontal_v2():
+
+    fig=plt.figure() 
+    fig.set_size_inches(10, 7)
+    ax=fig.add_subplot(1,1,1)
+    
+    Pitch = Rectangle([0,0], width = 120, height = 70, fill = False)
+    essai1 = Rectangle([0,0], width = 10, height = 70, fill = False, color='gray',hatch='/')
+    essai2 = Rectangle([110,0], width = 1070, height = 70, fill = False, color='gray',hatch='/')
+    en_but1 = ConnectionPatch([10,0], [10,80], "data", "data")
+    en_but2 = ConnectionPatch([110,0], [110,70], "data", "data")
+    cinq_metres1 = ConnectionPatch([15,0], [15,70], "data", "data",ls='--',color='gray')
+    cinq_metres2 = ConnectionPatch([105,0], [105,70], "data", "data",ls='--',color='gray')
+    midline = ConnectionPatch([60,0], [60,70], "data", "data")
+    vingtdeux_metres1 = ConnectionPatch([32,0], [32,70], "data", "data")
+    vingtdeux_metres2 = ConnectionPatch([88,0], [88,70], "data", "data")
+    dix_metres1 = ConnectionPatch([50,0], [50,70], "data", "data",ls='--',color='gray')
+    dix_metres2 = ConnectionPatch([70,0], [70,70], "data", "data",ls='--',color='gray')
+    centreCircle = plt.Circle((60,35),0.5,color="black", fill = True)
+    poteau1a = plt.Circle((10,32.2),0.5,color="black", fill = True)
+    poteau1b = plt.Circle((10,37.8),0.5,color="black", fill = True)
+    poteau2a = plt.Circle((110,32.2),0.5,color="black", fill = True)
+    poteau2b = plt.Circle((110,37.8),0.5,color="black", fill = True)
+
+    element = [essai1, essai2, Pitch, en_but1, en_but2, cinq_metres1, cinq_metres2, midline, vingtdeux_metres1, 
+    vingtdeux_metres2,centreCircle,poteau1a,poteau1b,poteau2a,poteau2b,dix_metres1,dix_metres2]
+    for i in element:
+        ax.add_patch(i)
+
+    return fig,ax
+
 dico_color = {'AIGLE':'black','AIGLE 10':'black','AIGLE 15':'black','AIGLE 9':'black','COLOMBE':'mediumvioletred','PIE':'lightsalmon','POULE':'tan','TOUCHE':'cadetblue','PHENIX':'seagreen','GAP':'red'}
 
 def kicking_plot(dataset,dico_player):
@@ -383,3 +414,4 @@ def to_excel(df):
     writer.save()
     processed_data = output.getvalue()
     return processed_data
+
