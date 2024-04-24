@@ -2,12 +2,16 @@ import streamlit as st
 from io import BytesIO
 import pandas as pd
 import fonction
+import matplotlib.pyplot as plt
+import io
+from PIL import Image
+import numpy as np
 
 st.set_page_config(layout="wide")
 
 def main():
 
-    tab1, tab2, tab3, tab4 = st.tabs(["Game Analysis Kicking","Player Analysis Kicking","Opponent Analysis Kicking","Experience Collective"])
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(["Game Analysis Kicking","Player Analysis Kicking","Opponent Analysis Kicking","Experience Collective","Playmaker Mapping"])
 
     with tab1:
         
@@ -112,6 +116,41 @@ def main():
                             file_name="experience_match.xlsx",
                             mime="application/vnd.ms-excel")
 
+    with tab5:
+        st.title("Playmaker Mapping")
+
+        df_playmaker = pd.read_csv('df_playmaker.csv')
+
+        player_ = st.multiselect('Choix du Joueur :',[player for player in df_playmaker.player.unique()])
+
+        if st.button("Process Mapping"):
+
+                playmaker_nolann = df_playmaker[df_playmaker.player.isin(player_)].reset_index(drop=True)[['team','player','x_coord','y_coord','Actionresult']]
+                playmaker_nolann['ActionColor'] = np.select([playmaker_nolann.Actionresult.str.contains('Pass'),playmaker_nolann.Actionresult.str.contains('Kick'),playmaker_nolann.Actionresult.str.contains('Carry')],['lightblue','darkgreen','red'])
+                playmaker_nolann['x_coord_graph'] = playmaker_nolann['x_coord'].astype('int') + 10
+
+                action_types = playmaker_nolann['Actionresult'].unique()
+                    
+                for action_type in action_types:
+                    
+                    subset = playmaker_nolann[playmaker_nolann['Actionresult'] == action_type]
+                
+                    (fig, ax) = fonction.draw_pitch_horizontal_v2() 
+                    plt.ylim(-2, 72)
+                    plt.xlim(-2, 120.4)
+                    plt.axis('off')
+                    
+                    hb = ax.hexbin(subset['x_coord_graph'], subset['y_coord'], gridsize=10, cmap='Reds', mincnt=1)
+                    
+                    cb = fig.colorbar(hb, ax=ax)
+                    cb.set_label('Counts')
+                    plt.title(action_type.replace('Playmaker Option - ','') + ' - ' + player_[0],fontsize=14,fontweight='semibold')
+                    
+                    buf = io.BytesIO()
+                    fig.savefig(buf)
+                    buf.seek(0)
+                    img = Image.open(buf)
+                    st.image(img)
 
 if __name__ == "__main__":
     main()
