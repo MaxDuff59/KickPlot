@@ -131,7 +131,25 @@ def main():
                 playmaker_nolann['y_coord'] = playmaker_nolann['y_coord'].astype('int') 
 
                 action_types = playmaker_nolann['Actionresult'].unique()
-                    
+
+                (fig,ax) = draw_pitch_horizontal() 
+                plt.ylim(-2, 72)
+                plt.xlim(-2, 120.4)
+                plt.axis('off')
+                
+                for action_type in action_types:
+                    subset = playmaker_nolann[playmaker_nolann['Actionresult'] == action_type]
+                    ax.scatter(subset['x_coord_graph'], subset['y_coord'], color=subset['ActionColor'].iloc[0], label=action_type.replace('Playmaker Option - ',''))
+                
+                plt.legend(fancybox=True, framealpha=1, shadow=True, borderpad=1)
+                plt.title('Playmaking Options - ' + player,fontsize=14,fontweight='semibold')
+                
+                buf = io.BytesIO()
+                fig.savefig(buf)
+                buf.seek(0)
+                img = Image.open(buf)
+                st.image(img)
+            
                 for action_type in action_types:
                     
                     subset = playmaker_nolann[playmaker_nolann['Actionresult'] == action_type]
