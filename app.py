@@ -128,6 +128,7 @@ def main():
                 playmaker_nolann = df_playmaker[df_playmaker.player.isin(player_)].reset_index(drop=True)[['team','player','x_coord','y_coord','Actionresult']]
                 playmaker_nolann['ActionColor'] = np.select([playmaker_nolann.Actionresult.str.contains('Pass'),playmaker_nolann.Actionresult.str.contains('Kick'),playmaker_nolann.Actionresult.str.contains('Carry')],['lightblue','darkgreen','red'])
                 playmaker_nolann['x_coord_graph'] = playmaker_nolann['x_coord'].astype('int') + 10
+                playmaker_nolann['y_coord'] = playmaker_nolann['y_coord'].astype('int') 
 
                 action_types = playmaker_nolann['Actionresult'].unique()
                     
