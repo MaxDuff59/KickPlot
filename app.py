@@ -142,7 +142,7 @@ def main():
                     ax.scatter(subset['x_coord_graph'], subset['y_coord'], color=subset['ActionColor'].iloc[0], label=action_type.replace('Playmaker Option - ',''))
                 
                 plt.legend(fancybox=True, framealpha=1, shadow=True, borderpad=1)
-                plt.title('Playmaking Options - ' + player,fontsize=14,fontweight='semibold')
+                plt.title('Playmaking Options - ' + player_[0],fontsize=14,fontweight='semibold')
                 
                 buf = io.BytesIO()
                 fig.savefig(buf)
