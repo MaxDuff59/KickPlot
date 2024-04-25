@@ -132,7 +132,7 @@ def main():
 
                 action_types = playmaker_nolann['Actionresult'].unique()
 
-                (fig,ax) = draw_pitch_horizontal() 
+                (fig,ax) = fonction.draw_pitch_horizontal_v2() 
                 plt.ylim(-2, 72)
                 plt.xlim(-2, 120.4)
                 plt.axis('off')
