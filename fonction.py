@@ -99,6 +99,7 @@ def kicking_plot(dataset,dico_player):
     dataset = dataset[dataset.Row.str.contains('17.JAP',na=False)].reset_index(drop=True)
     dataset = dataset[dataset.Row.str.contains("Racing 92",na=False)].reset_index(drop=True)
 
+    dataset['X'], dataset['Y'] = dataset['X'].astype('float'), dataset['Y'].astype('float')
     dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
     dataset['Distance Y'] = (dataset['Y jap fin'] - dataset['Y'])*(-1)
 
@@ -149,7 +150,8 @@ def kicking_plot(dataset,dico_player):
 def kicking_plot_players(dataset,list_player,liste_jap):
 
     dataset = dataset[dataset['Type de jeu au pied'].isin(liste_jap)].reset_index(drop=True)
-    
+    dataset['X'], dataset['Y'] = dataset['X'].astype('float'), dataset['Y'].astype('float')
+
     dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
     dataset['Distance Y'] = (dataset['Y jap fin'] - dataset['Y'])*(-1)
 
@@ -191,12 +193,14 @@ def kicking_plot_adv(dataset,opta):
         
         dataset = dataset[dataset.Row.str.contains('17.JAP',na=False)].reset_index(drop=True)
         dataset = dataset[dataset.Row.str.contains("Racing 92",na=False) == False].reset_index(drop=True)
+        dataset['X'], dataset['Y'] = dataset['X'].astype('float'), dataset['Y'].astype('float')
 
         dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
         dataset['Distance Y'] = (dataset['Y jap fin'] - dataset['Y'])*(-1)
 
     else:
 
+        dataset['X'], dataset['Y'] = dataset['X'].astype('float'), dataset['Y'].astype('float')
         dataset['Distance X'] = dataset['X End'] - dataset['X']
         dataset['Distance Y'] = (dataset['Y End'] - dataset['Y'])*(-1)
 
