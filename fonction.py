@@ -487,9 +487,10 @@ def function_points_flow(df):
 def gametime_graph1(df):
 
     df['GameTime'] = df['GameTime'].astype('string')
-    df['GameTime'] = pd.to_timedelta(df['GameTime'])
-    df.loc[df['Period'] == 2, 'GameTime'] = df['GameTime'] + pd.to_timedelta('40 minutes')
-    df['GameTime'] = round(df['GameTime'].dt.total_seconds() / 60,2)
+    df['Minutes'], df['Secondes'] = df['GameTime'].str[3:5].fillna('0'), df['GameTime'].str[6:].fillna('0')
+    df['Minutes'], df['Secondes'] = df['Minutes'].astype('int'), df['Secondes'].astype('int') /60
+    df.loc[df['Period'] == 2, 'Minutes'] = df['Minutes'] + 40
+    df['GameTime'] = df['Minutes'] + df['Secondes']
 
     df_match = function_df_match(df)
 
@@ -547,9 +548,10 @@ def gametime_graph1(df):
 def gametime_graph2(df):
 
     df['GameTime'] = df['GameTime'].astype('string')
-    df['GameTime'] = pd.to_timedelta(df['GameTime'])
-    df.loc[df['Period'] == 2, 'GameTime'] = df['GameTime'] + pd.to_timedelta('40 minutes')
-    df['GameTime'] = round(df['GameTime'].dt.total_seconds() / 60,2)
+    df['Minutes'], df['Secondes'] = df['GameTime'].str[3:5].fillna('0'), df['GameTime'].str[6:].fillna('0')
+    df['Minutes'], df['Secondes'] = df['Minutes'].astype('int'), df['Secondes'].astype('int') /60
+    df.loc[df['Period'] == 2, 'Minutes'] = df['Minutes'] + 40
+    df['GameTime'] = df['Minutes'] + df['Secondes']
 
     df_match = function_df_match(df)
 
