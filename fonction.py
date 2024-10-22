@@ -488,7 +488,8 @@ def gametime_graph1(df):
 
     df['GameTime'] = df['GameTime'].astype('string')
     df['Minutes'], df['Secondes'] = df['GameTime'].str[3:5].fillna('0'), df['GameTime'].str[6:].fillna('0')
-    df['Minutes'], df['Secondes'] = df['Minutes'].astype('int'), df['Secondes'].astype('int') /60
+    df['Minutes'] = pd.to_numeric(df['Minutes'], errors='coerce').fillna(0).astype(int)
+    df['Secondes'] = pd.to_numeric(df['Secondes'], errors='coerce').fillna(0).astype(float) / 60
     df.loc[df['Period'] == 2, 'Minutes'] = df['Minutes'] + 40
     df['GameTime'] = df['Minutes'] + df['Secondes']
 
@@ -549,7 +550,8 @@ def gametime_graph2(df):
 
     df['GameTime'] = df['GameTime'].astype('string')
     df['Minutes'], df['Secondes'] = df['GameTime'].str[3:5].fillna('0'), df['GameTime'].str[6:].fillna('0')
-    df['Minutes'], df['Secondes'] = df['Minutes'].astype('int'), df['Secondes'].astype('int') /60
+    df['Minutes'] = pd.to_numeric(df['Minutes'], errors='coerce').fillna(0).astype(int)
+    df['Secondes'] = pd.to_numeric(df['Secondes'], errors='coerce').fillna(0).astype(float) / 60
     df.loc[df['Period'] == 2, 'Minutes'] = df['Minutes'] + 40
     df['GameTime'] = df['Minutes'] + df['Secondes']
 
