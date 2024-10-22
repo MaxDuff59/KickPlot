@@ -46,6 +46,14 @@ def main():
                 img = fonction.kicking_plot_adv(df,opta=False)
                 st.image(img)
 
+                if check:
+
+                    img = fonction.gametime_graph1(df)
+                    st.image(img)
+                    
+                    img = fonction.gametime_graph2(df)
+                    st.image(img)
+
     with tab2:
 
         st.title("Player Analysis Kicking 🔵⚪️")
