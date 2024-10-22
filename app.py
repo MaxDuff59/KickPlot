@@ -48,10 +48,12 @@ def main():
 
                 if check:
 
-                    img = fonction.gametime_graph1(df)
+                    df1 = df.copy()
+                    img = fonction.gametime_graph1(df1)
                     st.image(img)
-                    
-                    img = fonction.gametime_graph2(df)
+
+                    df2 = df.copy()
+                    img = fonction.gametime_graph2(df2)
                     st.image(img)
 
     with tab2:
