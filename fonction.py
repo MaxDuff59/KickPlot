@@ -581,10 +581,10 @@ def gametime_graph2(df):
     ax.set_title('\n' + title,fontsize=8,fontweight='semibold')
     ax.set_yticks([])
     
-    ax.gca().spines['left'].set_visible(False)
-    ax.gca().spines['right'].set_visible(False)
-    ax.gca().spines['top'].set_visible(False)
-    ax.gca().spines['bottom'].set_visible(False)
+    ax.spines['left'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.spines['top'].set_visible(False)
+    ax.spines['bottom'].set_visible(False)
 
     buf = io.BytesIO()
     fig.savefig(buf)  # Save the figure to the buffer
