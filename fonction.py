@@ -419,3 +419,182 @@ def to_excel(df):
     processed_data = output.getvalue()
     return processed_data
 
+def rearrange_name(name):
+    parts = name.split()  
+    if len(parts) > 1:
+        return parts[-1] + ' ' + ' '.join(parts[:-1])  
+    return name 
+
+def keep_capitals(name):
+    return ''.join([char for char in name if char.isupper()])
+
+def function_df_match(df):
+        
+    ## filters
+    df_match = df[df.Row == '17.JAP Racing 92'].reset_index(drop=True)
+    df_match = df_match[df_match['Type de jeu au pied'] != "COUP D'ENVOI"].reset_index(drop=True)
+
+    df_match = df_match[['Timeline','Period','Row','GameTime','JEU AU PIED','Joueurs','Resultat jap','Résultat','Type de jeu au pied']]
+
+
+    ## résultat processing
+    df_match['Résultat'] = np.select([df_match['Résultat'] == "Positif"],[1],[-1])
+    df_match['Résultat_Color'] = np.select([df_match['Résultat'] == 1],["#008001"],default="darkred")
+
+    ## joueurs processing
+    df_match['Joueurs'] = df_match['Joueurs'].apply(rearrange_name)
+    df_match['Capitals'] = df_match['Joueurs'].apply(keep_capitals)
+
+    ## type de jeu au pied
+    '''
+    df_match['Type de jeu au pied'] = df_match['Type de jeu au pied'].str.replace('PENALTOUCHE','PT')
+    df_match['Type de jeu au pied'] = df_match['Type de jeu au pied'].str.replace('TOUCHE','T')
+    df_match['Type de jeu au pied'] = df_match['Type de jeu au pied'].str.replace('RENVOI EN BUT','RENV')
+    '''
+
+    return df_match
+
+def function_points_flow(df):
+        
+    df_points = df[df.Row.str.contains('30.Points')].reset_index(drop=True)
+    df_points = df_points[['Timeline','Row','GameTime','Points']]
+    df_points = df_points.sort_values(by='GameTime').reset_index(drop=True)
+
+    df_points['Team'] = np.select([df_points['Row'] == "30.Points Racing 92"],['Racing 92'],['Adversaire'])
+
+    df_points['Points_Number'] = np.select([df_points['Points'] == "CPP +",df_points['Points'] == "Essai",df_points['Points'] == "Transfo +"],[3,5,2],default=0)
+
+    df_points['Points_Racing'] = np.select([df_points['Team'] == 'Racing 92'],[df_points['Points_Number']],default=0)
+    df_points['Cumul_Points_Racing'] = np.cumsum(df_points['Points_Racing'])
+
+    df_points['Points_Adversaire'] = np.select([df_points['Team'] == 'Adversaire'],[df_points['Points_Number']],default=0)
+    df_points['Cumul_Points_Adversaire'] = np.cumsum(df_points['Points_Adversaire'])
+
+    df_points['Ecart_Score'] = df_points['Cumul_Points_Racing'] - df_points['Cumul_Points_Adversaire']
+
+    df_points = df_points[['GameTime','Ecart_Score']]
+
+    debut = pd.DataFrame({'GameTime':[0],'Ecart_Score':[0]})
+    fin = pd.DataFrame({'GameTime':[80],'Ecart_Score':[df_points['Ecart_Score'].iloc[-1]]})
+
+    df_points = pd.concat([debut,df_points]).reset_index(drop=True)
+    df_points = pd.concat([df_points, fin]).reset_index(drop=True)
+
+    df_points['Ecart_Score'] = df_points['Ecart_Score']/abs(df_points['Ecart_Score']).max()
+
+    return df_points
+
+def gametime_graph1(df):
+
+    df['GameTime'] = df['GameTime'].astype('string')
+    df['GameTime'] = pd.to_timedelta(df['GameTime'])
+    df.loc[df['Period'] == 2, 'GameTime'] = df['GameTime'] + pd.to_timedelta('40 minutes')
+    df['GameTime'] = round(df['GameTime'].dt.total_seconds() / 60,2)
+
+    df_match = function_df_match(df)
+
+    df_points = function_points_flow(df)
+
+    fig, ax = plt.subplots(figsize=(15,6))  
+
+    ax.axhspan(0.8, 1.2, xmin=0, xmax=80, facecolor='#008001', alpha=0.3)
+    ax.axhspan(-1.2, -0.8, xmin=0, xmax=80, facecolor='darkred', alpha=0.3)
+    
+    ax.scatter(df_match['GameTime'],df_match['Résultat'],s=100,color=df_match['Résultat_Color'])
+    ax.plot(df_match['GameTime'],df_match['Résultat'],color='darkgrey',linewidth=0.3)
+    
+    for i in range(len(df_match)):
+        ax.annotate(df_match['Capitals'][i],(df_match['GameTime'][i] - 0.5,df_match['Résultat'][i] + 0.1),fontsize=6)
+        if df_match['Type de jeu au pied'][i] == 'PENALTOUCHE':
+            ax.annotate('PT',(df_match['GameTime'][i] - 0.35,df_match['Résultat'][i] + 0.05),fontsize=5)
+        elif df_match['Type de jeu au pied'][i] == 'PIE':
+            ax.annotate(df_match['Type de jeu au pied'][i],(df_match['GameTime'][i] - 0.35,df_match['Résultat'][i] + 0.05),fontsize=5)
+        elif df_match['Type de jeu au pied'][i] == 'POULE':
+            ax.annotate(df_match['Type de jeu au pied'][i],(df_match['GameTime'][i] - 0.9,df_match['Résultat'][i] + 0.05),fontsize=5)
+        elif df_match['Type de jeu au pied'][i] == 'TOUCHE':
+            ax.annotate(df_match['Type de jeu au pied'][i],(df_match['GameTime'][i] - 0.9,df_match['Résultat'][i] + 0.05),fontsize=5)
+        elif df_match['Type de jeu au pied'][i] == 'RENVOI EN BUT':
+            ax.annotate("RENVOI",(df_match['GameTime'][i] - 0.9,df_match['Résultat'][i] + 0.05),fontsize=5)
+        elif df_match['Type de jeu au pied'][i] == 'AIGLE':
+            ax.annotate(df_match['Type de jeu au pied'][i],(df_match['GameTime'][i] - 0.7,df_match['Résultat'][i] + 0.05),fontsize=5)
+        else:
+            ax.annotate(df_match['Type de jeu au pied'][i],(df_match['GameTime'][i] - 0.5,df_match['Résultat'][i] + 0.05),fontsize=6)
+    
+    ax.axhline(0,linewidth=0.5,color='darkgrey')
+    ax.step(df_points['GameTime'],df_points['Ecart_Score'],color='black',where='post')
+    
+    ax.set_xlim(-1,81)
+    ax.set_ylim(-1.2,1.2)
+    
+    title = df_match['Timeline'][0]
+    title = title[:title.index('(') - 1]
+    
+    ax.set_title('\n' + title + '\n\n',fontsize=8,fontweight='semibold')
+    ax.set_yticks([])
+    
+    ax.spines['left'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.spines['top'].set_visible(False)
+    ax.spines['bottom'].set_visible(False)
+
+    buf = io.BytesIO()
+    fig.savefig(buf)  # Save the figure to the buffer
+    buf.seek(0)
+    img = Image.open(buf)
+
+    return img
+
+def gametime_graph2(df):
+
+    df['GameTime'] = df['GameTime'].astype('string')
+    df['GameTime'] = pd.to_timedelta(df['GameTime'])
+    df.loc[df['Period'] == 2, 'GameTime'] = df['GameTime'] + pd.to_timedelta('40 minutes')
+    df['GameTime'] = round(df['GameTime'].dt.total_seconds() / 60,2)
+
+    df_match = function_df_match(df)
+
+    df_points = function_points_flow(df)
+
+    fig, ax = plt.subplots(figsize=(15,6))  # Create figure and axis
+    
+    ax.axhspan(0, 1.0, xmin=0, xmax=80, facecolor='#008001', alpha=0.15)
+    ax.axhspan(0, -1.0, xmin=0, xmax=80, facecolor='darkred', alpha=0.15)
+    
+    ax.scatter(df_match['GameTime'],[0 for value in df_match['GameTime']],s=100,color=df_match['Résultat_Color'])
+    
+    for i in range(len(df_match)):
+        ax.annotate(df_match['Capitals'][i],(df_match['GameTime'][i] - 0.5,0.08),fontsize=6)
+    
+    ax.axhline(0,linewidth=0.5,color='darkgrey')
+    ax.step(df_points['GameTime'],df_points['Ecart_Score'],color='black',where='post')
+    
+    ax.set_xlim(-1,81)
+    ax.set_ylim(-1.05,1.1)
+    
+    title = df_match['Timeline'][0]
+    title = title[:title.index('(') - 1]
+    
+    ax.set_title('\n' + title,fontsize=8,fontweight='semibold')
+    ax.set_yticks([])
+    
+    ax.gca().spines['left'].set_visible(False)
+    ax.gca().spines['right'].set_visible(False)
+    ax.gca().spines['top'].set_visible(False)
+    ax.gca().spines['bottom'].set_visible(False)
+
+    buf = io.BytesIO()
+    fig.savefig(buf)  # Save the figure to the buffer
+    buf.seek(0)
+    img = Image.open(buf)
+
+    return img
+
+
+
+
+
+
+
+
+
+
