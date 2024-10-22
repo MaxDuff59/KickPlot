@@ -22,6 +22,8 @@ def main():
         if uploaded_file is not None:
     
             st.write("File Uploaded Successfully!")
+
+            check = st.checkbox("GameTime Graphics")
             
             df = pd.read_csv(uploaded_file)
             joueurs_racing = list(df[df.Row == "17.JAP Racing 92"].Joueurs.unique())
