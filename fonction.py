@@ -434,7 +434,7 @@ def function_df_match(df):
     df_match = df[df.Row == '17.JAP Racing 92'].reset_index(drop=True)
     df_match = df_match[df_match['Type de jeu au pied'] != "COUP D'ENVOI"].reset_index(drop=True)
 
-    df_match = df_match[['Timeline','Period','Row','GameTime','JEU AU PIED','Joueurs','Resultat jap','Résultat','Type de jeu au pied']]
+    df_match = df_match[['Timeline','Period','Row','GameTime','Joueurs','Resultat jap','Résultat','Type de jeu au pied']]
 
 
     ## résultat processing
@@ -527,9 +527,12 @@ def gametime_graph1(df):
     
     ax.set_xlim(-1,81)
     ax.set_ylim(-1.2,1.2)
-    
-    title = df_match['Timeline'][0]
-    title = title[:title.index('(') - 1]
+
+    try:
+        title = df_match['Timeline'][0]
+        title = title[:title.index('(') - 1]
+    except:
+        title = ''
     
     ax.set_title('\n' + title + '\n\n',fontsize=8,fontweight='semibold')
     ax.set_yticks([])
@@ -574,9 +577,12 @@ def gametime_graph2(df):
     
     ax.set_xlim(-1,81)
     ax.set_ylim(-1.05,1.1)
-    
-    title = df_match['Timeline'][0]
-    title = title[:title.index('(') - 1]
+
+    try:
+        title = df_match['Timeline'][0]
+        title = title[:title.index('(') - 1]
+    except:
+        title = ''
     
     ax.set_title('\n' + title,fontsize=8,fontweight='semibold')
     ax.set_yticks([])
