@@ -226,6 +226,23 @@ def main():
             columns = ["Team","Pays","Nom","Poste","Age","JIFF","Contrat","Durée","Nom_URL"]
             st.dataframe(df_selection[columns])
 
+        with st.form(key="filter_form_2"):
+            
+            name = st.text_input("Nom du Joueur","")         
+            
+            submit_button = st.form_submit_button(label="Filtrer")
+        
+        if submit_button:
+            
+            df_selection = df_players.copy()
+            
+            if name != "":
+                df_selection = df_selection[df_selection["Nom"].str.contains(name)]
+        
+            st.write(f"Nombre de joueurs correspondant : {len(df_selection)}")
+            columns = ["Team","Pays","Nom","Poste","Age","JIFF","Contrat","Durée","Nom_URL"]
+            st.dataframe(df_selection[columns])
+
 
 if __name__ == "__main__":
     main()
