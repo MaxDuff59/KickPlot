@@ -201,8 +201,8 @@ def main():
             
             contrat = st.multiselect("Type du Contrat", df_players["Contrat"].dropna().unique().tolist())
             jiff = st.multiselect("Type du JIFF", df_players["JIFF"].dropna().unique().tolist())
-            poste = st.multiselect("Fin de Contrat", df_players["Durée"].dropna().unique().tolist())
-            fin_contrat = st.multiselect("Poste", df_players["Poste"].dropna().unique().tolist())
+            fin_contrat = st.multiselect("Fin de Contrat", df_players["Durée"].dropna().unique().tolist())
+            poste = st.multiselect("Poste", df_players["Poste"].dropna().unique().tolist())
             age = st.slider("Âge du Joueur:", min_value=int(df_players["Age"].min()), max_value=int(df_players["Age"].max()), value=(15, 40))
             
             submit_button = st.form_submit_button(label="Filtrer")
