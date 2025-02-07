@@ -192,32 +192,35 @@ def main():
 
         df_players = pd.concat([df_top14, df_prod2]).reset_index(drop=True)
         df_players["JIFF"] = df_players["JIFF"].str.replace("(8)","").reset_index(drop=True)
+        df_players["JIFF"] = df_players["JIFF"].str.replace("()","").reset_index(drop=True)
 
         df_players["Age"] = pd.to_numeric(df_players["Age"], errors="coerce")
         
         with st.form(key="filter_form"):
+            
             contrat = st.multiselect("Type du Contrat", df_players["Contrat"].dropna().unique().tolist())
             jiff = st.multiselect("Type du JIFF", df_players["JIFF"].dropna().unique().tolist())
-            age = st.slider("Âge du Joueur:", 
-                            min_value=int(df_players["Age"].min()), 
-                            max_value=int(df_players["Age"].max()), 
-                            value=(0, 40))
+            fin_contrat = st.multiselect("Fin de Contrat", df_players["Durée"].dropna().unique().tolist())
+            age = st.slider("Âge du Joueur:", min_value=int(df_players["Age"].min()), max_value=int(df_players["Age"].max()), value=(0, 40))
             
-            # Submit button to apply filters
             submit_button = st.form_submit_button(label="Filtrer")
         
-        # Process filtering only when the button is clicked
         if submit_button:
+            
             df_selection = df_players.copy()
             
             if contrat:
                 df_selection = df_selection[df_selection["Contrat"].isin(contrat)]
             if jiff:
-                df_selection = df_selection[df_selection["JIFF"].isin(jiff)]
+                df_selection = df_selection[df_selection["JIFF"].isin(jiff)]            
+            if jiff:
+                df_selection = df_selection[df_selection["Durée"].isin(fin_contrat)]
+                
             df_selection = df_selection[df_selection["Age"].between(age[0], age[1])]
         
             st.write(f"Nombre de joueurs correspondant : {len(df_selection)}")
-            st.dataframe(df_selection)
+            columns = ["Team","Pays","Nom","Poste","Age","JIFF","Contrat","Durée","Nom_URL"]
+            st.dataframe(df_selection[columns])
 
 
 if __name__ == "__main__":
