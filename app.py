@@ -193,6 +193,7 @@ def main():
         df_players = pd.concat([df_top14, df_prod2]).reset_index(drop=True)
         df_players["JIFF"] = df_players["JIFF"].str.replace("(8)","").reset_index(drop=True)
         df_players["JIFF"] = df_players["JIFF"].str.replace("()","").reset_index(drop=True)
+        df_players["Team"] = df_players["Team"].str.replace("l'","").reset_index(drop=True)
 
         df_players["Age"] = pd.to_numeric(df_players["Age"], errors="coerce")
         
@@ -200,7 +201,8 @@ def main():
             
             contrat = st.multiselect("Type du Contrat", df_players["Contrat"].dropna().unique().tolist())
             jiff = st.multiselect("Type du JIFF", df_players["JIFF"].dropna().unique().tolist())
-            fin_contrat = st.multiselect("Fin de Contrat", df_players["Durée"].dropna().unique().tolist())
+            poste = st.multiselect("Fin de Contrat", df_players["Durée"].dropna().unique().tolist())
+            fin_contrat = st.multiselect("Poste", df_players["Poste"].dropna().unique().tolist())
             age = st.slider("Âge du Joueur:", min_value=int(df_players["Age"].min()), max_value=int(df_players["Age"].max()), value=(15, 40))
             
             submit_button = st.form_submit_button(label="Filtrer")
@@ -213,8 +215,10 @@ def main():
                 df_selection = df_selection[df_selection["Contrat"].isin(contrat)]
             if jiff:
                 df_selection = df_selection[df_selection["JIFF"].isin(jiff)]            
-            if jiff:
+            if fin_contrat:
                 df_selection = df_selection[df_selection["Durée"].isin(fin_contrat)]
+            if poste:
+                df_selection = df_selection[df_selection["Poste"].isin(poste)]
                 
             df_selection = df_selection[df_selection["Age"].between(age[0], age[1])]
         
