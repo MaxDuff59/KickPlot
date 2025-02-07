@@ -11,7 +11,7 @@ st.set_page_config(layout="wide")
 
 def main():
 
-    tab1, tab2, tab3, tab4, tab5 = st.tabs(["Game Analysis Kicking","Player Analysis Kicking","Opponent Analysis Kicking","Experience Collective","Playmaker Mapping"])
+    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Game Analysis Kicking","Player Analysis Kicking","Opponent Analysis Kicking","Experience Collective","Playmaker Mapping","AllRugby Analyse])
 
     with tab1:
         
@@ -182,6 +182,24 @@ def main():
                     buf.seek(0)
                     img = Image.open(buf)
                     st.image(img)
+
+    with tab6:
+    
+        st.title("All Rugby - Analyse Effectif")
+
+        df_top14 = pd.read_csv('SCRAPING_PLAYERS_ALLRUGBY_TOP14.csv')
+        df_prod2 = pd.read_csv('SCRAPING_PLAYERS_ALLRUGBY_PROD2.csv')
+
+        df_players = pd.concat([df_top14, df_prod2]).reset_index(drop=True)
+        df_players["JIFF"] = df_players["JIFF"].str.replace("(8)","").reset_index(drop=True)
+
+        contrat = st.pills("Type du Contrat", ["ESPOIR","PRO","PRO (7)"], selection_mode="multi")
+        jiff = st.pills("Type du Contrat", ["JIFF","JIFF Formé","NON JIFF"], selection_mode="multi")
+        age = st.slider("Âge du Joueur:", value=(0, 40))
+
+        df_selection = df_players[(df_players["JIFF"].str.isin(jiff)) | (df_players["Contrat"].str.isin(contrat)) | (df_players["Age"].str.isin(age))].reset_index(drop=True)
+
+        st.dataframe(df_selection)
 
 if __name__ == "__main__":
     main()
