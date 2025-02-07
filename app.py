@@ -11,7 +11,7 @@ st.set_page_config(layout="wide")
 
 def main():
 
-    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Game Analysis Kicking","Player Analysis Kicking","Opponent Analysis Kicking","Experience Collective","Playmaker Mapping","AllRugby Analyse])
+    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Game Analysis Kicking","Player Analysis Kicking","Opponent Analysis Kicking","Experience Collective","Playmaker Mapping","AllRugby Analyse"])
 
     with tab1:
         
