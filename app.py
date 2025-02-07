@@ -193,6 +193,8 @@ def main():
         df_players = pd.concat([df_top14, df_prod2]).reset_index(drop=True)
         df_players["JIFF"] = df_players["JIFF"].str.replace("(8)","").reset_index(drop=True)
 
+        df_players["Age"] = pd.to_numeric(df_players["Age"], errors="coerce")
+
         contrat = st.multiselect("Type du Contrat", ["ESPOIR", "PRO", "PRO (7)"])
         jiff = st.multiselect("Type du JIFF", ["JIFF", "JIFF Formé", "NON JIFF"])
         age = st.slider("Âge du Joueur:", min_value=0, max_value=40, value=(0, 40))
@@ -200,7 +202,7 @@ def main():
         df_selection = df_players[
             df_players["Contrat"].isin(contrat) |
             df_players["JIFF"].isin(jiff) |
-            df_players["Age"].between(age[0], age[1])
+            (df_players["Age"].between(age[0], age[1], inclusive="both"))
         ].reset_index(drop=True)
         
         st.dataframe(df_selection)
