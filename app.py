@@ -26,7 +26,7 @@ def main():
             check = st.checkbox("GameTime Graphics")
             
             df = pd.read_csv(uploaded_file)
-            joueurs_racing = list(df[df.Row == "17.JAP Racing 92"].Joueurs.unique())
+            joueurs_racing = list(df[df.Row == "Jeu au Pied Racing"].Joueurs.unique())
     
             player_inputs = {}
         
@@ -67,7 +67,7 @@ def main():
             df = pd.concat((pd.read_csv(file) for file in uploaded_files))
             st.write("File(s) Uploaded Successfully!")
             
-            df_kicks = df[df.Row == "17.JAP Racing 92"].reset_index(drop=True)
+            df_kicks = df[df.Row == "Jeu au Pied Racing"].reset_index(drop=True)
 
             list_player = st.multiselect("Choix du Joueur : ",[player for player in list(df_kicks.Joueurs.unique())])
 
