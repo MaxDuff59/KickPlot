@@ -92,7 +92,27 @@ def draw_pitch_horizontal_v2():
 
     return fig,ax
 
-dico_color = {'AIGLE':'black','AIGLE 10':'black','AIGLE 15':'black','AIGLE 9':'black','COLOMBE':'mediumvioletred','PIE':'lightsalmon','POULE':'tan','TOUCHE':'cadetblue','PHENIX':'seagreen','GAP':'red'}
+dico_color = {
+
+    "PIE": "lightsalmon", "PIE_9": "lightsalmon", "PIE_9, PIE": "lightsalmon","PIE_10": "lightsalmon","PIE_10, PIE": "lightsalmon",
+    "PIE, PIE_9": "lightsalmon","PIE, PIE_10": "lightsalmon",
+
+    "AIGLE": "black", "AIGLE_9": "black", "AIGLE_9, AIGLE": "black","AIGLE_10": "black","AIGLE_10, AIGLE": "black",
+    "AIGLE, AIGLE_9": "black","AIGLE, AIGLE_10": "black","AIGLE, AIGLE_15": "black","AIGLE_15, AIGLE": "black", "AIGLE_15" : "black",
+
+    "TOUCHE": "cadetblue", "TOUCHE_9": "cadetblue", "TOUCHE_9, TOUCHE": "cadetblue","TOUCHE_10": "cadetblue","TOUCHE_10, TOUCHE": "cadetblue",
+    "TOUCHE, TOUCHE_9": "cadetblue","TOUCHE, TOUCHE_10": "cadetblue","TOUCHE, TOUCHE_15": "cadetblue","TOUCHE_15, TOUCHE": "cadetblue", "TOUCHE_15" : "cadetblue",
+
+    "PHENIX": "mediumvioletred", "COLOMBE": "mediumvioletred", "COLOMBE, PHENIX": "mediumvioletred","PHENIX_10": "mediumvioletred",
+    "PHENIX_10, PHENIX": "mediumvioletred","PHENIX, COLOMBE": "mediumvioletred","PHENIX, PHENIX_10": "mediumvioletred",
+
+    "POULE":"tan",
+
+    "ROLLER":"mediumblue",
+
+    'GAP':'red'
+
+}
 
 def kicking_plot(dataset,dico_player):
 
