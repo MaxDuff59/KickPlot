@@ -96,8 +96,8 @@ dico_color = {'AIGLE':'black','AIGLE 10':'black','AIGLE 15':'black','AIGLE 9':'b
 
 def kicking_plot(dataset,dico_player):
 
-    dataset = dataset[dataset.Row.str.contains('17.JAP',na=False)].reset_index(drop=True)
-    dataset = dataset[dataset.Row.str.contains("Racing 92",na=False)].reset_index(drop=True)
+    dataset = dataset[dataset.Row.str.contains('Jeu au Pied',na=False)].reset_index(drop=True)
+    dataset = dataset[dataset.Row.str.contains("Racing",na=False)].reset_index(drop=True)
 
     dataset['X'], dataset['Y'] = dataset['X'].astype('float'), dataset['Y'].astype('float')
     dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
