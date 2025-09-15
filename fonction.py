@@ -191,8 +191,8 @@ def kicking_plot_adv(dataset,opta):
 
     if opta == False:
         
-        dataset = dataset[dataset.Row.str.contains('17.JAP',na=False)].reset_index(drop=True)
-        dataset = dataset[dataset.Row.str.contains("Racing 92",na=False) == False].reset_index(drop=True)
+        dataset = dataset[dataset.Row.str.contains('Jeu au Pied',na=False)].reset_index(drop=True)
+        dataset = dataset[dataset.Row.str.contains("Racing",na=False) == False].reset_index(drop=True)
         dataset['X'], dataset['Y'] = dataset['X'].astype('float'), dataset['Y'].astype('float')
 
         dataset['Distance X'] = dataset['X jap fin'] - dataset['X']
@@ -431,7 +431,7 @@ def keep_capitals(name):
 def function_df_match(df):
         
     ## filters
-    df_match = df[df.Row == '17.JAP Racing 92'].reset_index(drop=True)
+    df_match = df[df.Row == 'Jeu au Pied Racing'].reset_index(drop=True)
     df_match = df_match[df_match['Type de jeu au pied'] != "COUP D'ENVOI"].reset_index(drop=True)
 
     df_match = df_match[['Timeline','Period','Row','GameTime','Joueurs','Resultat jap','Résultat','Type de jeu au pied']]
@@ -456,11 +456,11 @@ def function_df_match(df):
 
 def function_points_flow(df):
         
-    df_points = df[df.Row.str.contains('30.Points')].reset_index(drop=True)
+    df_points = df[df.Row.str.contains('Points')].reset_index(drop=True)
     df_points = df_points[['Timeline','Row','GameTime','Points']]
     df_points = df_points.sort_values(by='GameTime').reset_index(drop=True)
 
-    df_points['Team'] = np.select([df_points['Row'] == "30.Points Racing 92"],['Racing 92'],['Adversaire'])
+    df_points['Team'] = np.select([df_points['Row'] == "Points Racing"],['Racing 92'],['Adversaire'])
 
     df_points['Points_Number'] = np.select([df_points['Points'] == "CPP +",df_points['Points'] == "Essai",df_points['Points'] == "Transfo +"],[3,5,2],default=0)
 
