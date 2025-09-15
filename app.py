@@ -26,8 +26,9 @@ def main():
             check = st.checkbox("GameTime Graphics")
             
             df = pd.read_csv(uploaded_file)
-            joueurs_racing = list(df[df.Row == "Jeu au Pied Racing"].Joueurs.unique())
-    
+
+            joueurs_racing = list(df[df.Row == "Jeu au pied Racing"].Joueurs.unique())
+
             player_inputs = {}
         
             for player in joueurs_racing:
