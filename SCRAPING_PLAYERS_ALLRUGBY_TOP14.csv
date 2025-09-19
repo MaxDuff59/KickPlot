@@ -1,0 +1,992 @@
+Team,Pays,_,Nom_URL,Nom,Poste,Age,Date de naissance,Taille,Poids,JIFF,Contrat,Durée,Autres,TABLE
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/andy-bordelai-8888.html,Andy BORDELAI,Pilier,25,29/03/2000,,117,JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/emerick-setiano-4686.html,Emerick SETIANO,Pilier,29,19/07/1996,,115,JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,Argentine,,https://www.allrugby.com/joueurs/ignacio-calles-4531.html,Ignacio CALLES,Pilier,29,24/10/1995,,116,JIFF,PRO,2028,,TABLE PROS
+Aviron Bayonnais,Fidji,,https://www.allrugby.com/joueurs/luke-tagi-8934.html,Luke TAGI,Pilier,28,23/06/1997,,130,NON JIFF,PRO,2028,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/pascal-cotet-1906.html,Pascal COTET,Pilier,31,12/10/1993,,128,JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/pierre-castillon-17309.html,Pierre CASTILLON,Pilier,22,20/09/2003,,106,JIFF,ESPOIR,2028,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/swan-cormenier-5203.html,Swan CORMENIER,Pilier,29,18/01/1996,,120,JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,Tonga,,https://www.allrugby.com/joueurs/tevita-tatafu-11206.html,Tevita TATAFU,Pilier,22,13/10/2002,,140,JIFF Formé(8),PRO,2030,,TABLE PROS
+Aviron Bayonnais,Argentine,,https://www.allrugby.com/joueurs/facundo-bosch-5142.html,Facundo BOSCH,Talonneur,34,08/08/1991,,102,NON JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/lucas-martin-11207.html,Lucas MARTIN,Talonneur,22,09/12/2002,,105,JIFF(8),PRO,2027,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/vincent-giudicelli-4847.html,Vincent GIUDICELLI,Talonneur,28,25/06/1997,,104,JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,Angleterre,,https://www.allrugby.com/joueurs/alex-moon-6201.html,Alex MOON,2ème ligne,29,06/09/1996,,127,NON JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,Ecosse,,https://www.allrugby.com/joueurs/ewan-johnson-7284.html,Ewan JOHNSON,2ème ligne,26,27/06/1999,,120,JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,Argentine,,https://www.allrugby.com/joueurs/lucas-paulos-7501.html,Lucas PAULOS,2ème ligne,27,09/01/1998,,123,JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/alexandre-fischer-5552.html,Alexandre FISCHER,3ème ligne,27,19/01/1998,,107,JIFF,PRO,2028,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/arthur-iturria-3366.html,Arthur ITURRIA,3ème ligne,31,13/05/1994,,112,JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/baptiste-chouzenoux-2509.html,Baptiste CHOUZENOUX,3ème ligne,32,07/08/1993,,107,JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/baptiste-heguy-5427.html,Baptiste HÉGUY,3ème ligne,27,11/05/1998,,108,JIFF Formé(8),PRO,2027,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/esteban-capilla-12571.html,Esteban CAPILLA,3ème ligne,22,05/01/2003,,100,JIFF Formé(8),PRO,2027,,TABLE PROS
+Aviron Bayonnais,Allemagne,,https://www.allrugby.com/joueurs/giovanni-habel-kueffner-4319.html,Giovanni HABEL-KUEFFNER,3ème ligne,30,09/01/1995,,110,JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,Australie,,https://www.allrugby.com/joueurs/rob-leota-7492.html,Rob LEOTA,3ème ligne,28,03/03/1997,,110,NON JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,Argentine,,https://www.allrugby.com/joueurs/rodrigo-bruni-7188.html,Rodrigo BRUNI,3ème ligne,32,03/09/1993,,111,NON JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/baptiste-germain-7571.html,Baptiste GERMAIN,Mêlée,24,21/11/2000,,82,JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,Afrique du sud,,https://www.allrugby.com/joueurs/herschel-jantjies-6334.html,Herschel JANTJIES,Mêlée,29,22/04/1996,,77,NON JIFF,PRO,2027 +1,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/maxime-machenaud-1202.html,Maxime MACHENAUD,Mêlée,36,30/12/1988,,87,JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/gareth-anscombe-3354.html,Gareth ANSCOMBE,Ouverture,34,10/05/1991,,96,NON JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/joris-segonds-4988.html,Joris SEGONDS,Ouverture,28,06/04/1997,,91,JIFF,PRO,2029,,TABLE PROS
+Aviron Bayonnais,Italie,,https://www.allrugby.com/joueurs/federico-mori-7398.html,Federico MORI,Centre,24,13/10/2000,,108,JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/guillaume-martocq-5844.html,Guillaume MARTOCQ,Centre,26,23/08/1999,,96,JIFF Formé(8),PRO,2027,,TABLE PROS
+Aviron Bayonnais,Samoa,,https://www.allrugby.com/joueurs/manu-tuilagi-2202.html,Manu TUILAGI,Centre,34,18/05/1991,,111,NON JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,Australie,,https://www.allrugby.com/joueurs/reece-hodge-5007.html,Reece HODGE,Centre,31,26/08/1994,,94,NON JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,Fidji,,https://www.allrugby.com/joueurs/sireli-maqala-12230.html,Sireli MAQALA,Centre,25,20/03/2000,,88,NON JIFF,PRO,2030,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/arnaud-erbinartegaray-9716.html,Arnaud ERBINARTEGARAY,Ailier,25,16/09/2000,,89,JIFF,PRO,2027,,TABLE PROS
+Aviron Bayonnais,Argentine,,https://www.allrugby.com/joueurs/mateo-carreras-8163.html,Mateo CARRERAS,Ailier,25,17/12/1999,,84,NON JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/nadir-megdoud-5495.html,Nadir MEGDOUD,Ailier,28,26/03/1997,,96,JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/victor-hannoun-14460.html,Victor HANNOUN,Ailier,22,20/08/2003,,85,JIFF Formé(8),PRO,2026,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/cheikh-tiberghien-7315.html,Cheikh TIBERGHIEN,Arrière,25,08/01/2000,,96,JIFF,PRO,2026,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/tom-spring-14458.html,Tom SPRING,Arrière,22,26/09/2002,,87,JIFF Formé(8),PRO,2028,,TABLE PROS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/yohan-orabe-13645.html,Yohan ORABÉ,Arrière,23,21/05/2002,,87,JIFF(8),PRO,2027,,TABLE PROS
+Aviron Bayonnais,Fidji,,https://www.allrugby.com/joueurs/emosi-tumania-20696.html,Emosi TUMANIA,Pilier,19,/06/2006,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,Espagne,,https://www.allrugby.com/joueurs/hugo-gonzalez-17732.html,Hugo GONZÁLEZ,Pilier,20,/05/2005,,119,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/liam-couturier-18221.html,Liam COUTURIER,Pilier,19,/09/2006,,113,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/maxime-casenave-20621.html,Maxime CASENAVE,Pilier,20,/06/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/paul-ducos-18577.html,Paul DUCOS,Pilier,18,/12/2006,,110,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,Afrique du sud,,https://www.allrugby.com/joueurs/cilliers-viljoen-18575.html,Cilliers VILJOEN,Talonneur,20,/01/2005,,106,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/iban-errecart-20655.html,Iban ERRECART,Talonneur,18,/09/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/louka-salvi-18580.html,Louka SALVI,Talonneur,19,/09/2006,,96,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,Australie,,https://www.allrugby.com/joueurs/aiden-stait-16308.html,Aiden STAIT,2ème ligne,21,07/01/2004,,139,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,Argentine,,https://www.allrugby.com/joueurs/alejandro-barrios-15476.html,Alejandro BARRIOS,2ème ligne,20,/01/2005,,136,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,Argentine,,https://www.allrugby.com/joueurs/alvaro-garcia-iandolino-17394.html,Álvaro GARCÍA IANDOLINO,2ème ligne,19,/12/2005,,119,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/ignacio-valdes-leiva-20319.html,Ignacio VALDES-LEIVA,2ème ligne,17,/05/2008,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/jules-martin-bonnard-20849.html,Jules MARTIN-BONNARD,2ème ligne,17,/07/2008,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,Pays-Bas,,https://www.allrugby.com/joueurs/manus-van-leeuwen-21135.html,Manus VAN LEEUWEN,2ème ligne,18,/06/2007,,-,NON JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/sohan-dealle-facquez-17574.html,Sohan DEALLE FACQUEZ,2ème ligne,19,/03/2006,,88,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,Russie,,https://www.allrugby.com/joueurs/vladimir-palferov-21649.html,Vladimir PALFEROV,2ème ligne,17,/08/2008,,117,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/aymeric-rousere-15894.html,Aymeric ROUSERÉ,3ème ligne,20,/08/2005,,98,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,Australie,,https://www.allrugby.com/joueurs/jonah-thompson-18330.html,Jonah THOMPSON,3ème ligne,20,/08/2005,,99,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,Espagne,,https://www.allrugby.com/joueurs/manex-ariceta-12438.html,Manex ARICETA,3ème ligne,21,20/03/2004,,118,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Aviron Bayonnais,Géorgie,,https://www.allrugby.com/joueurs/nika-lomidze-15265.html,Nika LOMIDZE,3ème ligne,21,22/01/2004,,101,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/noa-lacombe-18578.html,Noa LACOMBE,3ème ligne,18,/10/2006,,88,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/noa-traversier-15272.html,Noa TRAVERSIER,3ème ligne,20,/06/2005,,102,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/raphael-marchesin-18338.html,Raphaël MARCHESIN,3ème ligne,19,/11/2005,,94,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/ronan-caule-duler-20637.html,Ronan CAULE-DULER,3ème ligne,18,/02/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/baptiste-tilloles-18994.html,Baptiste TILLOLES,Mêlée,18,/11/2006,,81,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/benat-sarraude-18442.html,Beñat SARRAUDE,Ouverture,19,/08/2006,,82,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/diego-langlois-20671.html,Diego LANGLOIS,Ouverture,16,/02/2009,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/bastien-rasal-20339.html,Bastien RASAL,Centre,19,/07/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/gabriel-lapegue-18367.html,Gabriel LAPÈGUE,Centre,20,/02/2005,,-,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/joseph-magne-18579.html,Joseph MAGNE,Centre,19,/01/2006,,80,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/leny-maignien-20673.html,Leny MAIGNIEN,Centre,16,/02/2009,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/pyrenees-boyle-tiatia-21677.html,Pyrénées BOYLE-TIATIA,Centre,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,France,,https://www.allrugby.com/joueurs/tom-leveque-20196.html,Tom LÉVÊQUE,Ailier,19,/03/2006,,80,JIFF,ESPOIR,,,TABLE ESPOIRS
+Aviron Bayonnais,Australie,,https://www.allrugby.com/joueurs/declan-minto-20292.html,Declan MINTO,Arrière,18,/12/2006,,93,NON JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Aviron Bayonnais,Espagne,,https://www.allrugby.com/joueurs/telmo-fisher-obieta-18495.html,Telmo FISHER,Arrière,18,/02/2007,,87,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/ben-tameifuna-3391.html,Ben TAMEIFUNA,Pilier,34,30/08/1991,,151,NON JIFF,PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,Afrique du sud,,https://www.allrugby.com/joueurs/carlu-sadie-6597.html,Carlü SADIE,Pilier,28,07/05/1997,,138,NON JIFF,PRO,2028,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/jefferson-poirot-1374.html,Jefferson POIROT,Pilier,32,01/11/1992,,117,JIFF,PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/louis-mary-12162.html,Louis MARY,Pilier,25,12/01/2000,,128,JIFF,PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/matis-perchaud-10981.html,Matis PERCHAUD,Pilier,23,17/09/2002,,114,JIFF,ESPOIR,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/sipili-falatea-5435.html,Sipili FALATEA,Pilier,28,06/06/1997,,116,JIFF,PRO,2026,,TABLE PROS
+Union Bordeaux-Bègles,Tonga,,https://www.allrugby.com/joueurs/toma-akino-taufa-3605.html,Toma'Akino TAUFA,Pilier,30,09/03/1995,,145,NON JIFF,PRO,2026,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/ugo-boniface-4465.html,Ugo BONIFACE,Pilier,27,21/07/1998,,125,JIFF,PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/connor-sa-9313.html,Connor SA,Talonneur,23,22/01/2002,,103,JIFF Formé(8),PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/gaetan-barlot-5909.html,Gaëtan BARLOT,Talonneur,28,13/04/1997,,107,JIFF,PRO,2028,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/maxime-lamothe-5169.html,Maxime LAMOTHE,Talonneur,26,03/10/1998,,109,JIFF Formé(8),PRO,2028,,TABLE PROS
+Union Bordeaux-Bègles,Australie,,https://www.allrugby.com/joueurs/adam-coleman-5005.html,Adam COLEMAN,2ème ligne,33,07/10/1991,,122,NON JIFF,PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/boris-palu-4418.html,Boris PALU,2ème ligne,29,04/02/1996,,113,JIFF,PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/cyril-cazeaux-2441.html,Cyril CAZEAUX,2ème ligne,30,10/02/1995,,117,JIFF Formé(8),PRO,2029,,TABLE PROS
+Union Bordeaux-Bègles,Ecosse,,https://www.allrugby.com/joueurs/jonny-gray-2174.html,Jonny GRAY,2ème ligne,31,14/03/1994,,122,NON JIFF,PRO,2026,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/bastien-vergnes-taillefer-7192.html,Bastien VERGNES-TAILLEFER,3ème ligne,28,13/06/1997,,114,JIFF,PRO,2026,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/cameron-woki-5191.html,Cameron WOKI,3ème ligne,26,07/11/1998,,111,JIFF Formé,PRO,2028,,TABLE PROS
+Union Bordeaux-Bègles,Afrique du sud,,https://www.allrugby.com/joueurs/jean-luc-du-preez-5103.html,Jean-Luc DU PREEZ,3ème ligne,30,05/08/1995,,114,NON JIFF,PRO,2028,,TABLE PROS
+Union Bordeaux-Bègles,Australie,,https://www.allrugby.com/joueurs/lachlan-swinton-7538.html,Lachlan SWINTON,3ème ligne,28,16/01/1997,,113,NON JIFF,PRO,2026,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/marko-gazzotti-14199.html,Marko GAZZOTTI,3ème ligne,21,24/09/2004,,110,JIFF,ESPOIR,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/pierre-bochaton-9789.html,Pierre BOCHATON,3ème ligne,24,17/04/2001,,103,JIFF Formé(8),PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/temo-matiu-14357.html,Temo MATIU,3ème ligne,24,20/07/2001,,100,JIFF(8),PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/martin-page-relo-7169.html,Martin PAGE-RELO,Mêlée,26,06/01/1999,,77,JIFF,PRO,2026,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/maxime-lucu-2453.html,Maxime LUCU,Mêlée,32,12/01/1993,,83,JIFF,PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/valentin-hutteau-20054.html,Valentin HUTTEAU,Mêlée,18,26/06/2007,,75,JIFF,ESPOIR,2028,,TABLE PROS
+Union Bordeaux-Bègles,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/joey-carbery-4830.html,Joey CARBERY,Ouverture,29,01/11/1995,,86,NON JIFF,PRO,2026,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/matthieu-jalibert-5167.html,Matthieu JALIBERT,Ouverture,26,06/11/1998,,86,JIFF Formé(8),PRO,2028,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/adrien-drault-18068.html,Adrien DRAULT,Centre,19,23/05/2006,,85,JIFF,ESPOIR,,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/nicolas-depoortere-11299.html,Nicolas DEPOORTÈRE,Centre,22,13/01/2003,,94,JIFF,ESPOIR,2028,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/pablo-uberti-4664.html,Pablo UBERTI,Centre,27,19/10/1997,,91,JIFF Formé(8),PRO,2026,,TABLE PROS
+Union Bordeaux-Bègles,Afrique du sud,,https://www.allrugby.com/joueurs/rohan-janse-van-rensburg-5102.html,Rohan JANSE VAN RENSBURG,Centre,31,11/09/1994,,109,NON JIFF,PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/yoram-moefana-7026.html,Yoram MOEFANA,Centre,25,18/07/2000,,95,JIFF Formé(8),PRO,2028,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/arthur-retiere-3527.html,Arthur RETIÈRE,Ailier,28,01/08/1997,,80,JIFF,PRO,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/damian-penaud-3565.html,Damian PENAUD,Ailier,29,25/09/1996,,97,JIFF,PRO,2028,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/louis-bielle-biarrey-11774.html,Louis BIELLE-BIARREY,Ailier,22,19/06/2003,,84,JIFF,ESPOIR,2027,,TABLE PROS
+Union Bordeaux-Bègles,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/salesi-rayasi-7471.html,Salesi RAYASI,Ailier,29,25/09/1996,,105,NON JIFF,PRO,2026,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/xan-mousques-16787.html,Xan MOUSQUÈS,Ailier,19,18/11/2005,,89,JIFF,ESPOIR,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/jon-echegaray-14812.html,Jon ECHEGARAY,Arrière,20,09/06/2005,,90,JIFF,ESPOIR,2027,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/romain-buros-4151.html,Romain BUROS,Arrière,28,31/07/1997,,97,JIFF Formé(8),PRO,2029,,TABLE PROS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/amir-hattouma-21355.html,Amir HATTOUMA,Pilier,18,/03/2007,,123,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/florian-baquey-18399.html,Florian BAQUEY,Pilier,20,/02/2005,,109,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,Fidji,,https://www.allrugby.com/joueurs/francis-peters-21368.html,Francis PETERS,Pilier,,-,,105,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/lenny-alifanety-18064.html,Lenny ALIFANETY,Pilier,19,/07/2006,,131,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/mell-ronn-pouye-tokotu-u-21357.html,Mell-Ronn POUYE-TOKOTU'U,Pilier,,-,,137,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/noe-thibeau-21358.html,Noé THIBEAU,Pilier,18,/05/2007,,94,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/ruben-pargade-18065.html,Ruben PARGADE,Pilier,19,/04/2006,,128,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/zinedine-aouad-17032.html,Zinédine AOUAD,Pilier,20,/05/2005,,120,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Union Bordeaux-Bègles,Afrique du sud,,https://www.allrugby.com/joueurs/christian-everitt-18730.html,Christian EVERITT,Talonneur,20,/03/2005,,100,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/clement-malinowski-21356.html,Clément MALINOWSKI,Talonneur,18,/04/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/clement-sennelier-18228.html,Clément SENNELIER,Talonneur,19,/03/2006,,109,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/morgan-mignot-18400.html,Morgan MIGNOT,Talonneur,20,/01/2005,,90,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/pierre-tetani-18401.html,Pierre TÉTANI,Talonneur,19,/02/2006,,105,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,Pologne,,https://www.allrugby.com/joueurs/adam-zap%C4%98dowski-16811.html,Adam ZAPĘDOWSKI,2ème ligne,19,/01/2006,,114,NON JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/donovan-niuhina-21359.html,Donovan NIUHINA,2ème ligne,18,/07/2007,,97,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/gabriel-gauthier-18402.html,Gabriel GAUTHIER,2ème ligne,18,/12/2006,,111,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/jacques-nguimbous-17048.html,Jacques NGUIMBOUS,2ème ligne,20,/01/2005,,127,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Union Bordeaux-Bègles,Géorgie,,https://www.allrugby.com/joueurs/levan-kepuladze-17496.html,Levan KEPULADZE,2ème ligne,20,/02/2005,,108,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/noah-schmitt-18403.html,Noah SCHMITT,2ème ligne,19,/01/2006,,95,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/bobby-bissu-18406.html,Bobby BISSU,3ème ligne,18,/11/2006,,110,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,Suisse,,https://www.allrugby.com/joueurs/colin-schuster-21362.html,Colin SCHUSTER,3ème ligne,18,/02/2007,,94,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/elyjah-ibsaiene-18066.html,Elyjah IBSAIENE,3ème ligne,18,/10/2006,,104,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/mateo-lavasele-14496.html,Matéo LAVASELÉ,3ème ligne,21,13/03/2004,,100,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/mathys-argenton-20255.html,Mathys ARGENTON,3ème ligne,18,/04/2007,,97,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,Congo,,https://www.allrugby.com/joueurs/mauricio-lorenzo-fukwamoko-21360.html,Mauricio Lorenzo FUKWAMOKO,3ème ligne,18,/01/2007,,93,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/maxime-heraud-21361.html,Maxime HÉRAUD,3ème ligne,19,/09/2006,,92,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/romain-gardrat-17989.html,Romain GARDRAT,3ème ligne,21,31/12/2003,,95,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Union Bordeaux-Bègles,Afrique du sud,,https://www.allrugby.com/joueurs/tiaan-jacobs-14107.html,Tiaan JACOBS,3ème ligne,21,16/08/2004,,107,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/enzo-gourg-18408.html,Enzo GOURG,Mêlée,19,/01/2006,,76,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/sacha-laussucq-21354.html,Sacha LAUSSUCQ,Mêlée,18,/05/2007,,71,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/joseph-laharrague-18067.html,Joseph LAHARRAGUE,Ouverture,19,/06/2006,,80,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/manoa-vaillier-21363.html,Manoa VAILLIER,Ouverture,18,/07/2007,,80,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/edwin-lee-21364.html,Edwin LEE,Centre,17,/10/2007,,87,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/felix-duguay-18413.html,Félix DUGUAY,Centre,20,/03/2005,,75,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/gabriel-bohn-18412.html,Gabriel BOHN,Centre,18,/10/2006,,90,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,Géorgie,,https://www.allrugby.com/joueurs/giorgi-khaindrava-17772.html,Giorgi KHAINDRAVA,Centre,20,/02/2005,,90,NON JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Union Bordeaux-Bègles,Espagne,,https://www.allrugby.com/joueurs/mateo-aragon-13733.html,Mateo ARAGÓN,Centre,19,/05/2006,,82,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/corentin-gourg-18415.html,Corentin GOURG,Ailier,20,/02/2005,,73,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/ielenimo-holisi-21365.html,Ielenimo HOLISI,Ailier,,-,,96,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/johan-janiec-18416.html,Johan JANIEC,Ailier,18,/10/2006,,80,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/mathis-deram-18414.html,Mathis DERAM,Ailier,20,/01/2005,,84,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/mathys-darmayan-21366.html,Mathys DARMAYAN,Ailier,18,/01/2007,,78,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,Eswatini,,https://www.allrugby.com/joueurs/naylan-albertus-21367.html,Naylan ALBERTUS,Ailier,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Bordeaux-Bègles,France,,https://www.allrugby.com/joueurs/thomas-baronnet-18237.html,Thomas BARONNET,Arrière,19,/03/2006,,80,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/antoine-tichit-1061.html,Antoine TICHIT,Pilier,36,13/06/1989,,118,JIFF,PRO,2026,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/aurelien-azar-4379.html,Aurélien AZAR,Pilier,31,10/06/1994,,126,JIFF,PRO,2026,,TABLE PROS
+Castres Olympique,Géorgie,,https://www.allrugby.com/joueurs/levan-chilachava-1300.html,Levan CHILACHAVA,Pilier,34,17/08/1991,,133,JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/lois-guerois-galisson-13782.html,Loîs GUÉROIS-GALISSON,Pilier,23,22/12/2001,,122,JIFF Formé(8),PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/nicolas-corato-5181.html,Nicolas CORATO,Pilier,27,07/10/1997,,123,JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/quentin-walcker-4339.html,Quentin WALCKER,Pilier,29,21/02/1996,,109,JIFF,PRO,2029,,TABLE PROS
+Castres Olympique,Angleterre,,https://www.allrugby.com/joueurs/will-collier-2650.html,Will COLLIER,Pilier,34,05/05/1991,,120,NON JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/loris-zarantonello-7669.html,Loris ZARANTONELLO,Talonneur,24,17/11/2000,,102,JIFF(8),PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/pierre-colonna-9065.html,Pierre COLONNA,Talonneur,24,14/06/2001,,113,JIFF Formé(8),PRO,2028,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/teddy-durand-6216.html,Teddy DURAND,Talonneur,25,14/10/1999,,104,JIFF,PRO,2028,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/florent-vanverberghe-6992.html,Florent VANVERBERGHE,2ème ligne,25,22/07/2000,,120,JIFF Formé(8),PRO,2028,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/gauthier-maravat-6978.html,Gauthier MARAVAT,2ème ligne,25,11/06/2000,,112,JIFF,PRO,2028,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/guillaume-ducat-3607.html,Guillaume DUCAT,2ème ligne,29,20/05/1996,,115,JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,Fidji,,https://www.allrugby.com/joueurs/leone-nakarawa-2634.html,Leone NAKARAWA,2ème ligne,37,04/02/1988,,127,NON JIFF,PRO,2026,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/paul-jedrasiak-1094.html,Paul JEDRASIAK,2ème ligne,32,06/02/1993,,121,JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/romain-macurdy-8650.html,Romain MACURDY,2ème ligne,24,21/09/2001,,109,JIFF(8),PRO,2026,,TABLE PROS
+Castres Olympique,Australie,,https://www.allrugby.com/joueurs/thomas-staniforth-6723.html,Tom STANIFORTH,2ème ligne,31,13/08/1994,,124,NON JIFF,PRO,2026,,TABLE PROS
+Castres Olympique,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/abraham-papali-i-10414.html,Abraham PAPALI'I,3ème ligne,32,20/06/1993,,128,NON JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/baptiste-cope-11125.html,Baptiste COPE,3ème ligne,23,09/02/2002,,102,JIFF Formé(8),PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/baptiste-delaporte-5540.html,Baptiste DELAPORTE,3ème ligne,28,27/03/1997,,112,JIFF Formé(8),PRO,2027,,TABLE PROS
+Castres Olympique,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/feibyan-cornell-tukino-10742.html,Feibyan TUKINO,3ème ligne,24,16/06/2001,,114,JIFF Formé(8),PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/mathieu-babillot-1353.html,Mathieu BABILLOT,3ème ligne,32,09/09/1993,,111,JIFF Formé(8),PRO,2028,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/simon-meka-11123.html,Simon MEKA,3ème ligne,25,14/03/2000,,110,JIFF,PRO,2028,,TABLE PROS
+Castres Olympique,Canada,,https://www.allrugby.com/joueurs/tyler-ardron-2763.html,Tyler ARDRON,3ème ligne,34,16/06/1991,,112,NON JIFF,PRO,2026,,TABLE PROS
+Castres Olympique,Fidji,,https://www.allrugby.com/joueurs/veresa-tuqovu-8000.html,Veresa Tuqovu RAMOTOTABUA,3ème ligne,25,12/06/2000,,107,JIFF,PRO,2028,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/colin-dupuy-17322.html,Colin DUPUY,Mêlée,19,25/06/2006,,67,JIFF,ESPOIR,,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/gauthier-doubrere-3460.html,Gauthier DOUBRÈRE,Mêlée,29,24/12/1995,,82,JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/jeremy-fernandez-5558.html,Jérémy FERNANDEZ,Mêlée,28,15/05/1997,,90,JIFF Formé(8),PRO,2028,,TABLE PROS
+Castres Olympique,Uruguay,,https://www.allrugby.com/joueurs/santiago-arata-7245.html,Santiago ARATA,Mêlée,29,02/09/1996,,75,NON JIFF,PRO,2029,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/louis-le-brun-9719.html,Louis LE BRUN,Ouverture,23,28/02/2002,,100,JIFF Formé(8),PRO,2028,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/pierre-popelin-4497.html,Pierre POPELIN,Ouverture,30,23/06/1995,,87,JIFF,PRO,2026,,TABLE PROS
+Castres Olympique,Fidji,,https://www.allrugby.com/joueurs/adrea-cocagi-1938.html,Adrea COCAGI,Centre,31,01/03/1994,,109,JIFF,PRO,2026,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/adrien-seguret-5290.html,Adrien SÉGURET,Centre,27,22/07/1998,,95,JIFF,PRO,2026,,TABLE PROS
+Castres Olympique,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/jack-goodhue-6033.html,Jack GOODHUE,Centre,30,13/06/1995,,102,NON JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,Fidji,,https://www.allrugby.com/joueurs/vilimoni-botitu-9866.html,Vilimoni BOTITU,Centre,27,15/06/1998,,98,NON JIFF,PRO,2026,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/adam-vargas-10491.html,Adam VARGAS,Ailier,25,11/08/2000,,80,JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,Cameroun,,https://www.allrugby.com/joueurs/christian-ambadiang-11122.html,Christian AMBADIANG,Ailier,26,13/01/1999,,107,NON JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/geoffrey-palis-1351.html,Geoffrey PALIS,Ailier,34,08/07/1991,,96,JIFF,PRO,2026,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/nathanael-hulleu-8266.html,Nathanaël HULLEU,Ailier,25,16/05/2000,,87,JIFF,PRO,2026,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/remy-baget-6055.html,Rémy BAGET,Ailier,28,27/07/1997,,89,JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,Fidji,,https://www.allrugby.com/joueurs/vuate-karawalevu-15858.html,Vuate KARAWALEVU,Ailier,24,15/03/2001,,104,NON JIFF,PRO,2027,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/theo-chabouni-13646.html,Théo CHABOUNI,Arrière,21,22/12/2003,,85,JIFF,ESPOIR,2028,,TABLE PROS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/elyan-duthil-21463.html,Elyan DUTHIL,Pilier,18,/01/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/gabin-issaly-21205.html,Gabin ISSALY,Pilier,17,/11/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/gabin-waterlot-18845.html,Gabin WATERLOT,Pilier,19,/07/2006,,112,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,Géorgie,,https://www.allrugby.com/joueurs/giorgi-turashvili-21180.html,Giorgi TURASHVILI,Pilier,19,/08/2006,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/kingbenjamin-swerling-finaipepe-21211.html,Kingbenjamin SWERLING-FINAIPEPE,Pilier,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,Géorgie,,https://www.allrugby.com/joueurs/mate-gurtskaia-18231.html,Mate GURTSKAIA,Pilier,19,/12/2005,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/noah-cuynet-17029.html,Noah CUYNET,Pilier,20,/04/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/enzo-saint-cyr-aguilar-21430.html,Enzo SAINT-CYR AGUILAR,Talonneur,18,/07/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/lukas-mitu-17300.html,Lukas MITU,Talonneur,21,26/03/2004,,107,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,Russie,,https://www.allrugby.com/joueurs/alexey-konnov-13461.html,Alexey KONNOV,2ème ligne,22,10/09/2003,,114,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/nolhan-cassez-18236.html,Nolhan CASSEZ,2ème ligne,19,/01/2006,,91,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,Fidji,,https://www.allrugby.com/joueurs/atunaisa-sokobale-18206.html,Atunaisa SOKOBALE,3ème ligne,20,/05/2005,,110,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/enzo-loubet-18843.html,Enzo LOUBET,3ème ligne,20,/07/2005,,94,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/kerian-el-bahraoui-missonnier-21208.html,Kérian EL BAHRAOUI-MISSONNIER,3ème ligne,,-,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/kevin-diaz-18847.html,Kévin DIAZ,3ème ligne,20,/01/2005,,96,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/marius-audemar-ghion-21207.html,Marius AUDEMAR-GHION,3ème ligne,17,/02/2008,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/nael-salhi-21210.html,Naël SALHI,3ème ligne,,-,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,Belgique,,https://www.allrugby.com/joueurs/remi-loop-15737.html,Rémi LOOP,3ème ligne,20,/06/2005,,105,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/robin-boyer-18250.html,Robin BOYER,3ème ligne,20,/03/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/timeo-gillouin-lemaire-21209.html,Timéo GILLOUIN-LEMAIRE,Mêlée,17,/06/2008,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/gabin-galy-18841.html,Gabin GALY,Ouverture,19,/09/2006,,82,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/louis-bothorel-18235.html,Louis BOTHOREL,Ouverture,19,/02/2006,,81,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/louka-guilhot-15387.html,Louka GUILHOT,Ouverture,19,/01/2006,,80,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/alfred-mouandjo-18543.html,Alfred MOUANDJO,Centre,19,/04/2006,,-,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/clement-barthes-17051.html,Clément BARTHÈS,Centre,20,/03/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/pierre-ourtaud-cren-18252.html,Pierre OURTAUD-CREN,Centre,19,/09/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/alban-collin-18839.html,Alban COLLIN,Ailier,20,/06/2005,,71,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/gautier-sarraute-21206.html,Gautier SARRAUTE,Ailier,18,/05/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/melvin-corpel-21000.html,Melvin CORPEL,Ailier,21,20/06/2004,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/nolan-promeneur-20843.html,Nolan PROMENEUR,Ailier,20,/02/2005,,78,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Castres Olympique,France,,https://www.allrugby.com/joueurs/mathys-falguera-18846.html,Mathys FALGUÉRA,Arrière,21,30/01/2004,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,Moldavie,,https://www.allrugby.com/joueurs/cristian-ojovan-5550.html,Cristian OJOVAN,Pilier,28,04/01/1997,,120,JIFF,PRO,2026,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/etienne-falgoux-1969.html,Etienne FALGOUX,Pilier,32,19/01/1993,,112,JIFF Formé(8),PRO,2026,,TABLE PROS
+ASM Clermont Auvergne,Géorgie,,https://www.allrugby.com/joueurs/giorgi-akhaladze-7305.html,Giorgi AKHALADZE,Pilier,26,13/04/1999,,128,JIFF,PRO,2026,,TABLE PROS
+ASM Clermont Auvergne,Géorgie,,https://www.allrugby.com/joueurs/giorgi-dzmanashvili-14124.html,Giorgi DZMANASHVILI,Pilier,23,16/06/2002,,122,JIFF Formé(8),PRO,2028,,TABLE PROS
+ASM Clermont Auvergne,Australie,,https://www.allrugby.com/joueurs/michael-alaalatoa-6700.html,Michael ALAALATOA,Pilier,34,28/08/1991,,130,NON JIFF,PRO,2026,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/regis-montagne-8869.html,Régis MONTAGNE,Pilier,24,30/09/2000,,133,JIFF,PRO,2027,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/sacha-lotrian-7681.html,Sacha LOTRIAN,Pilier,25,13/08/2000,,106,JIFF,PRO,2027,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/barnabe-massa-14198.html,Barnabé MASSA,Talonneur,21,13/05/2004,,103,JIFF,ESPOIR,2027,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/etienne-fourcade-4381.html,Etienne FOURCADE,Talonneur,28,11/04/1997,,103,JIFF,PRO,2026,,TABLE PROS
+ASM Clermont Auvergne,Australie,,https://www.allrugby.com/joueurs/folau-fainga-a-6802.html,Folau FAINGA'A,Talonneur,30,05/05/1995,,115,NON JIFF,PRO,2026 +1,,TABLE PROS
+ASM Clermont Auvergne,Australie,,https://www.allrugby.com/joueurs/rob-simmons-3880.html,Rob SIMMONS,2ème ligne,36,19/04/1989,,115,NON JIFF,PRO,2026 +1,,TABLE PROS
+ASM Clermont Auvergne,Fidji,,https://www.allrugby.com/joueurs/tevita-ratuva-6650.html,Tevita RATUVA,2ème ligne,30,08/05/1995,,124,NON JIFF,PRO,2027 +1,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/thibaud-lanen-7764.html,Thibaud LANEN,2ème ligne,27,01/04/1998,,110,JIFF Formé(8),PRO,2027 +1,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/thomas-ceyte-3465.html,Thomas CEYTE,2ème ligne,34,13/02/1991,,120,JIFF,PRO,2026,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/anthime-hemery-12328.html,Anthime HEMERY,3ème ligne,24,09/01/2001,,111,JIFF,PRO,2027,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/killian-tixeront-8041.html,Killian TIXERONT,3ème ligne,23,22/01/2002,,107,JIFF Formé(8),PRO,2028 +1,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/lucas-dessaigne-7955.html,Lucas DESSAIGNE,3ème ligne,26,07/02/1999,,102,JIFF Formé(8),PRO,2027,,TABLE PROS
+ASM Clermont Auvergne,Argentine,,https://www.allrugby.com/joueurs/marcos-kremer-5577.html,Marcos KREMER,3ème ligne,28,30/07/1997,,115,NON JIFF,PRO,2028,,TABLE PROS
+ASM Clermont Auvergne,Fidji,,https://www.allrugby.com/joueurs/pio-muarua-4228.html,Pio MUARUA,3ème ligne,29,28/06/1996,,125,JIFF,PRO,2028,,TABLE PROS
+ASM Clermont Auvergne,Fidji,,https://www.allrugby.com/joueurs/pita-gus-sowakula-6846.html,Pita-Gus SOWAKULA,3ème ligne,30,26/10/1994,,117,NON JIFF,PRO,2027 +1,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/selevasio-tolofua-5069.html,Selevasio TOLOFUA,3ème ligne,28,31/05/1997,,116,JIFF,PRO,2028,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/baptiste-jauneau-10021.html,Baptiste JAUNEAU,Mêlée,21,17/11/2003,,82,JIFF Formé(8),PRO,2028 +1,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/lucas-zamora-14167.html,Lucas ZAMORA,Mêlée,20,29/11/2004,,80,JIFF,ESPOIR,2028,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/sebastien-bezy-1091.html,Sébastien BÉZY,Mêlée,33,22/11/1991,,78,JIFF,PRO,2026,,TABLE PROS
+ASM Clermont Auvergne,Espagne,,https://www.allrugby.com/joueurs/-juan-segundo-martin-montilla-21603.html,Juan MARTÍN MONTILLA,Ouverture,18,06/07/2007,,-,NON JIFF,ESPOIR,,,TABLE PROS
+ASM Clermont Auvergne,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/harry-plummer-7546.html,Harry PLUMMER,Ouverture,27,19/06/1998,,96,NON JIFF,PRO,2028,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/tom-raffy-10862.html,Tom RAFFY,Ouverture,21,26/07/2004,,83,JIFF,ESPOIR,2026,,TABLE PROS
+ASM Clermont Auvergne,Fidji,,https://www.allrugby.com/joueurs/alivereti-loaloa-7992.html,Alivereti LOALOA,Centre,24,10/12/2000,,104,JIFF,PRO,2028,,TABLE PROS
+ASM Clermont Auvergne,Tonga,,https://www.allrugby.com/joueurs/george-moala-4998.html,George MOALA,Centre,34,05/11/1990,,106,NON JIFF,PRO,2026,,TABLE PROS
+ASM Clermont Auvergne,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/irae-simone-6915.html,Irae SIMONE,Centre,30,10/07/1995,,105,NON JIFF,PRO,2026 +1,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/leon-darricarrere-11217.html,Léon DARRICARRÈRE,Centre,21,04/06/2004,,102,JIFF Formé(8),PRO,2027 +1,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/pierre-fouyssac-3530.html,Pierre FOUYSSAC,Centre,30,17/03/1995,,110,JIFF,PRO,2026,,TABLE PROS
+ASM Clermont Auvergne,Fidji,,https://www.allrugby.com/joueurs/alivereti-raka-3567.html,Alivereti RAKA,Ailier,30,09/12/1994,,105,JIFF Formé(8),PRO,2026 +1,,TABLE PROS
+ASM Clermont Auvergne,Argentine,,https://www.allrugby.com/joueurs/bautista-delguy-6149.html,Bautista DELGUY,Ailier,28,22/04/1997,,85,NON JIFF,PRO,2028,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/joris-jurand-7299.html,Joris JURAND,Ailier,29,11/11/1995,,106,JIFF,PRO,2027 +1,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/lucas-tauzin-4384.html,Lucas TAUZIN,Ailier,27,21/05/1998,,98,JIFF,PRO,2026,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/yerim-fall-13746.html,Yérim FALL,Ailier,22,24/06/2003,,90,JIFF Formé(8),PRO,2027,,TABLE PROS
+ASM Clermont Auvergne,Australie,,https://www.allrugby.com/joueurs/alex-newsome-6732.html,Alex NEWSOME,Arrière,30,20/01/1995,,95,NON JIFF,PRO,2026,,TABLE PROS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/kylan-hamdaoui-2454.html,Kylan HAMDAOUI,Arrière,31,15/04/1994,,91,JIFF,PRO,2027,,TABLE PROS
+ASM Clermont Auvergne,Géorgie,,https://www.allrugby.com/joueurs/giga-tutisani-14801.html,Giga TUTISANI,Pilier,21,03/02/2004,,118,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/matheo-frisach-15389.html,Mathéo FRISACH,Pilier,19,/02/2006,,127,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/nohem-ez-zahouany-20641.html,Nohem EZ ZAHOUANY,Pilier,18,/02/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/tom-belkessa-15386.html,Tom BELKESSA,Talonneur,19,/07/2006,,98,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/antoine-madelbos-21378.html,Antoine MADELBOS,2ème ligne,20,/01/2005,,107,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/baptiste-veschambre-21575.html,Baptiste VESCHAMBRE,2ème ligne,18,/03/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/leo-michaux-21576.html,Léo MICHAUX,2ème ligne,18,/09/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,Italie,,https://www.allrugby.com/joueurs/piero-gritti-15194.html,Piero GRITTI,2ème ligne,20,/02/2005,,110,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/remy-lanen-15388.html,Rémy LANEN,2ème ligne,19,/03/2006,,104,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/antoine-chalus-15384.html,Antoine CHALUS,3ème ligne,20,/01/2005,,101,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/baptiste-britz-15232.html,Baptiste BRITZ,3ème ligne,20,/05/2005,,96,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+ASM Clermont Auvergne,Géorgie,,https://www.allrugby.com/joueurs/giorgi-gergedava-14800.html,Giorgi GERGEDAVA,3ème ligne,21,23/03/2004,,110,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/raphael-payrastre-20635.html,Raphaël PAYRASTRE,3ème ligne,18,/08/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/fernand-auvray-20230.html,Fernand AUVRAY,Mêlée,19,/02/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,Pays-Bas,,https://www.allrugby.com/joueurs/niek-doornenbal-16807.html,Niek DOORNENBAL,Mêlée,19,/12/2005,,85,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/timeo-frier-20642.html,Timéo FRIER,Ouverture,18,/09/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/dimitri-emery-20640.html,Dimitri EMERY,Centre,17,/11/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/elyo-merlin-15666.html,Elyo MERLIN,Centre,18,/10/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+ASM Clermont Auvergne,France,,https://www.allrugby.com/joueurs/axel-guillaud-17502.html,Axel GUILLAUD,Arrière,19,/04/2006,,86,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,Géorgie,,https://www.allrugby.com/joueurs/aleksandre-kuntelia-11766.html,Aleksandre KUNTELIA,Pilier,23,26/06/2002,,135,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/alexandre-kaddouri-13460.html,Alexandre KADDOURI,Pilier,21,12/12/2003,,114,JIFF,ESPOIR,,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/christian-luaki-18103.html,Christian LUAKI,Pilier,21,23/04/2004,,-,JIFF,ESPOIR,,,TABLE PROS
+Stade Rochelais,Argentine,,https://www.allrugby.com/joueurs/joel-sclavi-4428.html,Joel SCLAVI,Pilier,31,25/06/1994,,139,NON JIFF,PRO,2026,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/karl-sorin-14166.html,Karl SORIN,Pilier,22,07/08/2003,,135,JIFF,ESPOIR,,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/louis-penverne-12229.html,Louis PENVERNE,Pilier,22,22/03/2003,,111,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/reda-wardi-4286.html,Reda WARDI,Pilier,30,02/08/1995,,111,JIFF,PRO,2028,,TABLE PROS
+Stade Rochelais,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/uini-atonio-1625.html,Uini ATONIO,Pilier,35,26/03/1990,,147,NON JIFF,PRO,2027,,TABLE PROS
+Stade Rochelais,Géorgie,,https://www.allrugby.com/joueurs/nika-sutidze-13788.html,Nika SUTIDZE,Talonneur,22,01/09/2003,,104,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/pierre-bourgarit-5178.html,Pierre BOURGARIT,Talonneur,28,12/09/1997,,105,JIFF,PRO,2029,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/quentin-lespiaucq-2443.html,Quentin LESPIAUCQ,Talonneur,30,16/02/1995,,102,JIFF,PRO,2027,,TABLE PROS
+Stade Rochelais,Tonga,,https://www.allrugby.com/joueurs/tolu-latu-5010.html,Tolu LATU,Talonneur,32,23/02/1993,,117,NON JIFF,PRO,2026,,TABLE PROS
+Stade Rochelais,Australie,,https://www.allrugby.com/joueurs/kane-douglas-2696.html,Kane DOUGLAS,2ème ligne,36,01/06/1989,,123,NON JIFF,PRO,2026,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/thomas-lavault-6951.html,Thomas LAVAULT,2ème ligne,26,03/05/1999,,108,JIFF Formé(8),PRO,2029,,TABLE PROS
+Stade Rochelais,Irlande,,https://www.allrugby.com/joueurs/ultan-dillane-4095.html,Ultan DILLANE,2ème ligne,31,09/11/1993,,115,NON JIFF,PRO,2026,,TABLE PROS
+Stade Rochelais,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/will-skelton-3888.html,Will SKELTON,2ème ligne,33,03/05/1992,,145,NON JIFF,PRO,2028,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/greg-alldritt-5177.html,Greg ALLDRITT,3ème ligne,28,23/03/1997,,114,JIFF,PRO,2029,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/judicael-cancoriet-2512.html,Judicaël CANCORIET,3ème ligne,29,25/04/1996,,116,JIFF,PRO,2026,,TABLE PROS
+Stade Rochelais,Fidji,,https://www.allrugby.com/joueurs/levani-botia-2213.html,Levani BOTIA,3ème ligne,36,14/03/1989,,103,NON JIFF,PRO,2026,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/lucas-andjisseramatchi-17859.html,Lucas ANDJISSERAMATCHI,3ème ligne,19,12/04/2006,,-,JIFF,ESPOIR,2027,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/matthias-haddad-7892.html,Matthias HADDAD,3ème ligne,24,10/03/2001,,99,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/oscar-jegou-14697.html,Oscar JÉGOU,3ème ligne,22,31/05/2003,,90,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/paul-boudehent-7071.html,Paul BOUDEHENT,3ème ligne,25,21/11/1999,,107,JIFF Formé(8),PRO,2029,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/nolann-le-garrec-8930.html,Nolann LE GARREC,Mêlée,23,14/05/2002,,75,JIFF(8),PRO,2029,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/thomas-berjon-7091.html,Thomas BERJON,Mêlée,27,12/04/1998,,87,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/antoine-hastoy-4448.html,Antoine HASTOY,Ouverture,28,04/06/1997,,86,JIFF,PRO,2029,,TABLE PROS
+Stade Rochelais,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/ihaia-west-5880.html,Ihaia WEST,Ouverture,33,16/01/1992,,85,NON JIFF,PRO,2026,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/jonathan-danty-1118.html,Jonathan DANTY,Centre,32,07/10/1992,,110,JIFF,PRO,2027,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/jules-favre-7001.html,Jules FAVRE,Centre,26,22/03/1999,,93,JIFF Formé(8),PRO,2029,,TABLE PROS
+Stade Rochelais,Fidji,,https://www.allrugby.com/joueurs/semi-lagivala-15874.html,Semi LAGIVALA,Centre,22,06/04/2003,,94,JIFF(8),PRO,2028,,TABLE PROS
+Stade Rochelais,Australie,,https://www.allrugby.com/joueurs/ulupano-seuteni-3495.html,Ulupano SEUTENI,Centre,31,09/12/1993,,100,JIFF,PRO,2028,,TABLE PROS
+Stade Rochelais,Afrique du sud,,https://www.allrugby.com/joueurs/dillyn-leyds-5332.html,Dillyn LEYDS,Ailier,33,12/09/1992,,88,NON JIFF,PRO,2027,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/hoani-bosmorin-14765.html,Hoani BOSMORIN,Ailier,20,27/12/2004,,85,JIFF,ESPOIR,2027,,TABLE PROS
+Stade Rochelais,Angleterre,,https://www.allrugby.com/joueurs/jack-nowell-2118.html,Jack NOWELL,Ailier,32,11/04/1993,,98,NON JIFF,PRO,2027,,TABLE PROS
+Stade Rochelais,Fidji,,https://www.allrugby.com/joueurs/suliasi-vunivalu-9055.html,Suliasi VUNIVALU,Ailier,29,27/11/1995,,102,NON JIFF,PRO,,,TABLE PROS
+Stade Rochelais,Géorgie,,https://www.allrugby.com/joueurs/davit-niniashvili-11059.html,Davit NINIASHVILI,Arrière,23,14/07/2002,,90,JIFF(8),PRO,2029,,TABLE PROS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/ugo-pacome-16417.html,Ugo PACOME,Arrière,20,01/05/2005,,85,JIFF,ESPOIR,2027,,TABLE PROS
+Stade Rochelais,Argentine,,https://www.allrugby.com/joueurs/gael-galvan-17399.html,Gael GALVÁN,Pilier,20,/02/2005,,150,NON JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/mathis-clavier-18552.html,Mathis CLAVIER,Pilier,19,/01/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/maxence-ligeron-borg-20648.html,Maxence LIGERON-BORG,Pilier,18,/02/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,Australie,,https://www.allrugby.com/joueurs/sio-kite-20227.html,Sio KITE,Pilier,16,/11/2008,,147,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,Pays-Bas,,https://www.allrugby.com/joueurs/toine-obiang-nguema-18555.html,Toine OBIANG NGUEMA,Pilier,19,/06/2006,,124,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,Tonga,,https://www.allrugby.com/joueurs/upaleto-feao-17173.html,Upaleto FEAO,Pilier,20,/06/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/gabin-garault-17169.html,Gabin GARAULT,Talonneur,19,/06/2006,,109,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/romain-albinet-18549.html,Romain ALBINET,Talonneur,19,/11/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/charles-kante-samba-16880.html,Charles KANTÉ-SAMBA,2ème ligne,20,/02/2005,,115,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,Russie,,https://www.allrugby.com/joueurs/kirill-fraindt-21567.html,Kirill FRAINDT,2ème ligne,19,/07/2006,,-,NON JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/robin-garnier-16831.html,Robin GARNIER,2ème ligne,20,/05/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/simon-huchet-14766.html,Simon HUCHET,2ème ligne,21,07/04/2004,,110,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/ybann-padonou-18563.html,Ybann PADONOU,2ème ligne,19,/05/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/edouard-richer-16337.html,Édouard RICHER,3ème ligne,21,17/04/2004,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/hugo-marchais-18557.html,Hugo MARCHAIS,3ème ligne,20,/04/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/oscar-boutez-18550.html,Oscar BOUTEZ,3ème ligne,17,/11/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/nolhann-couillaud-18566.html,Nolhann COUILLAUD,Mêlée,18,/12/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/temanatua-boichot-17168.html,Temanatua BOICHOT,Mêlée,19,/03/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/diego-jurd-17171.html,Diego JURD,Ouverture,19,/08/2006,,87,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,Fidji,,https://www.allrugby.com/joueurs/simeli-daunivucu-16339.html,Simeli DAUNIVUCU,Centre,20,/02/2005,,100,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/hugo-bizotto-18554.html,Hugo BIZOTTO,Ailier,19,/02/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,Tonga,,https://www.allrugby.com/joueurs/jurgen-kamoto-18565.html,Jurgen KAMOTO,Ailier,19,/05/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/nathan-bollengier-16338.html,Nathan BOLLENGIER,Ailier,21,18/01/2004,,85,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,Fidji,,https://www.allrugby.com/joueurs/vuetimaiwai-peni-torau-17172.html,Peni Torau VUETIMAIWAI,Ailier,19,/03/2006,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/pierre-berthelot-18553.html,Pierre BERTHELOT,Ailier,19,/04/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/martin-betsen-18569.html,Martin BETSEN,Arrière,19,/03/2006,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Rochelais,France,,https://www.allrugby.com/joueurs/maxime-thomas-18560.html,Maxime THOMAS,Arrière,20,/02/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,Portugal,,https://www.allrugby.com/joueurs/cedate-gomes-sa-3431.html,Cedate GOMES SA,Pilier,32,07/08/1993,,113,JIFF,PRO,2026,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/hamza-kaabeche-4679.html,Hamza KAABÈCHE,Pilier,29,23/09/1996,,118,JIFF Formé(8),PRO,2028,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Géorgie,,https://www.allrugby.com/joueurs/irakli-aptsiauri-11938.html,Irakli APTSIAURI,Pilier,22,23/02/2003,,126,JIFF(8),PRO,2028,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/jermaine-ainsley-6654.html,Jermaine AINSLEY,Pilier,30,08/08/1995,,127,NON JIFF,PRO,2026,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/jerome-rey-5131.html,Jérôme REY,Pilier,30,19/05/1995,,133,JIFF,PRO,2029,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/thomas-moukoro-11047.html,Thomas MOUKORO,Pilier,23,01/01/2002,,121,JIFF,PRO,2027 +1,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/camille-chat-2559.html,Camille CHAT,Talonneur,29,18/12/1995,,101,JIFF,PRO,2029,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/guillaume-marchand-5553.html,Guillaume MARCHAND,Talonneur,27,05/06/1998,,102,JIFF,PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/mathis-sarragallet-7342.html,Mathis SARRAGALLET,Talonneur,25,06/07/2000,,109,JIFF,PRO,2027 +1,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/felix-lambey-2545.html,Félix LAMBEY,2ème ligne,31,15/03/1994,,106,JIFF Formé(8),PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Afrique du sud,,https://www.allrugby.com/joueurs/janse-roux-5543.html,Janse ROUX,2ème ligne,28,28/08/1997,,125,NON JIFF,PRO,2026,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/killian-geraci-5314.html,Killian GÉRACI,2ème ligne,26,25/03/1999,,118,JIFF Formé(8),PRO,2026,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/mickael--guillard-7749.html,Mickaël GUILLARD,2ème ligne,24,10/12/2000,,122,JIFF Formé(8),PRO,2029,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Afrique du sud,,https://www.allrugby.com/joueurs/arno-botha-6204.html,Arno BOTHA,3ème ligne,33,26/10/1991,,108,NON JIFF,PRO,2026,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Géorgie,,https://www.allrugby.com/joueurs/beka-saghinadze-6738.html,Beka SAGINADZE,3ème ligne,26,29/10/1998,,110,JIFF,PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Géorgie,,https://www.allrugby.com/joueurs/beka-shvangiradze-10665.html,Beka SHVANGIRADZE,3ème ligne,23,12/06/2002,,104,JIFF(8),PRO,2028,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/dylan-cretin-4846.html,Dylan CRETIN,3ème ligne,28,04/05/1997,,105,JIFF Formé(8),PRO,2028,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/liam-allen-11552.html,Liam ALLEN,3ème ligne,25,17/03/2000,,105,NON JIFF,PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/marvin-okuya-11984.html,Marvin OKUYA,3ème ligne,21,29/12/2003,,110,JIFF Formé(8),PRO,,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/maxime-gouzou-7431.html,Maxime GOUZOU,3ème ligne,27,11/09/1998,,106,JIFF,PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Angleterre,,https://www.allrugby.com/joueurs/sam-simmonds-5634.html,Sam SIMMONDS,3ème ligne,30,10/11/1994,,108,NON JIFF,PRO,2027 +1,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/steeve-blanc-mappaz-5214.html,Steeve BLANC-MAPPAZ,3ème ligne,35,02/07/1990,,103,JIFF,PRO,2026,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/theo-william-9376.html,Théo WILLIAM,3ème ligne,25,04/07/2000,,109,JIFF Formé(8),PRO,2029,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/baptiste-couilloud-4362.html,Baptiste COUILLOUD,Mêlée,28,22/07/1997,,83,JIFF Formé(8),PRO,2030,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/charlie-cassang-3425.html,Charlie CASSANG,Mêlée,30,08/02/1995,,92,JIFF,PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/esteban-gonzalez-17045.html,Esteban GONZALEZ,Mêlée,19,28/11/2005,,80,JIFF,ESPOIR,,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/leo-berdeu-5217.html,Léo BERDEU,Ouverture,27,13/06/1998,,99,JIFF Formé(8),PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Irlande,,https://www.allrugby.com/joueurs/paddy-jackson-2147.html,Paddy JACKSON,Ouverture,33,05/01/1992,,89,NON JIFF,PRO,2026,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/alfred-parisien-10749.html,Alfred PARISIEN,Centre,24,04/03/2001,,93,JIFF Formé(8),PRO,2029,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Fidji,,https://www.allrugby.com/joueurs/iosefo-masi-14469.html,Iosefo MASI,Centre,27,09/05/1998,,97,NON JIFF,PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/josiah-maraku-12490.html,Josiah MARAKU,Centre,25,30/03/2000,,97,NON JIFF,PRO,2029,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/theo-millet-3587.html,Théo MILLET,Centre,28,08/07/1997,,99,JIFF,PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/thibaut-regard-1501.html,Thibaut REGARD,Centre,32,06/08/1993,,95,JIFF Formé(8),PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/arthur-mathiron-11787.html,Arthur MATHIRON,Ailier,22,19/05/2003,,95,JIFF Formé(8),PRO,,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/ethan-dumortier-7670.html,Ethan DUMORTIER,Ailier,24,29/12/2000,,95,JIFF Formé(8),PRO,2028,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Fidji,,https://www.allrugby.com/joueurs/jiuta-wainiqolo-11745.html,Jiuta WAINIQOLO,Ailier,26,10/03/1999,,97,NON JIFF,PRO,2028,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Australie,,https://www.allrugby.com/joueurs/monty-ioane-2446.html,Monty IOANE,Ailier,30,30/10/1994,,95,NON JIFF,PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/vincent-rattez-1466.html,Vincent RATTEZ,Ailier,33,24/03/1992,,89,JIFF,PRO,2027,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/alexandre-tchaptchet-9835.html,Alexandre TCHAPTCHET,Arrière,23,26/09/2001,,82,JIFF Formé(8),PRO,2028,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/gabin-lorre-10916.html,Gabin LORRE,Arrière,23,23/12/2001,,82,JIFF(8),PRO,2028,,TABLE PROS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/martin-meliande-12154.html,Martin MÉLIANDE,Arrière,23,20/12/2001,,84,JIFF(8),PRO,2028,,TABLE PROS
+Lyon Olympique Universitaire Rugby,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/ave-maalo-17310.html,Avé MAALO,Pilier,22,27/08/2003,,143,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/cedric-atlan-20563.html,Cédric ATLAN,Pilier,20,/07/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/lyan-pakihivatau-18995.html,Lyan PAKIHIVATAU,Pilier,20,/03/2005,,120,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/thomas-marceline-17046.html,Thomas MARCELINE,Pilier,20,/06/2005,,110,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/baptiste-narmand-14789.html,Baptiste NARMAND,Talonneur,20,/06/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,Australie,,https://www.allrugby.com/joueurs/terence-fusi-17793.html,Terence FUSI,Talonneur,19,/11/2005,,111,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/bartholome-sanson-18719.html,Bartholomé SANSON,2ème ligne,20,/06/2005,,100,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/lilou-brun-bourdi-18838.html,Lilou BRUN-BOURDI,2ème ligne,20,/01/2005,,102,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,Afrique du sud,,https://www.allrugby.com/joueurs/ruan-viviers-18860.html,Ruan VIVIERS,2ème ligne,19,/03/2006,,117,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/antoine-deliance-17680.html,Antoine DÉLIANCE,3ème ligne,20,/03/2005,,99,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/cleo-bard-17837.html,Cléo BARD,3ème ligne,16,/10/2008,,90,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/jules-vuachet-17681.html,Jules VUACHET,3ème ligne,20,/07/2005,,91,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/lilian-baret-17835.html,Lilian BARET,3ème ligne,17,/02/2008,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,Géorgie,,https://www.allrugby.com/joueurs/luka-saginadze-18036.html,Luka SAGINADZE,3ème ligne,19,/02/2006,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/owen-fresnais-21521.html,Owen FRESNAIS,3ème ligne,18,/05/2007,,-,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/mathis-galeazzi-17791.html,Mathis GALEAZZI,Ouverture,18,/08/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/paco-mazoyer-17834.html,Paco MAZOYER,Ouverture,19,/04/2006,,91,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,Géorgie,,https://www.allrugby.com/joueurs/davit-barbakadze-20259.html,Davit BARBAKADZE,Centre,,-,,-,NON JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/dorian-diabou-17836.html,Dorian DIABOU,Centre,19,/04/2006,,109,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/raphael-martin-21519.html,Raphaël MARTIN,Centre,17,/10/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/alexandre-messire-21520.html,Alexandre MESSIRE,Ailier,18,/08/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/charly-mignot-17838.html,Charly MIGNOT,Ailier,19,/02/2006,,82,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,France,,https://www.allrugby.com/joueurs/gabin-lacoste-17792.html,Gabin LACOSTE,Arrière,19,/05/2006,,91,JIFF,ESPOIR,,,TABLE ESPOIRS
+Lyon Olympique Universitaire Rugby,Géorgie,,https://www.allrugby.com/joueurs/luka-khorbaladze-14989.html,Luka KHORBALADZE,Arrière,21,10/03/2004,,85,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Union Sportive Montalbanaise,Argentine,,https://www.allrugby.com/joueurs/facundo-pomponio-7335.html,Facundo POMPONIO,Pilier,33,01/04/1992,,120,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/leo-aouf-5907.html,Léo AOUF,Pilier,28,25/02/1997,,120,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/lucas-seyrolles-4756.html,Lucas SEYROLLE,Pilier,30,04/09/1995,,131,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,Argentine,,https://www.allrugby.com/joueurs/lucio-sordoni-7189.html,Lucio SORDONI,Pilier,27,23/07/1998,,130,NON JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,Géorgie,,https://www.allrugby.com/joueurs/luka-azariashvili-8100.html,Luka AZARIASHVILI,Pilier,25,30/11/1999,,118,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,Géorgie,,https://www.allrugby.com/joueurs/nugzar-somkhishvili-9925.html,Nugzar SOMKHISHVILI,Pilier,24,30/08/2001,,110,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/thomas-bue-12275.html,Thomas BUÉ,Pilier,23,25/07/2002,,123,JIFF Formé(8),PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/valentin-simutoga-8043.html,Valentin SIMUTOGA,Pilier,22,14/02/2003,,125,JIFF(8),PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/jeremie-maurouard-1909.html,Jérémie MAUROUARD,Talonneur,33,23/09/1992,,100,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/kevin-firmin-1088.html,Kévin FIRMIN,Talonneur,33,20/04/1992,,108,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,Afrique du sud,,https://www.allrugby.com/joueurs/ru-hann-greyling-10307.html,Ru-Hann GREYLING,Talonneur,26,28/05/1999,,108,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,Géorgie,,https://www.allrugby.com/joueurs/vakhtang-jincharadze-8109.html,Vakhtang JINTCHARADZE,Talonneur,25,08/11/1999,,116,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/clement-bitz-4392.html,Clément BITZ,2ème ligne,30,29/12/1994,,115,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,Irlande,,https://www.allrugby.com/joueurs/frank-bradshaw-5230.html,Frank BRADSHAW,2ème ligne,30,27/07/1995,,125,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,Angleterre,,https://www.allrugby.com/joueurs/lewis-bean-7205.html,Lewis BEAN,2ème ligne,33,12/02/1992,,129,NON JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,Namibie,,https://www.allrugby.com/joueurs/tjiuee-uanivi-1314.html,Tjiuee UANIVI,2ème ligne,34,31/12/1990,,110,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,Tonga,,https://www.allrugby.com/joueurs/vaea-fifita-5398.html,Vaea FIFITA,2ème ligne,33,17/06/1992,,116,NON JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/victor-moreaux-2376.html,Victor MOREAUX,2ème ligne,32,19/09/1993,,127,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/fred-quercy-1904.html,Fred QUERCY,3ème ligne,34,06/07/1991,,103,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,Angleterre,,https://www.allrugby.com/joueurs/karl-wilkins-4441.html,Karl WILKINS,3ème ligne,29,28/02/1996,,114,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/kyllian-ringuet-12276.html,Kyllian RINGUET,3ème ligne,21,03/10/2003,,104,JIFF,ESPOIR,2027,,TABLE PROS
+Union Sportive Montalbanaise,Etats-Unis,,https://www.allrugby.com/joueurs/nafi-ma-afu-5467.html,Nafi MA'AFU,3ème ligne,27,19/06/1998,,110,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/noa-kanika-10185.html,Noa KANIKA,3ème ligne,23,06/01/2002,,114,JIFF(8),PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,Afrique du sud,,https://www.allrugby.com/joueurs/sikhumbuzo-notshe-6110.html,Sikhumbuzo NOTSHE,3ème ligne,32,28/05/1993,,105,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,Argentine,,https://www.allrugby.com/joueurs/tomas-lezana-5027.html,Tomás LEZANA,3ème ligne,31,16/02/1994,,104,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,Îles Cook,,https://www.allrugby.com/joueurs/tyrone-viiga-5198.html,Tyrone VIIGA,3ème ligne,33,09/06/1992,,116,NON JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/hugo-zabalza-7796.html,Hugo ZABALZA,Mêlée,25,12/04/2000,,82,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,Australie,,https://www.allrugby.com/joueurs/joe-powell-5320.html,Joe POWELL,Mêlée,31,11/04/1994,,83,NON JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/jerome-bosviel-1964.html,Jérôme BOSVIEL,Ouverture,35,07/04/1990,,96,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/thomas-fortunel-2462.html,Thomas FORTUNEL,Ouverture,30,07/06/1995,,83,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,Afrique du sud,,https://www.allrugby.com/joueurs/jt-jackson-6898.html,JT JACKSON,Centre,29,10/07/1996,,105,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/maxime-espeut-6581.html,Maxime ESPEUT,Centre,25,25/02/2000,,94,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/maxime-mathy-1861.html,Maxime MATHY,Centre,32,24/10/1992,,88,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/simon-renda-8289.html,Simon RENDA,Centre,25,07/06/2000,,100,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/yvan-reilhac-4169.html,Yvan REILHAC,Centre,30,09/06/1995,,98,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,Fidji,,https://www.allrugby.com/joueurs/josua-vici-7774.html,Josua VICI,Ailier,31,20/02/1994,,108,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/paul-vallee-10081.html,Paul VALLÉE,Ailier,23,05/07/2002,,83,JIFF(8),PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/romain-fonnicola-12943.html,Romain FONNICOLA,Ailier,22,26/10/2002,,96,JIFF(8),PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/stephane-ahmed-10145.html,Stéphane AHMED,Ailier,26,04/02/1999,,93,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/baptiste-mouchous-5184.html,Baptiste MOUCHOUS,Arrière,26,19/10/1998,,89,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,Argentine,,https://www.allrugby.com/joueurs/segundo-tuculet-5272.html,Segundo TUCULET,Arrière,31,05/02/1994,,88,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/thomas-larregain-3493.html,Thomas LARREGAIN,Arrière,28,16/04/1997,,93,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/jordan-buret-21103.html,Jordan BURET,Pilier,18,/02/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/jules-laumond-14180.html,Jules LAUMOND,Pilier,21,16/08/2004,,108,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Union Sportive Montalbanaise,Géorgie,,https://www.allrugby.com/joueurs/levan-ezieshvili-16388.html,Levan EZIESHVILI,Pilier,,-,,118,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/esteban-faulong-21394.html,Esteban FAULONG,Talonneur,18,/08/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/thomas-ourliac-20945.html,Thomas OURLIAC,Talonneur,18,/07/2007,,90,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,Argentine,,https://www.allrugby.com/joueurs/mateo-lorenzo-15489.html,Mateo LORENZO,2ème ligne,22,09/07/2003,,112,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/quentin-humbert-18474.html,Quentin HUMBERT,2ème ligne,18,/10/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/remi-devis-20274.html,Rémi DEVIS,2ème ligne,19,/02/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,Irlande,,https://www.allrugby.com/joueurs/charlie-fenton-21588.html,Charlie FENTON,3ème ligne,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/corentin-coularis-14795.html,Corentin COULARIS,3ème ligne,23,29/08/2002,,107,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/jules-bousquet-18309.html,Jules BOUSQUET,3ème ligne,19,/03/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/elliot-vanoudendycke-20913.html,Elliot VANOUDENDYCKE,Mêlée,17,/10/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/jean-penetro-21587.html,Jean PÉNÉTRO,Mêlée,19,/11/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/mael-castel-15456.html,Maël CASTEL,Mêlée,21,20/07/2004,,-,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/merlin-leflamand-20311.html,Merlin LEFLAMAND,Ouverture,19,/07/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/gabin-letellier-20652.html,Gabin LETELLIER,Centre,18,/01/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/jules-francone-21076.html,Jules FRANCONE,Ailier,19,/01/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Montalbanaise,France,,https://www.allrugby.com/joueurs/jean-seux-21396.html,Jean SEUX,Arrière,18,/07/2007,,-,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/baptiste-erdocio-8150.html,Baptiste ERDOCIO,Pilier,25,13/03/2000,,115,JIFF,PRO,2029,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/enzo-forletta-2448.html,Enzo FORLETTA,Pilier,31,15/06/1994,,118,JIFF,PRO,2026,,TABLE PROS
+Montpellier Hérault Rugby,Géorgie,,https://www.allrugby.com/joueurs/luka-japaridze-6740.html,Luka JAPARIDZE,Pilier,27,06/09/1998,,126,JIFF,PRO,2029,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/mohammed-houas-4681.html,Mohamed HAOUAS,Pilier,31,09/03/1994,,127,JIFF Formé,PRO,2026,,TABLE PROS
+Montpellier Hérault Rugby,Géorgie,,https://www.allrugby.com/joueurs/nika-abuladze-11275.html,Nika ABULADZE,Pilier,30,20/08/1995,,126,NON JIFF,PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/wilfrid-hounkpatin-1476.html,Wilfrid HOUNKPATIN,Pilier,34,29/07/1991,,132,JIFF,PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/christopher-tolofua-1082.html,Christopher TOLOFUA,Talonneur,31,31/12/1993,,125,JIFF,PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/jordan-uelese-5588.html,Jordan UELESE,Talonneur,28,24/01/1997,,122,NON JIFF,PRO,2028,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/lyam-akrab-16341.html,Lyam AKRAB,Talonneur,20,06/09/2005,,103,JIFF,ESPOIR,2026,,TABLE PROS
+Montpellier Hérault Rugby,Afrique du sud,,https://www.allrugby.com/joueurs/ricky-riccitelli-6760.html,Ricky RICCITELLI,Talonneur,30,03/02/1995,,110,NON JIFF,PRO,2028,,TABLE PROS
+Montpellier Hérault Rugby,Pays-de-Galles,,https://www.allrugby.com/joueurs/adam-beard-4866.html,Adam BEARD,2ème ligne,29,07/01/1996,,121,NON JIFF,PRO,2028,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/bastien-chalureau-1912.html,Bastien CHALUREAU,2ème ligne,33,13/02/1992,,118,JIFF,PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/florian-verhaeghe-5088.html,Florian VERHAEGHE,2ème ligne,28,27/04/1997,,110,JIFF,PRO,2029,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/matthieu-uhila-9798.html,Matthieu UHILA,2ème ligne,23,30/04/2002,,113,JIFF Formé(8),PRO,,,TABLE PROS
+Montpellier Hérault Rugby,Canada,,https://www.allrugby.com/joueurs/tyler-duguid-8246.html,Tyler DUGUID,2ème ligne,24,17/10/2000,,124,JIFF Formé(8),PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,Australie,,https://www.allrugby.com/joueurs/alex-masibaka-13662.html,Alex MASIBAKA,3ème ligne,24,09/08/2001,,115,JIFF Formé(8),PRO,2028,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/alexandre-becognee-5466.html,Alexandre BÉCOGNÉE,3ème ligne,29,03/09/1996,,108,JIFF,PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,Australie,,https://www.allrugby.com/joueurs/billy-vunipola-2111.html,Billy VUNIPOLA,3ème ligne,32,03/11/1992,,134,NON JIFF,PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/lenni-nouchi-11986.html,Lenni NOUCHI,3ème ligne,21,24/11/2003,,108,JIFF,ESPOIR,2028,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/marco-tauleigne-1398.html,Marco TAULEIGNE,3ème ligne,32,30/08/1993,,118,JIFF,PRO,2026,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/yacouba-camara-1084.html,Yacouba CAMARA,3ème ligne,31,02/06/1994,,112,JIFF,PRO,2028,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/alexis-bernadet-11514.html,Alexis BERNADET,Mêlée,24,02/06/2001,,79,JIFF,PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,Angleterre,,https://www.allrugby.com/joueurs/ali-price-2635.html,Ali PRICE,Mêlée,32,12/05/1993,,88,NON JIFF,PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/leo-coly-7290.html,Léo COLY,Mêlée,26,09/09/1999,,79,JIFF,PRO,2026,,TABLE PROS
+Montpellier Hérault Rugby,Argentine,,https://www.allrugby.com/joueurs/domingo-miotti-7497.html,Domingo MIOTTI,Ouverture,29,22/05/1996,,93,NON JIFF,PRO,2026 +1,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/hugo-reus-14138.html,Hugo REUS,Ouverture,21,21/02/2004,,85,JIFF(8),PRO,2026,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/thomas-vincent-5905.html,Thomas VINCENT,Ouverture,26,21/07/1999,,85,JIFF,PRO,2026,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/arthur-vincent-5600.html,Arthur VINCENT,Centre,25,30/09/1999,,92,JIFF Formé(8),PRO,2028,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/auguste-cadot-8147.html,Auguste CADOT,Centre,24,28/07/2001,,92,JIFF(8),PRO,2026,,TABLE PROS
+Montpellier Hérault Rugby,Irlande,,https://www.allrugby.com/joueurs/karl-martin-11297.html,Karl MARTIN,Centre,23,16/02/2002,,100,JIFF Formé(8),PRO,2028,,TABLE PROS
+Montpellier Hérault Rugby,Angleterre,,https://www.allrugby.com/joueurs/lennox-anyanwu-10639.html,Lennox ANYANWU,Centre,24,29/11/2000,,102,NON JIFF,PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/thomas-darmon-5256.html,Thomas DARMON,Centre,27,12/05/1998,,90,JIFF Formé(8),PRO,2026,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/donovan-taofifenua-7984.html,Donovan TAOFIFENUA,Ailier,26,30/03/1999,,84,JIFF,PRO,2028,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/gabriel-n-gandebe-5291.html,Gabriel N'GANDEBE,Ailier,28,30/03/1997,,77,JIFF,PRO,2026,,TABLE PROS
+Montpellier Hérault Rugby,République démocratique du Congo,,https://www.allrugby.com/joueurs/michael-tambwe-6795.html,Madosh TAMBWE,Ailier,28,12/05/1997,,94,NON JIFF,PRO,2026,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/mael-moustin-9193.html,Maël MOUSTIN,Ailier,22,22/04/2003,,103,JIFF(8),PRO,2028,,TABLE PROS
+Montpellier Hérault Rugby,Ecosse,,https://www.allrugby.com/joueurs/stuart-hogg-2162.html,Stuart HOGG,Arrière,33,24/06/1992,,93,NON JIFF,PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,Australie,,https://www.allrugby.com/joueurs/thomas-banks-6684.html,Tom BANKS,Arrière,31,18/06/1994,,93,NON JIFF,PRO,2027,,TABLE PROS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/baptiste-gilliocq-18105.html,Baptiste GILLIOCQ,Pilier,19,/08/2006,,111,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/ilan-leblanc-feron-20646.html,Ilan LEBLANC-FERON,Pilier,18,/01/2007,,-,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Montpellier Hérault Rugby,Géorgie,,https://www.allrugby.com/joueurs/luka-kotorashvili-15294.html,Luka KOTORASHVILI,Pilier,21,20/06/2004,,105,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Montpellier Hérault Rugby,Australie,,https://www.allrugby.com/joueurs/pj-poutasi-15078.html,PJ POUTASI,Pilier,20,/11/2004,,125,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/sylvestre-vakauliafa-18106.html,Sylvestre VAKAULIAFA,Pilier,18,/12/2006,,115,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/valentin-welsch-16349.html,Valentin WELSCH,Pilier,22,10/04/2003,,112,JIFF(8),ESPOIR,2028,,TABLE ESPOIRS
+Montpellier Hérault Rugby,Australie,,https://www.allrugby.com/joueurs/adrian-de-klerk-20322.html,Adrian DE KLERK,Talonneur,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,Fidji,,https://www.allrugby.com/joueurs/ratu-ratavo-20983.html,Ratu RATAVO,Talonneur,18,/04/2007,,-,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/ugo-izarn-21001.html,Ugo IZARN,Talonneur,19,/06/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,Fidji,,https://www.allrugby.com/joueurs/isoa-bakeidaku-21385.html,Isoa BAKEIDAKU,2ème ligne,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/nils-punti-18108.html,Nils PUNTI,2ème ligne,18,/12/2006,,106,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/sacha-joncart-20984.html,Sacha JONCART,2ème ligne,19,/01/2006,,98,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/youssouf-soucouna-13881.html,Youssouf SOUCOUNA,2ème ligne,21,09/04/2004,,110,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/djibril-sissako-21387.html,Djibril SISSAKO,3ème ligne,19,/01/2006,,94,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,Fidji,,https://www.allrugby.com/joueurs/jason-ilimotama-21386.html,Jason ILIMOTAMA,3ème ligne,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/louis-galleni-21388.html,Louis GALLENI,3ème ligne,18,/01/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/raphael-audebert-20638.html,Raphaël AUDEBERT,3ème ligne,18,/01/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/richard-farret-18207.html,Richard FARRET,3ème ligne,20,/02/2005,,95,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Montpellier Hérault Rugby,Angleterre,,https://www.allrugby.com/joueurs/solomon-shand-18109.html,Solomon SHAND,3ème ligne,19,/07/2006,,108,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/gabin-came-17830.html,Gabin CAME,Mêlée,20,/03/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/tom-baraer-18110.html,Tom BARAER,Mêlée,18,/04/2007,,70,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/sandro-dubois-21389.html,Sandro DUBOIS,Ouverture,17,/06/2008,,78,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/joan-notolan-18111.html,Joan NOTOLAN,Centre,18,/02/2007,,88,JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/jules-ducros-16343.html,Jules DUCROS,Centre,19,/09/2005,,82,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Montpellier Hérault Rugby,Australie,,https://www.allrugby.com/joueurs/miracle-tangata-15043.html,Miracle TANGATA,Centre,20,/05/2005,,98,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/souheib-benabdelkader-19249.html,Souheib BENABDELKADER,Centre,16,/07/2009,,-,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/titoan-rouvelet-15289.html,Titoan ROUVELET,Centre,20,/05/2005,,94,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Montpellier Hérault Rugby,France,,https://www.allrugby.com/joueurs/melvyn-rates-17813.html,Melvyn RATES,Ailier,19,/03/2006,,84,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Montpellier Hérault Rugby,Afrique du sud,,https://www.allrugby.com/joueurs/ridhau-bey-16309.html,Ridhau BEY,Ailier,21,21/01/2004,,86,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Montpellier Hérault Rugby,Fidji,,https://www.allrugby.com/joueurs/rupeni-junior-caucaunibuca-20690.html,Rupeni Junior CAUCAUNIBUCA,Ailier,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,Géorgie,,https://www.allrugby.com/joueurs/giorgi-melikidze-3551.html,Giorgi MELIKIDZE,Pilier,29,24/05/1996,,117,JIFF Formé(8),PRO,,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/isaac-koffi-15461.html,Isaac KOFFI,Pilier,19,28/09/2005,,110,JIFF,ESPOIR,2029,,TABLE PROS
+Stade Français Paris Rugby,Australie,,https://www.allrugby.com/joueurs/moses-alo-emile-6023.html,Moses ALO-EMILE,Pilier,25,18/01/2000,,130,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Français Paris Rugby,Australie,,https://www.allrugby.com/joueurs/paul-alo-emile-3387.html,Paul ALO-EMILE,Pilier,33,22/12/1991,,132,NON JIFF,PRO,2028,,TABLE PROS
+Stade Français Paris Rugby,Géorgie,,https://www.allrugby.com/joueurs/sergo-abramishvili-12124.html,Sergo ABRAMISHVILI,Pilier,21,20/11/2003,,112,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/thierry-paiva-4364.html,Thierry PAÏVA,Pilier,29,19/11/1995,,125,JIFF,PRO,2026 +1,,TABLE PROS
+Stade Français Paris Rugby,Espagne,,https://www.allrugby.com/joueurs/alvaro-garcia-15406.html,Álvaro GARCIA,Talonneur,22,22/08/2003,,120,NON JIFF,ESPOIR,2029,,TABLE PROS
+Stade Français Paris Rugby,Italie,,https://www.allrugby.com/joueurs/giacomo-nicotera-11072.html,Giacomo NICOTERA,Talonneur,29,15/07/1996,,108,NON JIFF,PRO,,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/lucas-peyresblanques-4610.html,Lucas PEYRESBLANQUES,Talonneur,27,20/01/1998,,103,JIFF,PRO,2026,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/baptiste-pesenti-4430.html,Baptiste PESENTI,2ème ligne,28,03/07/1997,,122,JIFF,PRO,2026,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/paul-gabrillagues-2374.html,Paul GABRILLAGUES,2ème ligne,32,03/06/1993,,119,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/pierre-henri-azagoh-5535.html,Pierre-Henri AZAGOH,2ème ligne,27,25/07/1998,,112,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Français Paris Rugby,Tonga,,https://www.allrugby.com/joueurs/tanginoa-halaifonua-5216.html,Tanginoa HALAIFONUA,2ème ligne,29,20/09/1996,,115,JIFF,PRO,2029,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/andy-timo-13856.html,Andy TIMO,3ème ligne,21,28/05/2004,,95,JIFF(8),PRO,2026,,TABLE PROS
+Stade Français Paris Rugby,Samoa,,https://www.allrugby.com/joueurs/iakopo-petelo-mapu-7198.html,Iakopo MAPU,3ème ligne,27,04/11/1997,,106,NON JIFF,PRO,,,TABLE PROS
+Stade Français Paris Rugby,Argentine,,https://www.allrugby.com/joueurs/juan-martin-scelzo-13720.html,Juan Martin SCELZO,3ème ligne,23,12/02/2002,,110,JIFF Formé(8),PRO,,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/mathieu-hirigoyen-4609.html,Mathieu HIRIGOYEN,3ème ligne,26,25/01/1999,,103,JIFF,PRO,,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/pierre-huguet-3660.html,Pierre HUGUET,3ème ligne,29,05/11/1995,,111,JIFF,PRO,2027,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/romain-briatte-2492.html,Romain BRIATTE,3ème ligne,32,18/02/1993,,107,JIFF,PRO,2028,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/ryan-chapuis-6008.html,Ryan CHAPUIS,3ème ligne,27,12/12/1997,,105,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/sekou-macalou-2405.html,Sékou MACALOU,3ème ligne,30,20/04/1995,,108,JIFF Formé(8),PRO,2027,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/yoan-tanga-5266.html,Yoan TANGA,3ème ligne,28,29/11/1996,,109,JIFF,PRO,2028,,TABLE PROS
+Stade Français Paris Rugby,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/brad-weber-6709.html,Brad WEBER,Mêlée,34,17/01/1991,,75,NON JIFF,PRO,,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/paul-abadie-1656.html,Paul ABADIE,Mêlée,31,28/07/1994,,88,JIFF,PRO,2027,,TABLE PROS
+Stade Français Paris Rugby,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/tawera-kerr-barlow-3905.html,Tawera KERR-BARLOW,Mêlée,35,15/08/1990,,92,NON JIFF,PRO,2027,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/thibaut-motassi-15196.html,Thibaut MOTASSI,Mêlée,20,02/01/2005,,79,JIFF,ESPOIR,2027,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/louis-carbonel-5175.html,Louis CARBONEL,Ouverture,26,04/02/1999,,88,JIFF,PRO,2027,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/louis-foursans-bourdette-8654.html,Louis FOURSANS-BOURDETTE,Ouverture,23,29/01/2002,,81,JIFF(8),PRO,2027,,TABLE PROS
+Stade Français Paris Rugby,Angleterre,,https://www.allrugby.com/joueurs/zack-henry-6020.html,Zack HENRY,Ouverture,30,01/10/1994,,89,NON JIFF,PRO,2026,,TABLE PROS
+Stade Français Paris Rugby,Afrique du sud,,https://www.allrugby.com/joueurs/jeremy-ward-7508.html,Jeremy WARD,Centre,29,10/01/1996,,92,NON JIFF,PRO,2029,,TABLE PROS
+Stade Français Paris Rugby,Angleterre,,https://www.allrugby.com/joueurs/joe-marchant-4165.html,Joe MARCHANT,Centre,29,16/07/1996,,89,NON JIFF,PRO,2026,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/julien-delbouis-5538.html,Julien DELBOUIS,Centre,26,04/08/1999,,103,JIFF Formé(8),PRO,2026,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/tani-vili-5370.html,Tani VILI,Centre,24,31/10/2000,,112,JIFF,PRO,2027,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/lester-etien-2496.html,Lester ÉTIEN,Ailier,30,21/06/1995,,102,JIFF,PRO,,,TABLE PROS
+Stade Français Paris Rugby,Fidji,,https://www.allrugby.com/joueurs/peniasi-dakuwaqa-14612.html,Peniasi DAKUWAQA,Ailier,28,09/04/1997,,95,NON JIFF,PRO,2026,,TABLE PROS
+Stade Français Paris Rugby,Espagne,,https://www.allrugby.com/joueurs/samuel-ezeala-5179.html,Samuel EZEALA,Ailier,25,11/12/1999,,99,JIFF,PRO,2027,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/charles-laloi-13660.html,Charles LALOI,Arrière,22,31/07/2003,,80,JIFF Formé,PRO,2026,,TABLE PROS
+Stade Français Paris Rugby,Afrique du sud,,https://www.allrugby.com/joueurs/joe-jonas-9971.html,Joe JONAS,Arrière,24,31/12/2000,,90,JIFF(8),PRO,,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/leo-barre-8224.html,Léo BARRÉ,Arrière,23,20/08/2002,,89,JIFF Formé(8),PRO,2029,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/leo-monin-10322.html,Léo MONIN,Arrière,23,25/01/2002,,95,JIFF Formé(8),PRO,2027,,TABLE PROS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/arthur-pinet-17073.html,Arthur PINET,Pilier,17,/10/2007,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,Australie,,https://www.allrugby.com/joueurs/braxton-asi-17127.html,Braxton ASI,Pilier,20,/09/2004,,128,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/losseni-meite-20801.html,Losseni MEÏTÉ,Pilier,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/mehdi-borsali-15459.html,Mehdi BORSALI,Pilier,20,/01/2005,,95,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/yanis-lux-15460.html,Yanis LUX,Pilier,20,/04/2005,,100,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/achille-stoessel-17304.html,Achille STOESSEL,Talonneur,18,/04/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/ethan-tia-17149.html,Ethan TIA,Talonneur,19,/03/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,Afrique du sud,,https://www.allrugby.com/joueurs/jacques-botha-17956.html,Jacques BOTHA,2ème ligne,18,/11/2006,,128,NON JIFF,ESPOIR,2029,,TABLE ESPOIRS
+Stade Français Paris Rugby,Australie,,https://www.allrugby.com/joueurs/ollie-mccrea-15609.html,Ollie MCCREA,2ème ligne,20,/10/2004,,119,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,Fidji,,https://www.allrugby.com/joueurs/setareki-turagacoke-18328.html,Setareki TURAGACOKE,2ème ligne,19,/06/2006,,117,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,Australie,,https://www.allrugby.com/joueurs/jaydon-viliamu-17128.html,Jaydon VILIAMU,3ème ligne,21,16/05/2004,,107,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/maka-pauga-20802.html,Maka PAUGA,3ème ligne,20,/09/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/meric-chiffrin-18372.html,Méric CHIFFRIN,3ème ligne,19,/01/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,Fidji,,https://www.allrugby.com/joueurs/mosese-tabaukoto-18650.html,Mosese TABAUKOTO,3ème ligne,19,/03/2006,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/pablo-gaudin-20799.html,Pablo GAUDIN,3ème ligne,18,/08/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/ali-bennot-17963.html,Ali BENNOT,Mêlée,20,/06/2005,,80,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/martin-blum-17284.html,Martin BLUM,Mêlée,19,/05/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/gaspard-de-villeneuve-17283.html,Gaspard DE VILLENEUVE,Ouverture,18,/04/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/nolan-bellido-20602.html,Nolan BELLIDO,Ouverture,17,/09/2008,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/tauave-lamkam-17129.html,Tauave LEOFA,Ouverture,19,/06/2006,,82,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/antonin-bikai-combe-18642.html,Antonin BIKAI-COMBE,Centre,18,/12/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/guillaume-didey-20800.html,Guillaume DIDEY,Centre,17,/01/2008,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/luka-russell-18644.html,Luka RUSSELL,Centre,20,/04/2005,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/mathis-ibo-17041.html,Mathis IBO,Centre,20,/01/2005,,78,JIFF,ESPOIR,2029,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/noah-nene-14442.html,Noah NÉNÉ,Centre,20,/10/2004,,108,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/virgile-draux-20792.html,Virgile DRAUX,Centre,18,/03/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,Fidji,,https://www.allrugby.com/joueurs/aisake-manna-18649.html,Aisake MANNA,Ailier,19,/04/2006,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,Fidji,,https://www.allrugby.com/joueurs/aporosa-lalabalavu-20804.html,Aporosa LALABALAVU,Ailier,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Français Paris Rugby,France,,https://www.allrugby.com/joueurs/yannick-lodjro-17328.html,Yannick LODJRO,Ailier,20,/09/2005,,-,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/daniel-bibi-biziwu-6933.html,Daniel BIBI BIZIWU,Pilier,24,29/08/2001,,119,JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Géorgie,,https://www.allrugby.com/joueurs/guram-papidze-5366.html,Guram PAPIDZE,Pilier,28,16/06/1997,,127,JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/hugo-parrou-11500.html,Hugo PARROU,Pilier,22,28/01/2003,,110,JIFF Formé(8),PRO,2028,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Espagne,,https://www.allrugby.com/joueurs/jon-zabala-4407.html,Jon ZABALA,Pilier,28,26/11/1996,,132,JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Géorgie,,https://www.allrugby.com/joueurs/lekso-kaulashvili-2038.html,Lekso KAULASHVILI,Pilier,33,27/08/1992,,128,JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/remi-seneca-5193.html,Rémi SÉNÉCA,Pilier,30,16/01/1995,,116,JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Tonga,,https://www.allrugby.com/joueurs/siate-tokolahi-6627.html,Siate TOKOLAHI,Pilier,33,16/03/1992,,116,NON JIFF,PRO,2026 +1,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/thomas-laclayat-5489.html,Thomas LACLAYAT,Pilier,27,02/10/1997,,125,JIFF,PRO,2029,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/hayam-el-bibouji-13718.html,Hayam EL BIBOUJI,Talonneur,23,13/12/2001,,108,JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Argentine,,https://www.allrugby.com/joueurs/julian-montoya-3866.html,Julián MONTOYA,Talonneur,31,29/10/1993,,113,NON JIFF,PRO,2028,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/lucas-rey-4416.html,Lucas REY,Talonneur,28,27/04/1997,,98,JIFF Formé(8),PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/youri-delhommel-5534.html,Youri DELHOMMEL,Talonneur,29,06/03/1996,,101,JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/hugo-auradou-11782.html,Hugo AURADOU,2ème ligne,22,20/07/2003,,105,JIFF Formé(8),PRO,2028,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/jimi-maximin-5914.html,Jimi MAXIMIN,2ème ligne,26,03/04/1999,,133,JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Angleterre,,https://www.allrugby.com/joueurs/joel-kpoku-7138.html,Joel KPOKU,2ème ligne,26,22/06/1999,,126,NON JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/mickael-capelli-4332.html,Mickaël CAPELLI,2ème ligne,28,18/03/1997,,126,JIFF,PRO,2027 +1,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/remi-picquette-4496.html,Rémi PICQUETTE,2ème ligne,30,23/02/1995,,117,JIFF,PRO,2028,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/thomas-jolmes-4382.html,Thomas JOLMÈS,2ème ligne,29,08/10/1995,,127,JIFF,PRO,2026 +1,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Géorgie,,https://www.allrugby.com/joueurs/beka-gorgadze-4306.html,Beka GORGADZE,3ème ligne,29,08/02/1996,,110,JIFF,PRO,2028,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Pays-de-Galles,,https://www.allrugby.com/joueurs/carwyn-tuipulotu-10945.html,Carwyn TUIPULOTU,3ème ligne,23,28/09/2001,,125,NON JIFF,PRO,2026 +1,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Argentine,,https://www.allrugby.com/joueurs/facundo-isa-1323.html,Facundo ISA,3ème ligne,32,21/09/1993,,114,NON JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/loic-credoz-8872.html,Loïc CRÉDOZ,3ème ligne,26,17/05/1999,,107,JIFF,PRO,2026,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/luke-whitelock-5849.html,Luke WHITELOCK,3ème ligne,34,29/01/1991,,116,NON JIFF,PRO,2026,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Australie,,https://www.allrugby.com/joueurs/reece-hewat-7304.html,Reece HEWAT,3ème ligne,28,25/09/1997,,110,JIFF,PRO,2026,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/sacha-zegueur-5913.html,Sacha ZEGUEUR,3ème ligne,26,21/06/1999,,108,JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Angleterre,,https://www.allrugby.com/joueurs/dan-robson-3143.html,Dan ROBSON,Mêlée,33,14/03/1992,,82,NON JIFF,PRO,2026,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/thibault-daubagna-1515.html,Thibault DAUBAGNA,Mêlée,31,20/05/1994,,83,JIFF Formé(8),PRO,2026,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/thomas-souverbie-14271.html,Thomas SOUVERBIE,Mêlée,21,28/06/2004,,80,JIFF,ESPOIR,2026,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/axel-desperes-14792.html,Axel DESPÉRÈS,Ouverture,21,16/01/2004,,78,JIFF,ESPOIR,2029,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/clement-mondinat-11784.html,Clément MONDINAT,Ouverture,21,29/10/2003,,80,JIFF Formé(8),PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Angleterre,,https://www.allrugby.com/joueurs/joe-simmonds-5132.html,Joe SIMMONDS,Ouverture,28,19/12/1996,,91,NON JIFF,PRO,2028,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/emilien-gailleton-11773.html,Émilien GAILLETON,Centre,22,13/07/2003,,89,JIFF Formé(8),PRO,2026,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/fabien-brau-boirie-14923.html,Fabien BRAU-BOIRIE,Centre,19,19/12/2005,,98,JIFF,ESPOIR,2028,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/nathan-decron-4219.html,Nathan DECRON,Centre,27,17/02/1998,,96,JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/olivier-klemenczak-2477.html,Olivier KLEMENCZAK,Centre,29,01/06/1996,,90,JIFF,PRO,2026,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Samoa,,https://www.allrugby.com/joueurs/tumua-manu-6872.html,Tumua MANU,Centre,32,18/04/1993,,97,NON JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/aaron-grandidier-8316.html,Aaron GRANDIDIER,Ailier,25,18/05/2000,,94,JIFF,PRO,2026,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/theo-attissogbe-13652.html,Théo ATTISSOGBE,Ailier,20,19/11/2004,,84,JIFF,ESPOIR,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/thomas-carol-8406.html,Thomas CAROL,Ailier,24,17/01/2001,,85,JIFF Formé(8),PRO,2026,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/aymeric-luc-6046.html,Aymeric LUC,Arrière,27,14/10/1997,,81,JIFF,PRO,2026 +1,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/clement-laporte-5362.html,Clément LAPORTE,Arrière,27,07/01/1998,,87,JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,Australie,,https://www.allrugby.com/joueurs/jack-maddocks-6651.html,Jack MADDOCKS,Arrière,28,05/02/1997,,96,NON JIFF,PRO,2027,,TABLE PROS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/alexandre-etchebehere-14270.html,Alexandre ETCHEBÉHÈRE,Pilier,20,/12/2004,,109,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,Espagne,,https://www.allrugby.com/joueurs/guido-reyes-rendon-15713.html,Guido REYES,Pilier,20,/07/2005,,130,NON JIFF,ESPOIR,2029,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/joseph-adam-17816.html,Joseph ADAM,Pilier,18,/08/2007,,135,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/ludovic-taufana-15710.html,Ludovic TAUFANA,Pilier,19,/03/2006,,135,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/macarius-pereira-17823.html,Macarius PEREIRA,Pilier,20,/01/2005,,107,NON JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/yon-caperaa-20327.html,Yon CAPÉRAÀ,Pilier,18,/06/2007,,108,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/ilestio-tuaula-20765.html,Ilestio TUAULA,Talonneur,16,/12/2008,,128,NON JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,Australie,,https://www.allrugby.com/joueurs/max-meagher-17824.html,Max MEAGHER,Talonneur,18,/10/2006,,105,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/brent-liufau-11783.html,Brent LIUFAU,2ème ligne,21,21/03/2004,,126,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/loic-revol-20589.html,Loïc REVOL,2ème ligne,18,/09/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/taimana-ah-scha-17815.html,Taimana AH-SCHA,2ème ligne,18,/07/2007,,103,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/clement-paul-17052.html,Clément PAUL,3ème ligne,18,/02/2007,,100,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/josselin-bouhier-14029.html,Josselin BOUHIER,3ème ligne,22,18/01/2003,,100,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/maiwen-latuva-20766.html,Maïwen LATUVA,3ème ligne,15,/10/2009,,93,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/mehdi-tlili-13857.html,Mehdi TLILI,3ème ligne,21,17/08/2004,,100,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,Australie,,https://www.allrugby.com/joueurs/paulo-tauiliili-pelesasa-14263.html,Paulo TAUILIILI-PELESASA,3ème ligne,20,/02/2005,,123,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,Australie,,https://www.allrugby.com/joueurs/xander-iosefo-20433.html,Xander IOSEFO,3ème ligne,19,/02/2006,,110,NON JIFF,ESPOIR,2028,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,Espagne,,https://www.allrugby.com/joueurs/alvaro-mucenieks-18496.html,Álvaro MUCENIEKS,Mêlée,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/gabriel-elissalde-17814.html,Gabriel ELISSALDE,Mêlée,19,/01/2006,,74,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/simon-laharrague-20767.html,Simon LAHARRAGUE,Ouverture,16,/06/2009,,80,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/louan-courtie-21352.html,Louan COURTIÉ,Centre,18,/02/2007,,80,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/quentin-valentino-17053.html,Quentin VALENTINO,Centre,19,/03/2006,,91,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/louis-ribaimont-20768.html,Louis RIBAIMONT,Ailier,18,/06/2007,,78,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,Espagne,,https://www.allrugby.com/joueurs/pedro-perez-bueno-20769.html,Pedro PÉREZ BUENO,Ailier,18,/03/2007,,83,NON JIFF,ESPOIR,2027,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,Australie,,https://www.allrugby.com/joueurs/toshi-butlin-15711.html,Toshi BUTLIN,Ailier,20,/02/2005,,88,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+la Section Paloise Béarn Pyrénées,France,,https://www.allrugby.com/joueurs/gregoire-arfeuil-14272.html,Grégoire ARFEUIL,Arrière,20,/12/2004,,89,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/akato-fakatika-10941.html,Akato FAKATIKA,Pilier,24,31/01/2001,,123,JIFF Formé(8),PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/bruce-devaux-7318.html,Bruce DEVAUX,Pilier,28,14/11/1996,,108,JIFF,PRO,2026 +1,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/giorgi-beria-7000.html,Giorgi BERIA,Pilier,25,11/11/1999,,108,JIFF,PRO,2028,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Géorgie,,https://www.allrugby.com/joueurs/giorgi-tetrashvili-1492.html,Giorgi TETRASHVILI,Pilier,32,31/08/1993,,115,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Angleterre,,https://www.allrugby.com/joueurs/kieran-brookes-3219.html,Kieran BROOKES,Pilier,35,29/08/1990,,120,NON JIFF,PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Afrique du sud,,https://www.allrugby.com/joueurs/nemo-roelofse-4982.html,Nemo ROELOFSE,Pilier,30,06/06/1995,,120,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Italie,,https://www.allrugby.com/joueurs/pietro-ceccarelli-2238.html,Pietro CECCARELLI,Pilier,33,16/02/1992,,128,JIFF,PRO,2028,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Argentine,,https://www.allrugby.com/joueurs/ignacio-ruiz-8280.html,Ignacio RUIZ,Talonneur,24,03/01/2001,,109,NON JIFF,PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/mathys-lotrian-16459.html,Mathys LOTRIAN,Talonneur,21,18/02/2004,,110,JIFF,ESPOIR,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/sama-malolo-6883.html,Sama MALOLO,Talonneur,27,19/02/1998,,109,NON JIFF,PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Samoa,,https://www.allrugby.com/joueurs/seilala-lam-5092.html,Seilala LAM,Talonneur,36,18/02/1989,,110,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/victor-montgaillard-9847.html,Victor MONTGAILLARD,Talonneur,23,16/07/2002,,108,JIFF Formé(8),PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/adrien-warion-7647.html,Adrien WARION,2ème ligne,24,07/01/2001,,115,JIFF(8),PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/mathieu-tanguy-2542.html,Mathieu TANGUY,2ème ligne,29,05/06/1996,,117,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Afrique du sud,,https://www.allrugby.com/joueurs/jaco-van-tonder-5568.html,Jaco VAN TONDER,3ème ligne,27,08/03/1998,,118,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Ecosse,,https://www.allrugby.com/joueurs/jamie-ritchie-4245.html,Jamie RITCHIE,3ème ligne,29,16/08/1996,,110,NON JIFF,PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Argentine,,https://www.allrugby.com/joueurs/joaquin-oviedo-12092.html,Joaquín OVIEDO,3ème ligne,24,17/07/2001,,113,JIFF Formé(8),PRO,2028,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/lucas-velarte-5569.html,Lucas VELARTE,3ème ligne,26,24/10/1998,,108,JIFF Formé(8),PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/mahamadou-diaby-1262.html,Mahamadou DIABY,3ème ligne,35,15/08/1990,,110,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/matteo-le-corvec-8378.html,Mattéo LE CORVEC,3ème ligne,24,04/01/2001,,113,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/max-hicks-12580.html,Max HICKS,3ème ligne,26,15/09/1999,,112,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/noe-della-schiava-12052.html,Noé DELLA SCHIAVA,3ème ligne,23,28/02/2002,,95,JIFF(8),PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/patrick-sobela-2547.html,Patrick SOBÉLA,3ème ligne,33,12/08/1992,,105,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Fidji,,https://www.allrugby.com/joueurs/peceli-yato-2051.html,Peceli YATO,3ème ligne,32,17/01/1993,,120,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Géorgie,,https://www.allrugby.com/joueurs/gela-aprasidze-5464.html,Gela APRASIDZE,Mêlée,27,14/01/1998,,76,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Afrique du sud,,https://www.allrugby.com/joueurs/james-hall-4520.html,James HALL,Mêlée,29,02/01/1996,,88,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/tom-ecochard-1273.html,Tom ECOCHARD,Mêlée,32,14/12/1992,,85,JIFF Formé(8),PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/antoine-aucagne-10901.html,Antoine AUCAGNE,Ouverture,25,11/04/2000,,80,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Australie,,https://www.allrugby.com/joueurs/jake-mcintyre-5475.html,Jake MCINTYRE,Ouverture,31,28/04/1994,,88,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Italie,,https://www.allrugby.com/joueurs/tommy-allan-1270.html,Tommaso ALLAN,Ouverture,32,26/04/1993,,93,JIFF,PRO,2026 +1,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Afrique du sud,,https://www.allrugby.com/joueurs/tristan-tedder-4660.html,Tristan TEDDER,Ouverture,29,17/04/1996,,88,JIFF,PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Fidji,,https://www.allrugby.com/joueurs/alifereti-duguivalu-5910.html,Alivereti DUGUIVALU,Centre,28,21/07/1997,,85,JIFF Formé(8),PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/duncan-paia-aua-6664.html,Duncan PAIA'AUA,Centre,30,20/01/1995,,92,NON JIFF,PRO,2027,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Argentine,,https://www.allrugby.com/joueurs/jeronimo-de-la-fuente-3865.html,Jerónimo DE LA FUENTE,Centre,34,24/02/1991,,96,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/job-poulet-12332.html,Job POULET,Centre,22,30/04/2003,,79,JIFF,ESPOIR,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Fidji,,https://www.allrugby.com/joueurs/rico-buliruarua-4482.html,Riko BULIRUARUA,Centre,28,23/01/1997,,106,JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/jefferson-joseph-11283.html,Jefferson-Lee JOSEPH,Ailier,23,28/08/2002,,90,JIFF(8),PRO,2028,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Australie,,https://www.allrugby.com/joueurs/jordan-petaia-6865.html,Jordan PETAIA,Ailier,25,14/03/2000,,102,NON JIFF,PRO(7),2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Fidji,,https://www.allrugby.com/joueurs/tavite-veredamu-10572.html,Tavite VEREDAMU,Ailier,36,01/09/1989,,108,NON JIFF,PRO,2026,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/lucas-dubois-8875.html,Lucas DUBOIS,Arrière,27,09/06/1998,,92,JIFF Formé(8),PRO,2028,,TABLE PROS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/theo-forner-12707.html,Théo FORNER,Arrière,23,17/10/2001,,80,JIFF Formé(8),PRO,2028,,TABLE PROS
+Union Sportive Arlequins Perpignanais,Géorgie,,https://www.allrugby.com/joueurs/giorgi-meskhidze-20957.html,Giorgi MESKHIDZE,Pilier,19,/12/2005,,113,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,Espagne,,https://www.allrugby.com/joueurs/joan-barcenilla-d-onghia-18849.html,Joan BARCENILLA D'ONGHIA,Pilier,19,/07/2006,,109,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/lorencio-boyer-gallardo-17518.html,Lorencio BOYER GALLARDO,Pilier,20,/09/2005,,117,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/rudy-ndinda-21351.html,Rudy NDINDA,Pilier,19,/07/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/melvyn-zafra-20643.html,Melvyn ZAFRA,Talonneur,18,/03/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/bastien-chinarro-14140.html,Bastien CHINARRO,2ème ligne,21,23/01/2004,,95,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/gabriel-pige-yoyotte-21213.html,Gabriel PIGÉ-YOYOTTE,2ème ligne,19,/05/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/giani-callegari-17878.html,Giani CALLEGARI,2ème ligne,18,/11/2006,,-,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,Espagne,,https://www.allrugby.com/joueurs/ismael-millan-17925.html,Ismael MILLÁN,2ème ligne,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/julen-guillot-20772.html,Julen GUILLOT,2ème ligne,20,/07/2005,,-,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,Samoa,,https://www.allrugby.com/joueurs/posolo-tuilagi-13011.html,Posolo TUILAGI,2ème ligne,21,28/07/2004,,149,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,Géorgie,,https://www.allrugby.com/joueurs/andro-dvali-17319.html,Andro DVALI,3ème ligne,20,/07/2005,,95,NON JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/jad-ouazzani-20904.html,Jad OUAZZANI,3ème ligne,19,/03/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,Espagne,,https://www.allrugby.com/joueurs/marcos-lopez-20895.html,Marcos LÓPEZ,3ème ligne,19,/05/2006,,97,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,Fidji,,https://www.allrugby.com/joueurs/ronald-sharma-16875.html,Ronald SHARMA,3ème ligne,21,03/03/2004,,103,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/simon-taty-20649.html,Simon TATY,3ème ligne,18,/01/2007,,-,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/marc-guillet-17641.html,Marc GUILLET,Mêlée,18,/09/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/gabin-kretchmann-18454.html,Gabin KRETCHMANN,Ouverture,19,/03/2006,,73,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/mathis-gomez-20342.html,Mathis GOMEZ,Ouverture,20,/04/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/anthony-guirado-17916.html,Anthony GUIRADO,Centre,19,/12/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,Roumanie,,https://www.allrugby.com/joueurs/sebastien-tofan-20262.html,Sebastien TOFAN,Centre,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/aurelien-lecluze-20647.html,Aurélien LÉCLUZE,Ailier,18,/05/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/maxim-granell-17042.html,Maxim GRANELL,Ailier,20,/07/2005,,80,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,Fidji,,https://www.allrugby.com/joueurs/setareki-toganiyadrava-16876.html,Setareki TOGANIYADRAVA,Ailier,21,27/11/2003,,-,NON JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,Fidji,,https://www.allrugby.com/joueurs/charles-salikikoro-21264.html,Charles SALIKIKORO,Arrière,,-,,95,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Union Sportive Arlequins Perpignanais,France,,https://www.allrugby.com/joueurs/mayron-fahy-21218.html,Mayron FAHY,Arrière,18,/09/2007,,-,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/demba-bamba-5858.html,Demba BAMBA,Pilier,27,17/03/1998,,125,JIFF,PRO,2028,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/edouard-junior-jabea-njocke-17301.html,Édouard-Junior JABEA NJOCKE,Pilier,19,19/08/2006,,118,JIFF,ESPOIR,,,TABLE PROS
+Racing 92,Géorgie,,https://www.allrugby.com/joueurs/kharaishvili-gia-7168.html,Gia KHARAISHVILI,Pilier,26,13/02/1999,,120,JIFF Formé(8),PRO,2027,,TABLE PROS
+Racing 92,Géorgie,,https://www.allrugby.com/joueurs/guram-gogichashvili-7031.html,Guram GOGICHASHVILI,Pilier,27,04/09/1998,,118,JIFF Formé(8),PRO,2026,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/hassane-kolingar-5277.html,Hassane KOLINGAR,Pilier,27,06/03/1998,,116,JIFF Formé(8),PRO,2029,,TABLE PROS
+Racing 92,Australie,,https://www.allrugby.com/joueurs/lehopa-leota-18371.html,Lehopa LEOTA,Pilier,19,06/05/2006,,130,NON JIFF,ESPOIR,2027,,TABLE PROS
+Racing 92,Tonga,,https://www.allrugby.com/joueurs/taniela-tupou-5848.html,Taniela TUPOU,Pilier,29,10/05/1996,,148,NON JIFF,PRO,2028,,TABLE PROS
+Racing 92,Chili,,https://www.allrugby.com/joueurs/diego-escobar-14227.html,Diego ESCOBAR,Talonneur,25,17/04/2000,,103,NON JIFF,PRO,2026,,TABLE PROS
+Racing 92,Australie,,https://www.allrugby.com/joueurs/feleti-kaitu-u-10428.html,Feleti KAITU'U,Talonneur,30,30/12/1994,,110,NON JIFF,PRO,2026,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/janick-tarrit-6997.html,Janick TARRIT,Talonneur,26,29/10/1998,,108,JIFF,PRO,2028,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/robin-couly-16323.html,Robin COULY,Talonneur,21,07/02/2004,,103,JIFF,ESPOIR,,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/yanis-basse-20184.html,Yanis BASSE,Talonneur,19,23/08/2006,,-,JIFF,ESPOIR,,,TABLE PROS
+Racing 92,Angleterre,,https://www.allrugby.com/joueurs/jonny-hill-4008.html,Jonny HILL,2ème ligne,31,08/06/1994,,133,NON JIFF,PRO,2028,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/romain-taofifenua-1147.html,Romain TAOFIFENUA,2ème ligne,35,14/09/1990,,138,JIFF,PRO,2028,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/thomas-lainaut-4525.html,Thomas LAINAULT,2ème ligne,31,28/12/1993,,114,JIFF,PRO(7),2027,,TABLE PROS
+Racing 92,Angleterre,,https://www.allrugby.com/joueurs/will-rowlands-4079.html,Will ROWLANDS,2ème ligne,34,19/09/1991,,125,NON JIFF,PRO,2026,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/fabien-sanconnie-2532.html,Fabien SANCONNIE,3ème ligne,30,21/02/1995,,114,JIFF,PRO,2026 +1,,TABLE PROS
+Racing 92,Afrique du sud,,https://www.allrugby.com/joueurs/hacjivah-dayimani-6612.html,Hacjivah DAYIMANI,3ème ligne,28,23/09/1997,,105,NON JIFF,PRO,2026 +1,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/ibrahim-diallo-6946.html,Ibrahim DIALLO,3ème ligne,27,23/01/1998,,109,JIFF Formé(8),PRO,2029,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/jordan-joseph-5908.html,Jordan JOSEPH,3ème ligne,25,31/07/2000,,124,JIFF Formé(8),PRO,2027,,TABLE PROS
+Racing 92,Fidji,,https://www.allrugby.com/joueurs/lekima-tagitagivalu-5609.html,Lekima TAGITAGIVALU,3ème ligne,29,04/12/1995,,110,JIFF,PRO,2028,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/maxime-baudonne-11772.html,Maxime BAUDONNE,3ème ligne,23,12/07/2002,,98,JIFF Formé(8),PRO,2027,,TABLE PROS
+Racing 92,Fidji,,https://www.allrugby.com/joueurs/nathan-hughes-2897.html,Nathan HUGHES,3ème ligne,34,10/06/1991,,126,NON JIFF,PRO,2027,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/noa-zinzen-15287.html,Noa ZINZEN,3ème ligne,21,24/02/2004,,103,JIFF Formé(8),PRO,2027,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/soumaila-camara-18375.html,Soumaila CAMARA,3ème ligne,21,30/09/2003,,101,JIFF(8),PRO,2026,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/kleo-labarbe-17034.html,Kléo LABARBE,Mêlée,21,16/08/2004,,65,JIFF,ESPOIR,2027,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/leo-carbonneau-10864.html,Léo CARBONNEAU,Mêlée,20,07/10/2004,,79,JIFF,ESPOIR,2028,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/antoine-gibert-5165.html,Antoine GIBERT,Ouverture,27,31/12/1997,,76,JIFF Formé(8),PRO,2027,,TABLE PROS
+Racing 92,Argentine,,https://www.allrugby.com/joueurs/geronimo-prisciantelli-8176.html,Geronimo PRISCIANTELLI,Ouverture,26,23/08/1999,,87,NON JIFF,PRO,2027,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/ugo-seunes-14965.html,Ugo SEUNES,Ouverture,24,15/11/2000,,75,JIFF,PRO(7),2028,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/gael-fickou-1087.html,Gaël FICKOU,Centre,31,26/03/1994,,100,JIFF,PRO,2027,,TABLE PROS
+Racing 92,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/joseph-manu-17661.html,Joey MANU,Centre,29,29/06/1996,,102,NON JIFF,PRO,2027,,TABLE PROS
+Racing 92,Fidji,,https://www.allrugby.com/joueurs/josua-tuisova-1254.html,Josua TUISOVA,Centre,31,04/02/1994,,113,JIFF,PRO,2026,,TABLE PROS
+Racing 92,Angleterre,,https://www.allrugby.com/joueurs/sam-james-4153.html,Sam JAMES,Centre,31,03/07/1994,,100,NON JIFF,PRO,2027,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/nolann-donguy-18875.html,Nolann DONGUY,Ailier,19,28/11/2005,,85,JIFF,ESPOIR,2027,,TABLE PROS
+Racing 92,Fidji,,https://www.allrugby.com/joueurs/selestino-ravutaumada-13099.html,Selestino RAVUTAUMADA,Ailier,25,17/01/2000,,93,NON JIFF,PRO,2027,,TABLE PROS
+Racing 92,Fidji,,https://www.allrugby.com/joueurs/vinaya-habosi-13097.html,Vinaya HABOSI,Ailier,25,30/01/2000,,100,NON JIFF,PRO,2027,,TABLE PROS
+Racing 92,Fidji,,https://www.allrugby.com/joueurs/wame-naituvi-5192.html,Wame NAITUVI,Ailier,29,18/05/1996,,92,NON JIFF,PRO,2026,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/wilfried-hulleu-11631.html,Wilfried HULLEU,Ailier,23,27/06/2002,,97,JIFF,PRO,2028,,TABLE PROS
+Racing 92,France,,https://www.allrugby.com/joueurs/max-spring-7727.html,Max SPRING,Arrière,24,15/03/2001,,75,JIFF Formé(8),PRO,2026,,TABLE PROS
+Racing 92,Namibie,,https://www.allrugby.com/joueurs/herman-coetzee-16511.html,Herman COETZEE,Pilier,21,08/04/2004,,125,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/lino-julien-14125.html,Lino JULIEN,Pilier,21,27/07/2004,,111,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/luca-emery-20271.html,Luca EMERY,Pilier,18,/08/2007,,106,JIFF,ESPOIR,,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/mathis-boureau-d-argonne-18488.html,Mathis BOUREAU D'ARGONNE,Pilier,20,/07/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/elia-masi-18815.html,Elia MASI,Talonneur,19,/07/2006,,-,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/gagui-margvelashvili-20958.html,Gagui MARGVELASHVILI,2ème ligne,20,/05/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Racing 92,Angleterre,,https://www.allrugby.com/joueurs/junior-kpoku-16834.html,Junior KPOKU,2ème ligne,20,/09/2005,,119,NON JIFF,ESPOIR,2027 +1,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/martin-desechalliers-21098.html,Martin DESECHALLIERS,2ème ligne,17,/03/2008,,-,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Racing 92,Italie,,https://www.allrugby.com/joueurs/pietro-turrisi-13424.html,Pietro TURRISI,2ème ligne,22,26/04/2003,,120,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Racing 92,Italie,,https://www.allrugby.com/joueurs/alex-mattioli-14047.html,Alex MATTIOLI,3ème ligne,22,17/05/2003,,100,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/anicet-batbedat-18177.html,Anicet BATBEDAT,3ème ligne,18,/04/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/auguste-albuisson-17567.html,Auguste ALBUISSON,3ème ligne,17,/03/2008,,-,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/gaston-lagneau-21097.html,Gaston LAGNEAU,3ème ligne,17,/05/2008,,-,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/noam-zebus-delage-21100.html,Noam ZEBUS-DELAGE,3ème ligne,18,/09/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Racing 92,Zimbabwe,,https://www.allrugby.com/joueurs/shingirai-manyarara-15504.html,Shingi MANYARARA,3ème ligne,21,24/02/2004,,100,NON JIFF,ESPOIR,2029,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/yanis-nama-21099.html,Yanis NAMA,3ème ligne,18,/09/2007,,-,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/antoine-latrasse-17566.html,Antoine LATRASSE,Mêlée,18,/06/2007,,80,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Racing 92,Italie,,https://www.allrugby.com/joueurs/alessandro-ragusi-18377.html,Alessandro RAGUSI,Ouverture,19,/01/2006,,79,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/axel-jolet-15214.html,Axel JOLET,Ouverture,20,/11/2004,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/arthur-espeut-12166.html,Arthur ESPEUT,Centre,22,20/05/2003,,91,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/gaspard-lievens-21101.html,Gaspard LIEVENS,Centre,18,/02/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/noham-valeu-18376.html,Noham VALEU,Centre,17,/12/2007,,86,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Racing 92,Géorgie,,https://www.allrugby.com/joueurs/vladi-ashvetia-18489.html,Vladi ASHVETIA,Centre,20,/04/2005,,-,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/paul-rocher-18758.html,Paul ROCHER,Ailier,20,/08/2005,,80,JIFF,ESPOIR,,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/arthur-roche-18720.html,Arthur ROCHE,Arrière,20,/05/2005,,85,JIFF,ESPOIR,,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/come-nitharum-21096.html,Côme NITHARUM,Arrière,17,/08/2008,,-,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Racing 92,France,,https://www.allrugby.com/joueurs/matanu-fernando-21102.html,Matanu FERNANDO,Arrière,17,/12/2007,,-,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Rugby Club Toulonnais,Géorgie,,https://www.allrugby.com/joueurs/beka-gigashvili-4412.html,Beka GIGASHVILI,Pilier,33,17/02/1992,,118,NON JIFF,PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,Irlande,,https://www.allrugby.com/joueurs/daniel-brennan-4493.html,Daniel BRENNAN,Pilier,27,23/09/1998,,132,JIFF,PRO,2026,,TABLE PROS
+Rugby Club Toulonnais,Cameroun,,https://www.allrugby.com/joueurs/dany-priso-2557.html,Dany PRISO,Pilier,31,02/01/1994,,112,JIFF,PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/jean-baptiste-gros-5378.html,Jean-Baptiste GROS,Pilier,26,29/05/1999,,112,JIFF Formé(8),PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,Angleterre,,https://www.allrugby.com/joueurs/kyle-sinckler-2663.html,Kyle SINCKLER,Pilier,32,30/03/1993,,122,NON JIFF,PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,Géorgie,,https://www.allrugby.com/joueurs/nikoloz-narmania-9924.html,Nikoloz NARMANIA,Pilier,25,13/09/2000,,120,JIFF,PRO,2026,,TABLE PROS
+Rugby Club Toulonnais,Italie,,https://www.allrugby.com/joueurs/gianmarco-lucchesi-7388.html,Gianmarco LUCCHESI,Talonneur,25,10/09/2000,,110,NON JIFF,PRO,2026,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/mickael-ivaldi-1215.html,Mickaël IVALDI,Talonneur,35,20/02/1990,,108,JIFF,PRO,,JOKER (8),TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/pierre-damond-14211.html,Pierre DAMOND,Talonneur,21,27/11/2003,,103,JIFF,ESPOIR,2027,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/teddy-baubigny-4992.html,Teddy BAUBIGNY,Talonneur,27,02/09/1998,,109,JIFF,PRO,2029,,TABLE PROS
+Rugby Club Toulonnais,Samoa,,https://www.allrugby.com/joueurs/brian-alainu-uese-5125.html,Brian ALAINU'UESE,2ème ligne,31,19/03/1994,,135,NON JIFF,PRO,2026 +1,,TABLE PROS
+Rugby Club Toulonnais,Afrique du sud,,https://www.allrugby.com/joueurs/david-ribbans-5621.html,David RIBBANS,2ème ligne,30,29/08/1995,,121,NON JIFF,PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/matthias-halagahu-8432.html,Matthias HALAGAHU,2ème ligne,24,15/08/2001,,117,JIFF Formé(8),PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/swan-rebbadj-4424.html,Swan REBBADJ,2ème ligne,30,15/01/1995,,121,JIFF Formé(8),PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/charles-ollivon-1109.html,Charles OLLIVON,3ème ligne,32,11/05/1993,,114,JIFF,PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/esteban-abadie-6039.html,Esteban ABADIE,3ème ligne,27,01/12/1997,,100,JIFF,PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/joe-quere-karaba-14810.html,Joé QUERE-KARABA,3ème ligne,20,28/09/2004,,97,JIFF,ESPOIR,2028,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/jules-coulon-12344.html,Jules COULON,3ème ligne,23,04/07/2002,,105,JIFF Formé(8),PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,Angleterre,,https://www.allrugby.com/joueurs/lewis-ludlam-5150.html,Lewis LUDLAM,3ème ligne,29,08/12/1995,,111,NON JIFF,PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/patrick-tuifua-16361.html,Patrick TUIFUA,3ème ligne,21,25/08/2004,,113,JIFF,ESPOIR,2028,,TABLE PROS
+Rugby Club Toulonnais,Angleterre,,https://www.allrugby.com/joueurs/zach-mercer-4903.html,Zach MERCER,3ème ligne,28,28/06/1997,,111,NON JIFF,PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/baptiste-serin-1380.html,Baptiste SERIN,Mêlée,31,20/06/1994,,83,JIFF,PRO,2026 +1,,TABLE PROS
+Rugby Club Toulonnais,Angleterre,,https://www.allrugby.com/joueurs/ben-white-4776.html,Ben WHITE,Mêlée,27,27/05/1998,,88,NON JIFF,PRO,2026,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/clovis-le-bail-4360.html,Clovis LE BAIL,Mêlée,29,29/11/1995,,74,JIFF,PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/enzo-herve-5599.html,Enzo HERVÉ,Ouverture,26,13/10/1998,,94,JIFF,PRO,2026,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/mateo-garcia-9321.html,Matéo GARCIA,Ouverture,23,08/07/2002,,79,JIFF(8),PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,Italie,,https://www.allrugby.com/joueurs/paolo-garbisi-7397.html,Paolo GARBISI,Ouverture,25,26/04/2000,,97,NON JIFF,PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/antoine-frisch-6575.html,Antoine FRISCH,Centre,29,01/06/1996,,99,JIFF,PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,Argentine,,https://www.allrugby.com/joueurs/ignacio-brex-5665.html,Ignacio BREX,Centre,33,26/05/1992,,99,NON JIFF,PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/jeremy-sinzelle-1370.html,Jérémy SINZELLE,Centre,35,02/07/1990,,98,JIFF,PRO,2026,,TABLE PROS
+Rugby Club Toulonnais,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/ma-a-nonu-3386.html,Ma'a NONU,Centre,43,21/05/1982,,108,NON JIFF,PRO,2026,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/mathieu-smaili-5380.html,Mathieu SMAÏLI,Centre,26,30/08/1999,,88,JIFF Formé(8),PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/oliver-cowie-15390.html,Oliver COWIE,Centre,20,17/06/2005,,95,JIFF,ESPOIR,2027,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/rayan-rebbadj-8436.html,Rayan REBBADJ,Centre,26,15/08/1999,,100,JIFF Formé(8),PRO,2026,,TABLE PROS
+Rugby Club Toulonnais,Fidji,,https://www.allrugby.com/joueurs/setariki-tuicuvu-4359.html,Setariki TUICUVU,Centre,30,07/09/1995,,95,JIFF,PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/gabin-villiere-7728.html,Gabin VILLIÈRE,Ailier,29,13/12/1995,,93,JIFF,PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/gael-drean-10840.html,Gaël DRÉAN,Ailier,24,22/10/2000,,84,JIFF(8),PRO,2027,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/marius-domon-11219.html,Marius DOMON,Arrière,23,13/06/2002,,85,JIFF Formé(8),PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/mathis-ferte-13431.html,Mathis FERTÉ,Arrière,21,02/02/2004,,77,JIFF(8),PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/melvyn-jaminet-7805.html,Melvyn JAMINET,Arrière,26,30/06/1999,,85,JIFF,PRO,2028,,TABLE PROS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/anto-natale-ghipponi-21197.html,Anto-Natale GHIPPONI,Pilier,18,/04/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/arthur-maza-21198.html,Arthur MAZA,Pilier,18,/06/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/gaby-vercelloni-21203.html,Gaby VERCELLONI,Pilier,18,/12/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,Géorgie,,https://www.allrugby.com/joueurs/giorgi-berdzenishvili-21561.html,Giorgi BERDZENISHVILI,Pilier,17,/02/2008,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/leo-ametlla-13808.html,Léo AMETLLA,Pilier,21,12/04/2004,,107,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/lohann-gil-16362.html,Lohann GIL,Pilier,19,/05/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/owen-sorhaindo-15306.html,Owen SORHAINDO,Pilier,20,/03/2005,,125,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/samuel-jean-christophe-15457.html,Samuel JEAN-CHRISTOPHE,Pilier,19,/03/2006,,107,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/samuel-renault-21104.html,Samuel RENAULT,Pilier,18,/11/2006,,109,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/jeremy-toevalu-18003.html,Jérémy TOEVALU,Talonneur,20,/03/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/mathias-mazzoni-21195.html,Mathias MAZZONI,Talonneur,18,/09/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,Espagne,,https://www.allrugby.com/joueurs/antonio-gamez-17737.html,Antonio GÁMEZ,2ème ligne,19,/08/2006,,120,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,Espagne,,https://www.allrugby.com/joueurs/christian-mendes-20310.html,Christian MENDES,2ème ligne,17,/07/2008,,-,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/corentin-mezou-15261.html,Corentin MÉZOU,2ème ligne,20,/04/2005,,116,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,Géorgie,,https://www.allrugby.com/joueurs/davit-baramia-20959.html,Davit BARAMIA,2ème ligne,18,/01/2007,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/enzo-jean-17170.html,Enzo JEAN,2ème ligne,18,/10/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/fabio-zingone-14525.html,Fabio ZINGONE,2ème ligne,21,10/01/2004,,118,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/tom-vinel-21200.html,Tom VINEL,2ème ligne,18,/04/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/jovan-sreckovic-18834.html,Jovan SRECKOVIC,3ème ligne,19,/08/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/louis-fritsch-21597.html,Louis FRITSCH,3ème ligne,19,/04/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,Géorgie,,https://www.allrugby.com/joueurs/mikheili-shioshvili-17959.html,Mikheili SHIOSHVILI,3ème ligne,19,/06/2006,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/noam-moreau-21199.html,Noam MOREAU,3ème ligne,18,/08/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/noe-soko-21196.html,Noé SOKO,3ème ligne,16,/09/2008,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/edouard-sabotin-desclaud-15307.html,Édouard SABOTIN-DESCLAUD,Mêlée,20,/03/2005,,75,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/giani-calleya-21522.html,Giani CALLEYA,Mêlée,17,/02/2008,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,Géorgie,,https://www.allrugby.com/joueurs/giorgi-khonelidze-21568.html,Giorgi KHONELIDZE,Mêlée,16,/09/2008,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/antoine-dulau-21204.html,Antoine DULAU,Ouverture,18,/07/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,Angleterre,,https://www.allrugby.com/joueurs/finn-newton-17958.html,Finn NEWTON,Ouverture,19,/05/2006,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/lucas-bonneau-21201.html,Lucas BONNEAU,Ouverture,17,/03/2008,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/andrea-azzolin-20238.html,Andrea AZZOLIN,Centre,18,/06/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/kyllian-beal-17957.html,Kyllian BÉAL,Centre,18,/12/2006,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/esteban-morvan-16364.html,Esteban MORVAN,Ailier,20,/06/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/mateo-gracieux-18001.html,Matéo GRACIEUX,Ailier,20,/01/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Rugby Club Toulonnais,France,,https://www.allrugby.com/joueurs/barnabe-mechentel-16365.html,Barnabé MÉCHENTEL,Arrière,20,/03/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/cyril-baille-1089.html,Cyril BAILLE,Pilier,32,15/09/1993,,118,JIFF Formé(8),PRO,2027,,TABLE PROS
+Stade Toulousain,Etats-Unis,,https://www.allrugby.com/joueurs/david-ainu-u-7053.html,David AINU'U,Pilier,25,20/11/1999,,125,JIFF Formé(8),PRO,2027,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/dorian-aldegheri-1196.html,Dorian ALDEGHERI,Pilier,32,04/08/1993,,119,JIFF Formé(8),PRO,2026 +1,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/georges-henri-colombe-5276.html,Georges-Henri COLOMBE,Pilier,27,09/04/1998,,142,JIFF,PRO,2029,,TABLE PROS
+Stade Toulousain,Espagne,,https://www.allrugby.com/joueurs/joel-merkler-8864.html,Joël MERKLER,Pilier,23,25/10/2001,,135,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/paul-mallez-7696.html,Paul MALLEZ,Pilier,24,24/01/2001,,120,JIFF,PRO,2026,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/rodrigue-neti-2375.html,Rodrigue NETI,Pilier,30,26/04/1995,,124,JIFF Formé(8),PRO,2026,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/guillaume-cramont-8140.html,Guillaume CRAMONT,Talonneur,24,29/12/2000,,107,JIFF Formé(8),PRO,2026,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/julien-marchand-2523.html,Julien MARCHAND,Talonneur,30,10/05/1995,,110,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/peato-mauvaka-4763.html,Péato MAUVAKA,Talonneur,28,10/01/1997,,112,JIFF Formé(8),PRO,2029,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/thomas-lacombre-14299.html,Thomas LACOMBRE,Talonneur,21,14/07/2004,,107,JIFF,ESPOIR,2028,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/clement-verge-9776.html,Clément VERGÉ,2ème ligne,24,13/09/2001,,123,JIFF Formé(8),PRO,2027,,TABLE PROS
+Stade Toulousain,Australie,,https://www.allrugby.com/joueurs/emmanuel-meafou-7337.html,Emmanuel MEAFOU,2ème ligne,27,12/07/1998,,142,JIFF Formé(8),PRO,2027,,TABLE PROS
+Stade Toulousain,Irlande,,https://www.allrugby.com/joueurs/joshua-brennan-8294.html,Joshua BRENNAN,2ème ligne,23,28/11/2001,,118,JIFF Formé(8),PRO,2030,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/thibaud-flament-8962.html,Thibaud FLAMENT,2ème ligne,28,29/04/1997,,116,NON JIFF,PRO,2026,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/alexandre-roumat-3699.html,Alexandre ROUMAT,3ème ligne,28,27/06/1997,,110,JIFF,PRO,2028,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/anthony-jelonch-4142.html,Anthony JELONCH,3ème ligne,29,28/07/1996,,108,JIFF,PRO,2027,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/francois-cros-3419.html,François CROS,3ème ligne,31,25/03/1994,,111,JIFF Formé(8),PRO,2027,,TABLE PROS
+Stade Toulousain,Angleterre,,https://www.allrugby.com/joueurs/jack-willis-4797.html,Jack WILLIS,3ème ligne,28,24/12/1996,,112,NON JIFF,PRO,2029,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/leo-banos-10745.html,Léo BANOS,3ème ligne,23,16/08/2002,,106,JIFF(8),PRO,2027,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/theo-ntamack-8340.html,Théo NTAMACK,3ème ligne,23,29/05/2002,,110,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/antoine-dupont-2558.html,Antoine DUPONT,Mêlée,28,15/11/1996,,86,JIFF,PRO,2027,,TABLE PROS
+Stade Toulousain,Japon,,https://www.allrugby.com/joueurs/naoto-saito-9182.html,Naoto SAITO,Mêlée,28,26/08/1997,,75,NON JIFF,PRO,2026,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/paul-graou-5286.html,Paul GRAOU,Mêlée,28,25/07/1997,,90,JIFF,PRO,2028,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/romain-ntamack-5082.html,Romain NTAMACK,Ouverture,26,01/05/1999,,94,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/celian-pouzelgues-14148.html,Célian POUZELGUES,Centre,21,30/09/2003,,93,JIFF,ESPOIR,,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/paul-costes-14642.html,Paul COSTES,Centre,22,04/04/2003,,90,JIFF Formé(8),PRO,2028,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/pierre-louis-barassi-4845.html,Pierre-Louis BARASSI,Centre,27,22/04/1998,,102,JIFF,PRO,2028,,TABLE PROS
+Stade Toulousain,Nouvelle-Zélande,,https://www.allrugby.com/joueurs/pita-ahki-5878.html,Pita AHKI,Centre,33,24/09/1992,,101,NON JIFF,PRO,2026,,TABLE PROS
+Stade Toulousain,Argentine,,https://www.allrugby.com/joueurs/santiago-chocobares-7504.html,Santiago CHOCOBARES,Centre,26,31/03/1999,,100,NON JIFF,PRO,2028,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/teddy-thomas-1038.html,Teddy THOMAS,Centre,32,18/09/1993,,98,JIFF,PRO,2028,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/dimitri-delibes-6053.html,Dimitri DELIBES,Ailier,26,17/03/1999,,99,JIFF Formé(8),PRO,2026,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/matthis-lebel-6346.html,Matthis LEBEL,Ailier,26,25/03/1999,,91,JIFF Formé(8),PRO,2026,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/nelson-epee-8287.html,Nelson ÉPÉE,Ailier,24,20/02/2001,,80,JIFF Formé(8),PRO,2027,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/ange-capuozzo-7827.html,Ange CAPUOZZO,Arrière,26,30/04/1999,,82,JIFF,PRO,2029,,TABLE PROS
+Stade Toulousain,Ecosse,,https://www.allrugby.com/joueurs/blair-kinghorn-4243.html,Blair KINGHORN,Arrière,28,18/01/1997,,107,NON JIFF,PRO,2028,,TABLE PROS
+Stade Toulousain,Argentine,,https://www.allrugby.com/joueurs/juan-cruz-mallia-6408.html,Juan Cruz MALLÍA,Arrière,29,11/09/1996,,92,NON JIFF,PRO,2026,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/kalvin-gourgues-15353.html,Kalvin GOURGUES,Arrière,20,27/03/2005,,97,JIFF,ESPOIR,2028,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/thomas-ramos-2182.html,Thomas RAMOS,Arrière,30,23/07/1995,,87,JIFF Formé(8),PRO,2027,,TABLE PROS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/benjamin-bertrand-15364.html,Benjamin BERTRAND,Pilier,22,25/07/2003,,128,JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/gaetan-granie-21408.html,Gaëtan GRANIÉ,Pilier,18,/03/2007,,135,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/herman-mekenese-18283.html,Herman MEKENESE,Pilier,20,/03/2005,,124,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/joe-lafarge-21406.html,Joe LAFARGE,Pilier,17,/10/2007,,104,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/loic-varennes-18176.html,Loïc VARENNES,Pilier,20,/08/2005,,118,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/mohamed-megherbi-18717.html,Mohamed MEGHERBI,Pilier,20,/03/2005,,138,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/noa-tinnirello-21405.html,Noa TINNIRELLO,Pilier,18,/07/2007,,127,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/rafael-gallardo-21409.html,Rafaël GALLARDO,Pilier,18,/01/2007,,107,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/theo-guiral-21407.html,Théo GUIRAL,Pilier,18,/01/2007,,125,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,Argentine,,https://www.allrugby.com/joueurs/tomas-rapetti-15496.html,Tomás RAPETTI,Pilier,20,/03/2005,,125,NON JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/enzo-fluxa-21410.html,Enzo FLUXA,Talonneur,18,/07/2007,,100,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/mathis-caublot-18285.html,Mathis CAUBLOT,Talonneur,20,/03/2005,,101,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/maxime-gardelle-18287.html,Maxime GARDELLE,Talonneur,19,/03/2006,,96,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,Pays-Bas,,https://www.allrugby.com/joueurs/melvin-wevers-21375.html,Melvin WEVERS,Talonneur,17,/02/2008,,105,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/sacha-segard-18289.html,Sacha SÉGARD,Talonneur,19,/09/2006,,96,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/alban-portat-21412.html,Alban PORTAT,2ème ligne,18,/03/2007,,100,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,Espagne,,https://www.allrugby.com/joueurs/aleix-ribera-20263.html,Aleix RIBERA,2ème ligne,,-,,-,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/bobby-brennan-21413.html,Bobby BRENNAN,2ème ligne,18,/02/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,Argentine,,https://www.allrugby.com/joueurs/efrain-elias-15483.html,Efraín ELÍAS,2ème ligne,21,30/04/2004,,119,NON JIFF,ESPOIR,2027,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/eliot-barrie-21415.html,Eliot BARRIÉ,2ème ligne,18,/02/2007,,87,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/hugo-descube-17158.html,Hugo DESCUBE,2ème ligne,21,29/07/2004,,112,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/mathis-thomas-21411.html,Mathis THOMAS,2ème ligne,18,/09/2007,,113,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/rayane-benherrou-21414.html,Rayane BENHERROU,2ème ligne,,-,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/romeo-martin-bonnard-18173.html,Roméo MARTIN-BONNARD,2ème ligne,19,/09/2006,,107,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Toulousain,Australie,,https://www.allrugby.com/joueurs/ted-condon-16809.html,Ted CONDON,2ème ligne,22,22/04/2003,,133,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/azur-hot-simon-21416.html,Azur HOT-SIMON,3ème ligne,18,/05/2007,,90,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/guillaume-raynaud-18295.html,Guillaume RAYNAUD,3ème ligne,19,/02/2006,,93,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/hugo-ibres-21417.html,Hugo IBRES,3ème ligne,19,/02/2006,,100,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/hugo-soubre-21420.html,Hugo SOUBRE,3ème ligne,17,/10/2007,,95,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/lomig-jouanny-14147.html,Lomig JOUANNY,3ème ligne,21,25/05/2004,,95,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/marc-elie-kouassi-21418.html,Marc-Élie KOUASSI,3ème ligne,17,/11/2007,,90,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/marceau-marzullo-18170.html,Marceau MARZULLO,3ème ligne,19,/01/2006,,100,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/martin-labarthe-21419.html,Martin LABARTHE,3ème ligne,18,/02/2007,,105,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/mathis-castro-ferreira-14784.html,Mathis CASTRO-FERREIRA,3ème ligne,21,13/01/2004,,107,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/sialevailea-tolofua-17050.html,Sialevailea TOLOFUA,3ème ligne,20,/07/2005,,110,JIFF,ESPOIR,2028,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/tom-le-hellard-18294.html,Tom LE HELLARD,3ème ligne,19,/01/2006,,85,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,Italie,,https://www.allrugby.com/joueurs/lorenzo-ferrari-21422.html,Lorenzo FERRARI,Mêlée,19,/07/2006,,-,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/nathan-llaveria-18168.html,Nathan LLAVERIA,Mêlée,19,/07/2006,,78,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/simon-daroque-18167.html,Simon DAROQUE,Mêlée,20,/06/2005,,77,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/zenon-rendu-21421.html,Zénon RENDU,Mêlée,18,/02/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/louis-companyo-18303.html,Louis COMPANYO,Ouverture,19,/08/2006,,80,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/louis-rethore-21423.html,Louis RETHORÉ,Ouverture,19,/01/2006,,83,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/lucien-richardis-17747.html,Lucien RICHARDIS,Ouverture,20,/03/2005,,90,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,Espagne,,https://www.allrugby.com/joueurs/pablo-montero-17707.html,Pablo MONTERO,Ouverture,,-,,-,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/axel-mirande-21424.html,Axel MIRANDE,Centre,17,/10/2007,,83,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,Espagne,,https://www.allrugby.com/joueurs/hugo-pichardie-16810.html,Hugo PICHARDIE,Centre,20,/01/2005,,90,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/killian-bondi-18297.html,Killian BONDI,Centre,19,/02/2006,,80,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/lucas-vigneres-18169.html,Lucas VIGNÈRES,Centre,20,/07/2005,,96,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/mathis-gil-18298.html,Mathis GIL,Centre,19,/03/2006,,80,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/jean-charles-dupleix-21427.html,Jean-Charles DUPLEIX,Ailier,20,/07/2005,,74,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/jeremy-nemor-18171.html,Jérémy NEMOR,Ailier,19,/02/2006,,83,JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/kylian-destarac-18302.html,Kylian DESTARAC,Ailier,19,/01/2006,,74,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/louis-jacquot-21426.html,Louis JACQUOT,Ailier,17,/10/2007,,84,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/martin-thibaut-21425.html,Martin THIBAUT,Ailier,17,/09/2007,,82,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/mathias-bouniol-21019.html,Mathias BOUNIOL,Ailier,20,/05/2005,,79,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/matt-berges-18300.html,Matt BERGÈS,Ailier,19,/01/2006,,78,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/lukas-amati-21580.html,Lukas AMATI,Arrière,18,/09/2007,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/mathis-capus-21429.html,Mathis CAPUS,Arrière,18,/03/2007,,82,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,Belgique,,https://www.allrugby.com/joueurs/matias-remue-12512.html,Matias REMUE,Arrière,22,07/03/2003,,86,NON JIFF,ESPOIR,2026,,TABLE ESPOIRS
+Stade Toulousain,Espagne,,https://www.allrugby.com/joueurs/oriol-marsinyac-20898.html,Oriol MARSINYAC,Arrière,18,/06/2007,,96,NON JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/romeo-mola-21428.html,Roméo MOLA,Arrière,19,/09/2005,,-,JIFF,ESPOIR,,,TABLE ESPOIRS
+Stade Toulousain,France,,https://www.allrugby.com/joueurs/thomas-alary-18172.html,Thomas ALARY,Arrière,19,/09/2006,,92,JIFF,ESPOIR,2026,,TABLE ESPOIRS
